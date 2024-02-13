@@ -1,0 +1,15 @@
+{
+    "context": "client",
+    "identifier": "com.pa.solarcentauri.chinesetranslationcorrection",
+    "display_name": "Chinese Translation Correction",
+    "description": "Fix origin chinese translation error, temportary method",
+    "author": "DrWondertainment",
+    "version": "1.0.1",
+    "signature": "not yet implemented",
+    "priority": 10,
+    "enabled": true,
+    "forum": "",
+    "icon": "https://raw.githubusercontent.com/nhooey/pa-uimod-superselect/master/img/icon.png",
+    "date": "2024-02-14",
+    "build": "116982"
+}
