@@ -147,7 +147,7 @@
         "message": "DPS："
     },
     "DRAW": {
-        "message": "平局"
+        "message": "资源消耗"
     },
     "Destroy selected units?": {
         "message": "是否要摧毁您所选中的单位？"
@@ -339,7 +339,7 @@
         "message": "主视角镜头"
     },
     "PROD": {
-        "message": "督促"
+        "message": "生产"
     },
     "Pause Game": {
         "message": "暂停游戏"
@@ -351,10 +351,10 @@
         "message": "固定到另一侧"
     },
     "Ping": {
-        "message": "延迟"
+        "message": "标记"
     },
     "Ping!": {
-        "message": "延迟！"
+        "message": "标记！"
     },
     "Play From Here": {
         "message": "从这里开始玩"
