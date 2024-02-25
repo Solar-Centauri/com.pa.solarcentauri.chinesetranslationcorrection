@@ -624,10 +624,10 @@
         "message": "空军类"
     },
     "ammo": {
-        "message": "弹药"
+        "message": "军火类"
     },
     "bot": {
-        "message": "机器人"
+        "message": "机器人类"
     },
     "click or press space to close": {
         "message": "单击或按空格键关闭"

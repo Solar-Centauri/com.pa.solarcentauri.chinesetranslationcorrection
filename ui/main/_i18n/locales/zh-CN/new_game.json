@@ -63,7 +63,7 @@
         "message": "最先杀死指挥官的团队获胜（请保护己方最弱的玩家）"
     },
     "For every army a player kills, an economy multiplier is awarded to them that boosts their rate of production": {
-        "message": " 玩家每消灭一支军队，系统就会奖励玩家一个经济倍数，可加快玩家的生产速度"
+        "message": "玩家每消灭一支军队，系统就会奖励玩家一个经济倍数，可加快玩家的生产速度"
     },
     "Free For All": {
         "message": "混战"
@@ -78,7 +78,7 @@
         "message": "游戏模式"
     },
     "Global Spectator Chat": {
-        "message": "全球观战者聊天室"
+        "message": "观战者全局聊天"
     },
     "Join": {
         "message": "加入"
@@ -96,7 +96,7 @@
         "message": "每消灭一支军队可得倍数："
     },
     "No green starting zones used. Players can start anywhere they pick.": {
-        "message": " 未使用绿色起始区域。玩家可以从任何地方开始。"
+        "message": "未使用绿色起始区域。玩家可以从任何地方开始。"
     },
     "Open to:": {
         "message": "对谁开放："

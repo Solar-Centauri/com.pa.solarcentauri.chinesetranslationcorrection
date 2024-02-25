@@ -6,7 +6,7 @@
         "message": "联盟"
     },
     "ALLY": {
-        "message": "梦游"
+        "message": "盟友"
     },
     "ALT-FIRE": {
         "message": "副武器"
@@ -345,10 +345,10 @@
         "message": "暂停游戏"
     },
     "Pick a location inside one of the green zones to spawn your Commander.": {
-        "message": "在其中一个绿色区域内选择一个位置来刷出你的指挥官。"
+        "message": "在其中一个绿色区域内选择一个位置来降落你的指挥官。"
     },
     "Pin to opposite side": {
-        "message": "固定到另一侧"
+        "message": "固定到对面一侧"
     },
     "Ping": {
         "message": "标记"
@@ -462,7 +462,7 @@
         "message": "滚动鼠标滚轮来放大和缩小。"
     },
     "Second Camera PIP": {
-        "message": "第二镜头PIP"
+        "message": "第二镜头画中画"
     },
     "Select a new gravity well.": {
         "message": "选择一个新的重力井。"
@@ -501,7 +501,7 @@
         "message": "选中空闲的工厂"
     },
     "Send to Annihilate": {
-        "message": "发送歼灭"
+        "message": "发送以歼灭"
     },
     "Set course for annihilation": {
         "message": "设置歼灭路线"
@@ -552,7 +552,7 @@
         "message": "世界模拟已消失"
     },
     "Waiting for other players to select a spawn location.": {
-        "message": "等待其他玩家选择刷新位置。"
+        "message": "等待其他玩家选择降落位置。"
     },
     "Yes": {
         "message": "是的"
@@ -597,10 +597,10 @@
         "message": "__victim_name__被__killer_name__歼灭了。"
     },
     "air": {
-        "message": "空中"
+        "message": "空中类"
     },
     "ammo": {
-        "message": "弹药"
+        "message": "军火类"
     },
     "army": {
         "message": "军队"
@@ -618,10 +618,10 @@
         "message": "轨道"
     },
     "sea": {
-        "message": "海上"
+        "message": "海军"
     },
     "utility": {
-        "message": "效用"
+        "message": "设施"
     },
     "vehicle": {
         "message": "载具"

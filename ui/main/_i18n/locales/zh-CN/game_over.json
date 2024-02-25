@@ -39,7 +39,7 @@
         "message": "退出并返回主菜单"
     },
     "REVIEW": {
-        "message": "审查"
+        "message": "回顾"
     },
     "Requeue": {
         "message": "重进队列"

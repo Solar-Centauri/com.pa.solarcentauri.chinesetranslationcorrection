@@ -459,7 +459,7 @@
         "message": "禁用导航调试信息"
     },
     "disconnect twin": {
-        "message": "断开双床"
+        "message": "取消对称双胞胎"
     },
     "dismiss alert notification": {
         "message": "忽略警报通知"
@@ -747,7 +747,7 @@
         "message": "选择屏幕上所有轨道作战单位"
     },
     "select ammo group": {
-        "message": "选择弹药组"
+        "message": "选择军火组"
     },
     "select bot group": {
         "message": "选择机器人小组"
@@ -771,7 +771,7 @@
         "message": "选择轨道小组（单位）"
     },
     "select sea group": {
-        "message": "选择海洋小组"
+        "message": "选择海军小组"
     },
     "select utility group": {
         "message": "选择功能小组"
