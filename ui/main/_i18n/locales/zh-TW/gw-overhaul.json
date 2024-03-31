@@ -498,7 +498,7 @@
         "message": "精通"
     },
     "Max Advanced Fabbers": {
-        "message": "最大進階建造物"
+        "message": "最大進階建造兵"
     },
     "Max Basic Fabbers": {
         "message": "最大工廠"
@@ -858,10 +858,10 @@
         "message": "「軍團機器」的目標很單純——征服。不屈之王英維特斯是銀河的指定統治者，任何違反這道指令的指揮官都是錯誤的。"
     },
     "The most advanced fabbers each enemy army will build.": {
-        "message": "每支敵方軍隊將建造的最進階建造物。"
+        "message": "每支敵方軍隊將建造的最進階建造兵。"
     },
     "The most basic fabbers each enemy army will build.": {
-        "message": "每支敵方軍隊將建造的最建造物。"
+        "message": "每支敵方軍隊將建造的最建造兵。"
     },
     "The number of enemy factions is adjusted for the galaxy's size.": {
         "message": "根據銀河系的尺寸調整敵方派系的數量。"

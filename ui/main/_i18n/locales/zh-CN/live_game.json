@@ -240,7 +240,7 @@
         "message": "生命值"
     },
     "HOLD": {
-        "message": "驻停"
+        "message": "停火"
     },
     "HOLD POSITION": {
         "message": "原位驻停"

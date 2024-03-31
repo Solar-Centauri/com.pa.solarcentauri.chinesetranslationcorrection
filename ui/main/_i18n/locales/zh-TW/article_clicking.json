@@ -1,9 +1,9 @@
 {
     "Clicking": {
-        "message": "按一下"
+        "message": "點擊"
     },
     "PA Guide: Clicking": {
-        "message": "PA指南：按一下"
+        "message": "PA指南：點擊"
     },
     "[style=text_callout]Double click[/style] a unit to select similar units": {
         "message": "[style=text_callout]按兩下[/style]一個單位來選取類似的單位"

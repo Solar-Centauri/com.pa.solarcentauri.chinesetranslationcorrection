@@ -195,7 +195,7 @@
         "message": "建造單位"
     },
     "Fabber": {
-        "message": "建造物"
+        "message": "建造兵"
     },
     "Fabricator Count": {
         "message": "建造單位數目"
@@ -240,7 +240,7 @@
         "message": "生命值"
     },
     "HOLD": {
-        "message": "停止"
+        "message": "停火"
     },
     "HOLD POSITION": {
         "message": "保持位置"
@@ -258,7 +258,7 @@
         "message": "裝載"
     },
     "MANEUVER": {
-        "message": "調動"
+        "message": "機動"
     },
     "MOVE": {
         "message": "移動"
@@ -393,7 +393,7 @@
         "message": "反擊"
     },
     "ROAM": {
-        "message": "巡迴"
+        "message": "漫遊"
     },
     "Radius": {
         "message": "半徑"
@@ -483,7 +483,7 @@
         "message": "選擇所有在視野內的機器人單位"
     },
     "Select all fabber units in view": {
-        "message": "選擇所有在視野內的建造物單位"
+        "message": "選擇所有在視野內的建造兵單位"
     },
     "Select all naval units in view": {
         "message": "選擇所有在視野內的水上單位"
@@ -495,7 +495,7 @@
         "message": "選擇所有在視野內的載具單位"
     },
     "Select idle fabbers": {
-        "message": "選取閒置的建造物"
+        "message": "選取閒置的建造兵"
     },
     "Select idle factories": {
         "message": "選取閒置的工廠"

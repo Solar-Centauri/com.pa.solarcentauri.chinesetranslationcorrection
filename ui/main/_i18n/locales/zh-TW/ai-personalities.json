@@ -1,6 +1,6 @@
 {
     "AIP Aggressive": {
-        "message": "AIP 積極"
+        "message": "AIP 好戰"
     },
     "AIP Air": {
         "message": "AIP 空軍"
@@ -18,7 +18,7 @@
         "message": "AIP 經濟學家"
     },
     "AIP Fabber": {
-        "message": "AIP 建造物"
+        "message": "AIP 建造兵"
     },
     "AIP Fast Tech": {
         "message": "AIP 快速科技"

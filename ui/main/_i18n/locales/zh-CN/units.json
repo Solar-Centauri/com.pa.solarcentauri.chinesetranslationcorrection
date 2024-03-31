@@ -3,7 +3,7 @@
         "message": "高级空军工厂"
     },
     "Advanced Anti-Air - Overhead heavy damage. Only attacks air.": {
-        "message": "高级防空武装 - 可在空中造成严重伤害。只能攻击空中目标。"
+        "message": "高级防空武装 - 可对空中造成严重伤害。只能攻击空中目标。"
     },
     "Advanced Artillery - Extremely long range heavy damage. Can lay siege from very far away. Attacks land and sea targets.": {
         "message": "高级火炮 - 射程极远，可造成严重伤害。可进行超远距离围攻。可攻击地面和海上目标。"

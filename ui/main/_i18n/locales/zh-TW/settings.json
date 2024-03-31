@@ -393,7 +393,7 @@
         "message": "建造化身工廠"
     },
     "build bar groups": {
-        "message": "建造列分組"
+        "message": "建造欄組"
     },
     "build item __item_number__": {
         "message": "建造物件 __item_number__"
@@ -459,7 +459,7 @@
         "message": "停用導覽偵錯資訊"
     },
     "disconnect twin": {
-        "message": "中斷雙子連線"
+        "message": "取消對稱雙胞胎"
     },
     "dismiss alert notification": {
         "message": "關閉提醒通知"
@@ -756,7 +756,7 @@
         "message": "選取工廠群組"
     },
     "select idle fabbers": {
-        "message": "選取閒置的建造物"
+        "message": "選取閒置的建造兵"
     },
     "select orbital group (buildings)": {
         "message": "選取軌道群組（建築物）"

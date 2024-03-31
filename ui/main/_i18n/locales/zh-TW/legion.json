@@ -24,16 +24,16 @@
         "message": "進階機器人工廠"
     },
     "Advanced Builder - Builds basic and advanced structures. Builds air titan. Very mobile. Vulnerable. Less efficient than other builders.": {
-        "message": "進階建造者 - 建造基礎與進階建物。建造空戰泰坦。極具機動性。脆弱。效率低於其他建造單位。"
+        "message": "進階建造兵 - 建造基礎與進階建物。建造空戰泰坦。極具機動性。脆弱。效率低於其他建造單位。"
     },
     "Advanced Builder - Builds basic and advanced structures. Builds bot titan. Cheap. Less powerful than other builders.": {
-        "message": "進階建造者 - 建造基礎與進階建物。建造機器人泰坦。便宜。力量低於其他建造單位。"
+        "message": "進階建造兵 - 建造基礎與進階建物。建造機器人泰坦。便宜。力量低於其他建造單位。"
     },
     "Advanced Builder - Builds basic and advanced structures. Builds vehicle titan. Durable. More powerful than other land and air builders.": {
-        "message": "進階建造者 - 建造基礎與進階建物。建造載具泰坦。耐用。力量高於其他路上及空中建造單位。"
+        "message": "進階建造兵 - 建造基礎與進階建物。建造載具泰坦。耐用。力量高於其他路上及空中建造單位。"
     },
     "Advanced Builder - Builds orbital structures. Builds all titans.": {
-        "message": "進階建造者 - 建造軌道建物。建造所有泰坦。"
+        "message": "進階建造兵 - 建造軌道建物。建造所有泰坦。"
     },
     "Advanced Combat Fabricator - Repairs much faster and auto reclaims wreckage. Can build teleporters and defences in addition to mines.": {
         "message": "進階戰鬥建造單位 - 維修速度較快，並且能自動回收殘骸。除了地雷之外，還可以建造傳送站和防禦設施。"
@@ -261,19 +261,19 @@
         "message": "弓頭鯨級"
     },
     "Builder - Builds advanced structures. Most powerful fabricator.": {
-        "message": "建造者 - 建造進階建物。最強大的建造單位。"
+        "message": "建造兵 - 建造進階建物。最強大的建造單位。"
     },
     "Builder - Builds basic structures. Cheap. Less powerful than other builders.": {
-        "message": "建造者 - 建造基礎建物。便宜。比其他建造者更弱。"
+        "message": "建造兵 - 建造基礎建物。便宜。比其他建造兵更弱。"
     },
     "Builder - Builds basic structures. Durable. More powerful than other basic land and air builders.": {
-        "message": "建造者 - 建造基礎建物。耐用。比其他陸上和空中的基礎建造者強大。"
+        "message": "建造兵 - 建造基礎建物。耐用。比其他陸上和空中的基礎建造兵強大。"
     },
     "Builder - Builds basic structures. Most powerful basic planetary fabricator.": {
-        "message": "建造者- 建造基礎建物。最強大的基礎行星建造單位。"
+        "message": "建造兵- 建造基礎建物。最強大的基礎行星建造單位。"
     },
     "Builder - Builds basic structures. Very mobile. Vulnerable. Less efficient than other builders.": {
-        "message": "建造者 - 建造基礎建物。極具機動性。脆弱。效率低於其他建造單位。"
+        "message": "建造兵 - 建造基礎建物。極具機動性。脆弱。效率低於其他建造單位。"
     },
     "Camera Target": {
         "message": "鏡頭目標"
@@ -300,10 +300,10 @@
         "message": "凝塊"
     },
     "Combat Builder - Builds mines, radar and teleporters. Detects mines. Repairs friendly units. Can't help build other structures.": {
-        "message": "戰鬥建造者 - 建造地雷、雷達與傳送站。可偵測地雷。修復友方單位。無法協助建造其他建物。"
+        "message": "戰鬥建造兵 - 建造地雷、雷達與傳送站。可偵測地雷。修復友方單位。無法協助建造其他建物。"
     },
     "Combat Builder - Builds mines, shields and turrets. Detects mines. Repairs friendly units. Can't help build other structures.": {
-        "message": "戰鬥建造者 - 建造地雷、護盾與砲塔。可偵測地雷。修復友方單位。無法協助建造其他建物。"
+        "message": "戰鬥建造兵 - 建造地雷、護盾與砲塔。可偵測地雷。修復友方單位。無法協助建造其他建物。"
     },
     "Combat Fabricator - Repairs damaged units. Can build and detect mines. Can build teleporters. Can't help build other structures.": {
         "message": "戰鬥建造單位 - 修理損壞的單位。可以建造和偵測地雷。不能協助建造其他建物。"

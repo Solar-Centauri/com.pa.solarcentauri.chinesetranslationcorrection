@@ -18,7 +18,7 @@
         "message": "PA指南：金屬"
     },
     "Select Fabber, select [style=text_callout]Build Metal Extractor Icon[/style].": {
-        "message": "選取建造物，選取[style=text_callout]建造金屬提煉器圖示[/style]。"
+        "message": "選取建造兵，選取[style=text_callout]建造金屬提煉器圖示[/style]。"
     },
     "[style=text_callout]Left Click + drag[/style] in the world to build over multiple Metal Spots.": {
         "message": "在遊戲世界中[style=text_callout]按滑鼠左鍵並拖曳[/style]以在多個金屬點上建造。"

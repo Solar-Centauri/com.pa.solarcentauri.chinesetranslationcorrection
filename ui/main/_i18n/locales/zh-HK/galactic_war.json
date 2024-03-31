@@ -669,7 +669,7 @@
         "message": "製造單位也可以協助其他製造單位建造結構。"
     },
     "Fabrication units will assist factories and other fabbers in the area.": {
-        "message": "製造單位會協助該區域的工廠和其他建造物。"
+        "message": "製造單位會協助該區域的工廠和其他建造兵。"
     },
     "Faction bosses are much stronger than other enemies. Make sure you're well-equipped before challenging one.": {
         "message": "派系頭目比其他敵人強大得多。在挑戰頭目之前，確保你裝備精良。"
@@ -1509,10 +1509,10 @@
         "message": "[style=control]在指揮官上按滑鼠左鍵[/style]以選擇。"
     },
     "[style=control]Left click on the energy plant[/style] in the build bar at the bottom of the screen.": {
-        "message": "在螢幕下方建造列[style=control]的能源廠[/style]上按滑鼠左鍵。"
+        "message": "在螢幕下方建造欄[style=control]的能源廠[/style]上按滑鼠左鍵。"
     },
     "[style=control]Left click on the metal extractor[/style] in the build bar at the bottom of the screen.": {
-        "message": "在螢幕下方建造列條[style=control]的金屬開採器[/style]上按滑鼠左鍵。"
+        "message": "在螢幕下方建造欄[style=control]的金屬開採器[/style]上按滑鼠左鍵。"
     },
     "[style=control]Left click on the reclaim icon[/style] or press [style=control]E[/style].": {
         "message": "[style=control]在回收圖示[/style]上按滑鼠左鍵或按[style=control]E[/style]。"
@@ -1542,7 +1542,7 @@
         "message": "[style=control]在[/style]橘色的相連星系上按滑鼠左鍵以繼續。"
     },
     "[style=control]Left click[/style] on the energy plant icon on the build bar.": {
-        "message": "在建造列[style=control]的能源廠圖示[/style]上按滑鼠左鍵。"
+        "message": "在建造欄[style=control]的能源廠圖示[/style]上按滑鼠左鍵。"
     },
     "[style=control]Left click[/style] the next star system to select it.": {
         "message": "[style=control]在[/style]下一個星系上按滑鼠左鍵進行選擇。"
@@ -1590,7 +1590,7 @@
         "message": "[style=control]選擇指揮官[/style]並[style=control]下命令[/style]建築[strong]載具工廠[/strong]。"
     },
     "[style=control]Select the commander[/style] and [style=control]left click[/style] on the metal extractor icon in the build bar.": {
-        "message": "[style=control]選擇指揮官[/style]並[style=control]在[/style]建造列的金屬開採器上按滑鼠左鍵。"
+        "message": "[style=control]選擇指揮官[/style]並[style=control]在[/style]建造欄的金屬開採器上按滑鼠左鍵。"
     },
     "[style=control]Select your landing zone[/style] and start the annihilation.": {
         "message": "[style=control]選擇你的登陸區[/style]並開始作戰。"
