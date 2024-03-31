@@ -1,6 +1,6 @@
 {
     "As Efficiency percentage lowers, all fabbers, factories and Commanders build slower": {
-        "message": "如果生成效率较低，所有建造兵、工厂和指挥官的建造速度会变慢"
+        "message": "如果\"效率\"百分比降低，所有建造兵、工厂和指挥官的建造速度会变慢"
     },
     "Build Metal Storage and Energy Storage to stockpile more resources": {
         "message": "建造金属仓库和能源仓库，以储备更多资源"
