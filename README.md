@@ -1,7 +1,5 @@
 # chinese translation correction 中文翻译修正
-A temportary planetary annihilation chinese translations correction project,  
-work as mod now,  
-will finally replace original translations.  
+A temportary planetary annihilation chinese translations correction mod, for testing and opinion collection.
 
 临时翻译修正项目  
 目前以mod方式运行
