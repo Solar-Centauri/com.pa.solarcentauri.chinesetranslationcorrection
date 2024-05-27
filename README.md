@@ -1,4 +1,4 @@
-# chinese translation correction
+# chinese translation correction 中文翻译修正
 A temportary planetary annihilation chinese translations correction project,  
 work as mod now,  
 will finally replace original translations.  
