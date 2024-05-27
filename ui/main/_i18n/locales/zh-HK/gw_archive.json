@@ -1,1 +1,20 @@
-{}
+{
+    "Annihilated": {
+        "message": "已殲滅"
+    },
+    "Archived Wars": {
+        "message": "已歸檔戰爭"
+    },
+    "Details": {
+        "message": "詳情"
+    },
+    "Turns:": {
+        "message": "回合數："
+    },
+    "Victory": {
+        "message": "勝利"
+    },
+    "Wins:": {
+        "message": "勝場："
+    }
+}

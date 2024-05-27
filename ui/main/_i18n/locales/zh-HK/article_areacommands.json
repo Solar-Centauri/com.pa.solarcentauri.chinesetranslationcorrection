@@ -1,1 +1,20 @@
-{}
+{
+    "Area Commands": {
+        "message": "區域命令"
+    },
+    "PA Guide: Area Commands": {
+        "message": "PA 指南：區域命令"
+    },
+    "Select units, click [style=text_callout]Attack button[/style].": {
+        "message": "選中單位，點擊[style=text_callout]攻擊按鈕[/style]。"
+    },
+    "Select units, click [style=text_callout]Patrol button[/style].": {
+        "message": "選中單位，點擊[style=text_callout]巡邏按鈕[/style]。"
+    },
+    "[style=text_callout]Left Click and drag[/style] an area to attack": {
+        "message": "[style=text_callout]按住鼠標左鍵並拖動鼠標[/style] ，選擇要攻擊的區域"
+    },
+    "[style=text_callout]Left Click and drag[/style] an area to patrol": {
+        "message": "[style=text_callout]按住鼠標左鍵並拖動鼠標[/style]，選擇要巡邏的區域"
+    }
+}

@@ -1,1 +1,29 @@
-{}
+{
+    "Cancel": {
+        "message": "取消"
+    },
+    "DOWNLOADING SERVER MODS": {
+        "message": "正在下載服務器模組"
+    },
+    "Loading Game": {
+        "message": "正在載入戰局"
+    },
+    "Loading Replay": {
+        "message": "正在載入回放"
+    },
+    "Returning to Main Menu": {
+        "message": "正在返回主菜單"
+    },
+    "Returning to menu": {
+        "message": "正在返回菜單"
+    },
+    "Starting replay server, please be patient...": {
+        "message": "正在啟動回放服務器，請耐心等待……"
+    },
+    "Unable to load replay": {
+        "message": "無法載入回放"
+    },
+    "Unable to load save game": {
+        "message": "無法載入遊戲存檔"
+    }
+}

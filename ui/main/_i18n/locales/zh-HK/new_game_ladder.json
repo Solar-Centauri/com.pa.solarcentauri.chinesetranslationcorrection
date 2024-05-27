@@ -1,1 +1,56 @@
-{}
+{
+    "1v1": {
+        "message": "1對1"
+    },
+    "Building planets": {
+        "message": "正在建造星球"
+    },
+    "CONNECTION TO SERVER LOST": {
+        "message": "與服務器的連接已丟失"
+    },
+    "Cancel": {
+        "message": "取消"
+    },
+    "Chat": {
+        "message": "聊天"
+    },
+    "Empty": {
+        "message": "空"
+    },
+    "Leave": {
+        "message": "離開"
+    },
+    "Leaving the game will result in a match making timeout penalty.": {
+        "message": "離開遊戲會遭受暫停匹配的懲罰。"
+    },
+    "Main Menu": {
+        "message": "主菜單"
+    },
+    "Opponent abandoned the game": {
+        "message": "對手放棄了遊戲"
+    },
+    "Ranked Match": {
+        "message": "排位賽"
+    },
+    "Requeue": {
+        "message": "重進隊列"
+    },
+    "Requeuing": {
+        "message": "正在重進隊列"
+    },
+    "Returning to Main Menu": {
+        "message": "正在返回主菜單"
+    },
+    "System": {
+        "message": "星系"
+    },
+    "Waiting for opponent to connect": {
+        "message": "正在等待對手連接"
+    },
+    "Warning": {
+        "message": "警告"
+    },
+    "Your opponent abandoned the game and has received a time penalty.": {
+        "message": "你的對手放棄了比賽，並受到了一個時間懲罰。"
+    }
+}

@@ -1,8 +1,230 @@
 {
+    "*Must meet Minimum System Requirements for offline play": {
+        "message": "*必須達到離線遊戲所要求的最低系統配置"
+    },
+    "Account Name:": {
+        "message": "賬號名稱："
+    },
+    "Add To Cart": {
+        "message": "加入購物車"
+    },
+    "Advanced Command And Control": {
+        "message": "進階指令和操控方式"
+    },
+    "Armory": {
+        "message": "軍工廠"
+    },
+    "Automate your armies with intuitive controls and features, allowing you to create and manage massive armies and production lines with ease across multiple fronts on multiple planets at once!": {
+        "message": "通過直觀的控制方式和特性來自動指揮您的軍隊，讓您在同一時間內可以輕鬆自如地在多顆星球的多條戰線上創建和管理超大規模的軍隊與生產線！"
+    },
     "Badges": {
         "message": "徽章"
     },
+    "CHECKOUT": {
+        "message": "結賬"
+    },
+    "Cancel": {
+        "message": "取消"
+    },
+    "Cart": {
+        "message": "購物車"
+    },
+    "Command armies with numbers in the thousands across multiple planets on land, sea, air, and even in orbit.": {
+        "message": "在多顆星球的海陸空甚至軌道上同時率領數以千計的部隊。"
+    },
+    "Commander Name": {
+        "message": "指揮官名稱"
+    },
     "Commanders": {
         "message": "指揮官"
+    },
+    "Confirmation code:": {
+        "message": "確認碼："
+    },
+    "Confirmation of your purchase is provided below.": {
+        "message": "您此次購買的確認信息謹列如下。"
+    },
+    "Continue Shopping": {
+        "message": "繼續購買"
+    },
+    "Coupon code": {
+        "message": "優惠碼"
+    },
+    "Credit applied:": {
+        "message": "已使用點數："
+    },
+    "Designed in collaboration with": {
+        "message": "聯合設計者"
+    },
+    "Devastate your enemies with 5 massive Titan-class super units like the earth-shaking Atlas bot and lightning-wielding Zeus airship!": {
+        "message": "用撼天動地的 Atlas 機器人和揮舞着閃電的 Zeus 飛艇等五種 Titan 級超強單位，讓敵人粉身碎骨！"
+    },
+    "DirectX: Version 9.0c": {
+        "message": "DirectX：9.0c 版"
+    },
+    "Dismiss": {
+        "message": "忽略"
+    },
+    "Elevate your game with new planets that feature multi-level terrain available in both single and multiplayer. Get up to speed faster with a new, streamlined tutorial experience, then take your game to the next level with the new Bounty Mode option for AI skirmish and multiplayer.": {
+        "message": "用自帶多層地形的新行星來讓您的單人遊戲和多人遊戲更上一層樓。通過全新的簡化教程快速熟悉遊戲，然後在電腦散兵戰和多人遊戲中用新增的「賞金模式」選項來將您的遊戲提升到前所未有的全新水平。"
+    },
+    "End games by destroying entire planets with giant lasers, asteroid collisions, and the new planet-splitting Ragnarok Titan!": {
+        "message": "通過巨型激光、小行星撞擊和足以將行星一劈為二的新型 Ragnarok Titan 來摧毀整顆行星，為遊戲畫上震撼人心的句號！"
+    },
+    "Epic Multiplayer": {
+        "message": "史詩級的多人遊戲"
+    },
+    "Epic Scale": {
+        "message": "史詩級的規模"
+    },
+    "Epic Single-Player": {
+        "message": "史詩級的單人遊戲"
+    },
+    "Expand your strategic arsenal with 16 new units such as versatile Hover Tanks, indomitable Orbital Battleships, and voracious Nanobot Swarms!": {
+        "message": "用靈活多用的 Hover Tank、不屈不撓的軌道戰艦和貪得無厭的納米機器人羣等16種新單位來擴展您的戰略武器庫！"
+    },
+    "Galactic War is a twist on traditional real-time strategy campaigns that has players battling across a dynamic galaxy filled with procedurally-generated content. Every playthrough is different.": {
+        "message": "《Galactic War》對傳統即時戰略遊戲進行了徹底革新，讓玩家在充滿程序化生成內容的動態銀河中作戰。每場遊戲都是獨一無二的。"
+    },
+    "Go to Main Menu": {
+        "message": "前往主菜單"
+    },
+    "Graphics: 1 GB GPU RAM / OpenGL 3.2+": {
+        "message": "顯卡：1 GB 顯存 / OpenGL 3.2+"
+    },
+    "Hard Drive: 5 GB available space": {
+        "message": "硬盤：5 GB 可用空間"
+    },
+    "Here's your receipt.": {
+        "message": "這是您的收據。"
+    },
+    "Including everything you loved about Planetary Annihilation:": {
+        "message": "保留了《Planetary Annihilation》中一切讓您愛不釋手的亮點："
+    },
+    "Instant Replays": {
+        "message": "即時回放"
+    },
+    "It appears that you have turned off the Steam Overlay, and we are unable to initiate your purchase without it.": {
+        "message": "您似乎關閉了 Steam Overlay 功能，這樣我們沒有辦法帶您購買遊戲。"
+    },
+    "Item": {
+        "message": "物品"
+    },
+    "Item is already in cart.": {
+        "message": "此物品已在購物車中。"
+    },
+    "Kickstarter Backer": {
+        "message": "Kickstarter 出資人"
+    },
+    "Linux": {
+        "message": "Linux"
+    },
+    "Mac": {
+        "message": "Mac"
+    },
+    "Mac Mini \"Core i5\" (Late 2014)": {
+        "message": "Mac Mini 「酷睿 i5」（2014年底）"
+    },
+    "Mac Pro \"Quad Core\" with 8GB Memory (2010)": {
+        "message": "配備8GB內存的MacBook Pro 「四核」（2010年）"
+    },
+    "MacBook Air \"Core i5\" (Early 2015)": {
+        "message": "MacBook Air 「酷睿i5」（2015年初）"
+    },
+    "MacBook Pro \"Core i7\" with 8GB Memory (Mid 2012)": {
+        "message": "配備8GB內存的MacBook Pro 「酷睿i7」（2012年中）"
+    },
+    "Memory: 8 GB RAM": {
+        "message": "內存：8 GB RAM"
+    },
+    "Minimum System Requirements": {
+        "message": "最低系統配置要求"
+    },
+    "OS: Any Linux distribution supported by Steam": {
+        "message": "操作系統：Steam 支持的任何 Linux 發行版"
+    },
+    "OS: Windows 7": {
+        "message": "操作系統：Windows 7"
+    },
+    "Play with up to ten friends (or enemies) in massive free-for-all and team-based matches. Or, compete in the 1v1 ranked play ladder.": {
+        "message": "與多達十位好友（或敵人）一起參加完全免費的超大規模團隊比賽，或是在1對1排位賽中展開比拼。"
+    },
+    "Please enjoy all the new units, new worlds, and new ways to annihilate everything!": {
+        "message": "敬請暢享全新的單位、全新的世界和全新的殲滅方式！"
+    },
+    "Please exit the game, find it in your Steam library, right click it, select Properties, and make sure that \"Enable the Steam Overlay while in-game\" is checked. After doing so, start the game and try again.": {
+        "message": "請退出遊戲，在 Steam 庫中右鍵單擊遊戲名稱，選擇「屬性」，確認「在遊戲中啟用Steam 界面」這一選項上已經打了勾，然後打開遊戲再試一次。"
+    },
+    "Price": {
+        "message": "價格"
+    },
+    "Processor: 64-bit Quad Core": {
+        "message": "處理器：64位四核"
+    },
+    "Processor: Quad Core": {
+        "message": "處理器：四核"
+    },
+    "QUIT & INSTALL TITANS": {
+        "message": "退出並安裝《TITANS》"
+    },
+    "REMOVE": {
+        "message": "刪除"
+    },
+    "RTS JUST GOT BIGGER": {
+        "message": "超大規模的即時戰略遊戲"
+    },
+    "Redeem": {
+        "message": "兑換"
+    },
+    "Reset Default Commander": {
+        "message": "重置默認指揮官"
+    },
+    "Return to Armory": {
+        "message": "返回軍工廠"
+    },
+    "Set As Default Commander": {
+        "message": "設置為默認指揮官"
+    },
+    "Smash Planets": {
+        "message": "粉碎星球"
+    },
+    "Steam Overlay Disabled": {
+        "message": "已禁用 Steam Overlay"
+    },
+    "THE TITANS HAVE ARRIVED": {
+        "message": "TITAN 已至"
+    },
+    "TITANS is the huge stand-alone expansion to the already massive-scale RTS Planetary Annihilation, which includes the base game and adds tons of new features:": {
+        "message": "《TITANS》是超大規模即時戰略遊戲《Planetary Annihilation》的獨立擴展包，內容浩瀚豐富，包括遊戲本體和無數新增特性："
+    },
+    "Thank you for purchasing TITANS! You'll find it in your Steam library right next to Planetary Annihilation!": {
+        "message": "感謝您購買《TITANS》！請打開 Steam 遊戲庫，《Planetary Annihilation》的旁邊就是它了！"
+    },
+    "Thank you for your purchase.": {
+        "message": "感謝您的購買。"
+    },
+    "Total:": {
+        "message": "總計："
+    },
+    "Updating...": {
+        "message": "正在更新……"
+    },
+    "Upgrade for:": {
+        "message": "升級價格："
+    },
+    "View in-match recordings in real-time while matches are in progress. See when a battle turned by rewinding the game to any point, and use Play From Here to turn it back in your favor.": {
+        "message": "在比賽期間實時查看遊戲內錄像。將遊戲倒回到任意一個時間點，看清決定局勢變化的關鍵時機，並通過「從這裏開始玩」功能來扭轉戰局。"
+    },
+    "Windows": {
+        "message": "Windows"
+    },
+    "Your cart is empty.": {
+        "message": "您的購物車是空的。"
+    },
+    "Your purchased items are now registered to your account and are accessible in the game.": {
+        "message": "您所購買的物品已登記到您的賬號名下，遊戲期間即可使用。"
+    },
+    "iMac \"Core i5\" (Late 2012)": {
+        "message": "iMac 「酷睿 i5」（2012年底）"
     }
 }

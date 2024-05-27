@@ -1,1 +1,125 @@
-{}
+{
+    "Accept": {
+        "message": "接受"
+    },
+    "Back": {
+        "message": "返回"
+    },
+    "Banned": {
+        "message": "被封"
+    },
+    "Cancel": {
+        "message": "取消"
+    },
+    "Decline": {
+        "message": "拒絕"
+    },
+    "Enter Queue": {
+        "message": "進入隊列"
+    },
+    "Failed to Join": {
+        "message": "未能加入"
+    },
+    "Failed to connect to match making server.": {
+        "message": "未能連接到匹配服務器。"
+    },
+    "Failed to create game.": {
+        "message": "未能創建戰局。"
+    },
+    "Match Making Error": {
+        "message": "匹配錯誤"
+    },
+    "Match Making Penalty": {
+        "message": "匹配懲罰"
+    },
+    "Matchmaking found a match!": {
+        "message": "已找到匹配對手！"
+    },
+    "Offline for Maintenance": {
+        "message": "斷線維護中"
+    },
+    "One or more other players declined or the match expired.": {
+        "message": "一名或多名其他玩家選擇了拒絕，或比賽已過期。"
+    },
+    "Opponent": {
+        "message": "對手"
+    },
+    "Reconnect": {
+        "message": "重新連接"
+    },
+    "Returning to Main Menu": {
+        "message": "正在返回主菜單"
+    },
+    "Unable to connect to server.": {
+        "message": "無法連接服務器。"
+    },
+    "We will be back soon!": {
+        "message": "敬請稍候！"
+    },
+    "You": {
+        "message": "你"
+    },
+    "You are already assigned to a match.": {
+        "message": "你已被分配到了一場比賽。"
+    },
+    "You have been penalized for abandoning a game, please try matchmaking again when your penalty has expired.": {
+        "message": "你因放棄遊戲受到懲罰，請在懲罰結束後再進行匹配。"
+    },
+    "You have been penalized for abandoning a game.": {
+        "message": "你因放棄遊戲而受到懲罰。"
+    },
+    "You were penalized for abandoning, but your penalty has now expired.": {
+        "message": "你因放棄而受到懲罰，但現在你的懲罰已經結束。"
+    },
+    "Your account has been banned. If you believe this is in error, contact us at __email__": {
+        "message": "你的賬號已被封禁。如果你認為這是個錯誤，請通過__email__聯繫我們"
+    },
+    "Your confirmation was not received in time.": {
+        "message": "你的確認未被及時收到。"
+    },
+    "average queue time": {
+        "message": "平均隊列時間"
+    },
+    "beginning match making": {
+        "message": "開始匹配"
+    },
+    "connecting to matchmaker": {
+        "message": "正在連接到匹配器"
+    },
+    "finding game server": {
+        "message": "正在查找遊戲服務器"
+    },
+    "idle": {
+        "message": "空閒"
+    },
+    "leaving match making": {
+        "message": "正在離開匹配"
+    },
+    "leaving queue": {
+        "message": "正在離開隊列"
+    },
+    "match expires in:": {
+        "message": "比賽過期時間："
+    },
+    "match found": {
+        "message": "已找到比賽"
+    },
+    "penalty expires in:": {
+        "message": "懲罰結束時間："
+    },
+    "players in queue": {
+        "message": "隊列中的玩家"
+    },
+    "queue time": {
+        "message": "隊列時間"
+    },
+    "reconnect": {
+        "message": "重新連接"
+    },
+    "searching for opponent": {
+        "message": "正在搜索對手"
+    },
+    "searching for opponents": {
+        "message": "正在搜索對手"
+    }
+}

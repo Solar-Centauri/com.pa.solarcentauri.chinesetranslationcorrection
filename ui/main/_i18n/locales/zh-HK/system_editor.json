@@ -2,35 +2,152 @@
     "Accept": {
         "message": "接受"
     },
+    "Advanced Edit": {
+        "message": "高級編輯"
+    },
+    "Advanced edit planet": {
+        "message": "高級編輯星球"
+    },
+    "Auto": {
+        "message": "自動"
+    },
+    "Base:": {
+        "message": "基數："
+    },
+    "Biome:": {
+        "message": "生物羣落："
+    },
+    "Brushes:": {
+        "message": "草叢："
+    },
     "CLEAR SYSTEM": {
         "message": "清空星系"
     },
     "CLOSE": {
         "message": "關閉"
     },
+    "CSG": {
+        "message": "幾何體"
+    },
+    "Camera": {
+        "message": "鏡頭"
+    },
     "Cancel": {
         "message": "取消"
     },
+    "Creator": {
+        "message": "創作者"
+    },
+    "Data": {
+        "message": "數據"
+    },
+    "Description": {
+        "message": "説明"
+    },
+    "Discard": {
+        "message": "丟棄"
+    },
     "Do you want to save this system?": {
-        "message": "你想要儲存此星系嗎？"
+        "message": "是否要保存此星系？"
     },
     "EDIT PLANET": {
         "message": "編輯星球"
     },
+    "EXPORT SYSTEM": {
+        "message": "導出星系"
+    },
+    "Edit": {
+        "message": "編輯"
+    },
+    "Edit System Info": {
+        "message": "編輯星系信息"
+    },
+    "Flooded": {
+        "message": "被水淹沒"
+    },
+    "GAMEPLAY": {
+        "message": "玩法"
+    },
     "HIDE": {
         "message": "隱藏"
+    },
+    "Height:": {
+        "message": "高度："
+    },
+    "Include:": {
+        "message": "包括："
+    },
+    "Landing Zone Restrictions": {
+        "message": "着陸區限制"
+    },
+    "Landing Zone Size": {
+        "message": "着陸區大小"
+    },
+    "Landing Zones": {
+        "message": "着陸區"
+    },
+    "Latitude:": {
+        "message": "緯度："
+    },
+    "Longitude:": {
+        "message": "經度："
     },
     "MY PLANETS": {
         "message": "我的星球"
     },
     "Mass": {
-        "message": "MASS"
+        "message": "質量"
+    },
+    "Max": {
+        "message": "最大"
+    },
+    "Max Asteroid Count": {
+        "message": "最大小行星數量"
+    },
+    "Mergeable": {
+        "message": "可合併"
+    },
+    "Metal Spots": {
+        "message": "金屬儲藏點"
+    },
+    "Min": {
+        "message": "最小"
+    },
+    "Mouse": {
+        "message": "鼠標"
+    },
+    "NONE": {
+        "message": "沒有"
+    },
+    "No Features": {
+        "message": "無特性"
+    },
+    "Ok": {
+        "message": "好"
+    },
+    "Once in Advanced Edit mode, the planet will remain in this mode for future edits.": {
+        "message": "一旦進入高級編輯模式下，該行星將在以後的編輯中始終保留在此模式中。"
     },
     "PREVIEW ALL": {
-        "message": "預覽全部"
+        "message": "全部預覽"
+    },
+    "Pathable": {
+        "message": "可用作路徑"
     },
     "Position": {
         "message": "位置"
+    },
+    "Preview": {
+        "message": "預覽"
+    },
+    "Preview planet": {
+        "message": "預覽星球"
+    },
+    "Preview to copy CSG": {
+        "message": "預覽以複製 CSG"
+    },
+    "Properties": {
+        "message": "屬性"
     },
     "RECENT": {
         "message": "最近"
@@ -38,28 +155,220 @@
     "REMOVE": {
         "message": "移除"
     },
+    "REMOVE ASTEROID BELT": {
+        "message": "刪除小行星帶"
+    },
+    "Radius:": {
+        "message": "半徑："
+    },
     "SAVE SYSTEM": {
-        "message": "儲存星系"
+        "message": "保存星系"
+    },
+    "SELECT CSG": {
+        "message": "選擇 CSG"
     },
     "SHOW": {
         "message": "顯示"
     },
+    "SIMULATE": {
+        "message": "模擬"
+    },
+    "STOP": {
+        "message": "停止"
+    },
     "Save": {
         "message": "保存"
     },
+    "Save as template": {
+        "message": "保存為模板"
+    },
+    "Seed:": {
+        "message": "種子："
+    },
+    "Selected CSG": {
+        "message": "所選 CSG"
+    },
+    "Shuffle Landing Zones": {
+        "message": "隨機選擇着陸區"
+    },
+    "Spawn Delay (in seconds)": {
+        "message": "刷新延遲（秒）"
+    },
+    "Spots:": {
+        "message": "點位："
+    },
+    "Starting Asteroid Count": {
+        "message": "初始小行星數量"
+    },
+    "Starting planet options": {
+        "message": "初始星球選項"
+    },
+    "System Designer": {
+        "message": "星系設計器"
+    },
+    "System Name:": {
+        "message": "星系名稱："
+    },
+    "System radius is too large.": {
+        "message": "星系半徑過大。"
+    },
+    "System radius is too small.": {
+        "message": "星系半徑過小。"
+    },
+    "System requires at least one starting planet.": {
+        "message": "星系需要至少一個起始星球。"
+    },
+    "TEMPLATES": {
+        "message": "模板"
+    },
+    "TERRAIN": {
+        "message": "地形"
+    },
+    "TERRAIN AND CSG": {
+        "message": "地形和幾何體"
+    },
+    "Temp": {
+        "message": "暫時"
+    },
+    "Temp:": {
+        "message": "暫時："
+    },
     "The planet is loading. This can take a long time.": {
-        "message": "橫掃千星正在載入中。需等待一段時間。"
+        "message": "星球加載中。可能需要很長時間。"
+    },
+    "The program will be unresponsive until the planet has finished.": {
+        "message": "在星球完成之前，這個程序將沒有響應。"
     },
     "The system has been changed since it was last saved.": {
-        "message": "星系自上次儲存以來已被改動。"
+        "message": "星系在上次保存以後已更改。"
     },
     "The system has not been saved.": {
-        "message": "此星系尚未被儲存。"
+        "message": "此星系尚未保存。"
+    },
+    "This planet has been customized. It must be fully built before modifying.": {
+        "message": "這個星球已被自定義，在修改前，它必須完全生成。"
+    },
+    "Use [style=hotkey_title]__hotkey__[/style] to delete.": {
+        "message": "按[style=hotkey_title]__hotkey__[/style]鍵即可刪除。"
+    },
+    "Use [style=hotkey_title]__hotkey__[/style] to place a landing zone below the cursor.": {
+        "message": "使用[style=hotkey_title]__hotkey__[/style]鍵在光標下方放置着陸區。"
+    },
+    "Use [style=hotkey_title]__hotkey__[/style] to place a metal spot below the cursor.": {
+        "message": "使用[style=hotkey_title]__hotkey__[/style]鍵在光標下放置金屬點位。"
+    },
+    "Use as a starting planet": {
+        "message": "用作起始星球"
+    },
+    "Variance:": {
+        "message": "變動："
     },
     "Velocity": {
-        "message": "VELOCITY"
+        "message": "速度"
+    },
+    "Version": {
+        "message": "版本"
     },
     "Water": {
         "message": "水"
+    },
+    "Water:": {
+        "message": "水："
+    },
+    "X": {
+        "message": "X"
+    },
+    "X:": {
+        "message": "X："
+    },
+    "Y": {
+        "message": "Y"
+    },
+    "Y:": {
+        "message": "Y："
+    },
+    "You will have to fix the system before saving.": {
+        "message": "您必須先修復此星系才能進行保存。"
+    },
+    "You will not be able to revert back and use standard editing controls.": {
+        "message": "你將無法恢復，也無法使用標準編輯控件。"
+    },
+    "Z": {
+        "message": "Z"
+    },
+    "Z:": {
+        "message": "Z："
+    },
+    "Zones:": {
+        "message": "區域："
+    },
+    "biome": {
+        "message": "生物羣落"
+    },
+    "edit asteroid belt": {
+        "message": "編輯小行星帶"
+    },
+    "edit planet": {
+        "message": "編輯星球"
+    },
+    "height": {
+        "message": "高度"
+    },
+    "height range": {
+        "message": "高度範圍"
+    },
+    "landing zone size": {
+        "message": "着陸區大小"
+    },
+    "landing zones per army": {
+        "message": "着陸區/每支軍隊"
+    },
+    "metal clusters": {
+        "message": "金屬簇"
+    },
+    "metal density": {
+        "message": "金屬密度"
+    },
+    "metal spots": {
+        "message": "金屬儲藏點"
+    },
+    "metal spots on asteroids": {
+        "message": "小行星上的金屬點位"
+    },
+    "planet name": {
+        "message": "星球名稱"
+    },
+    "preview landing zones by number of armies": {
+        "message": "按軍隊數量預覽着陸區"
+    },
+    "radius": {
+        "message": "半徑："
+    },
+    "seed": {
+        "message": "種子"
+    },
+    "start spots": {
+        "message": "起始點"
+    },
+    "symmetry type": {
+        "message": "對稱類型"
+    },
+    "temperature": {
+        "message": "温度"
+    },
+    "terrain": {
+        "message": "地形"
+    },
+    "terrain and gameplay": {
+        "message": "地形與玩法"
+    },
+    "thrusters required for attack": {
+        "message": "攻擊需要推進器"
+    },
+    "water coverage": {
+        "message": "水覆蓋"
+    },
+    "water depth": {
+        "message": "水深"
     }
 }

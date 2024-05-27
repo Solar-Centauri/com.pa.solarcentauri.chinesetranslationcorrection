@@ -1,35 +1,647 @@
 {
+    "ALL": {
+        "message": "全部"
+    },
+    "ALLIANCES": {
+        "message": "聯盟"
+    },
+    "ALLY": {
+        "message": "盟友"
+    },
+    "ALT-FIRE": {
+        "message": "副武器"
+    },
+    "ANNIHILATE EVERYTHING": {
+        "message": "殲滅一切"
+    },
+    "ANNIHILATED": {
+        "message": "已殲滅"
+    },
+    "APS:": {
+        "message": "APS："
+    },
+    "ARMY": {
+        "message": "軍隊"
+    },
+    "ASSIST": {
+        "message": "協助"
+    },
+    "AT WILL": {
+        "message": "自由"
+    },
+    "ATTACK": {
+        "message": "攻擊"
+    },
+    "ATTACKING": {
+        "message": "正在攻擊"
+    },
+    "Abandon War": {
+        "message": "放棄戰爭"
+    },
+    "Accept": {
+        "message": "接受"
+    },
+    "Activate planetary laser": {
+        "message": "激活星球激光炮"
+    },
+    "Add": {
+        "message": "添加"
+    },
+    "Advanced": {
+        "message": "高級"
+    },
+    "Air": {
+        "message": "空中"
+    },
+    "All catalysts online on __planet_name__! Click here to annihilate!": {
+        "message": "__planet_name__上所有的催化劑都已連接！點擊這裏進行殲滅！"
+    },
+    "Alliance Request": {
+        "message": "聯盟申請"
+    },
+    "Alliance requested": {
+        "message": "已申請聯盟"
+    },
+    "Allied With:": {
+        "message": "結盟："
+    },
+    "Allied __unit_name__ lost.": {
+        "message": "盟友__unit_name__已被消滅。"
+    },
+    "Are you sure you want to abandon this Galactic War?[br](All progress and Tech will be lost.)": {
+        "message": "確定要放棄這場銀河戰爭嗎？[br]（將丟失所有進度和科技。）"
+    },
+    "Army": {
+        "message": "軍隊"
+    },
+    "Army Count": {
+        "message": "軍隊總人數"
+    },
+    "BUILD MODE": {
+        "message": "建造模式"
+    },
+    "Bot": {
+        "message": "機器人"
+    },
+    "Bounty Econ Multiplier": {
+        "message": "賞金經濟倍率"
+    },
+    "Bounty kill rewarded. Econ multipliers enabled.": {
+        "message": "獲得賞金擊殺獎勵。經濟倍率已啟動。"
+    },
+    "Build Efficiency": {
+        "message": "建造效率"
+    },
     "CONNECTION TO SERVER LOST": {
-        "message": "與伺服器的連線中斷"
+        "message": "與服務器的連接丟失"
+    },
+    "CONTINUOUS": {
+        "message": "連續"
     },
     "Cancel": {
         "message": "取消"
     },
+    "Cancel Fire": {
+        "message": "取消發射"
+    },
+    "Cancel Move": {
+        "message": "取消移動"
+    },
+    "Capture main view": {
+        "message": "主視角截圖"
+    },
+    "Change orbit": {
+        "message": "改變軌道"
+    },
     "Chrono Cam": {
-        "message": "時空回放系統"
+        "message": "時光鏡頭"
+    },
+    "Chrono Cam Replay": {
+        "message": "時光鏡頭回放"
+    },
+    "Close": {
+        "message": "關閉"
+    },
+    "Commander": {
+        "message": "指揮官"
+    },
+    "Continue Tutorial": {
+        "message": "繼續教程"
+    },
+    "Continue War": {
+        "message": "繼續戰爭"
+    },
+    "Count": {
+        "message": "計數"
+    },
+    "DMG": {
+        "message": "DMG"
+    },
+    "DMG:": {
+        "message": "DMG："
+    },
+    "DPS": {
+        "message": "DPS"
+    },
+    "DPS:": {
+        "message": "DPS："
+    },
+    "DRAW": {
+        "message": "資源消耗"
+    },
+    "Destroy selected units?": {
+        "message": "是否要摧毀您所選中的單位？"
+    },
+    "ECONOMY": {
+        "message": "經濟"
+    },
+    "ENERGY ORDERS": {
+        "message": "能源指令"
+    },
+    "Eff": {
+        "message": "效"
+    },
+    "Efficiency": {
+        "message": "效率"
+    },
+    "Enemy Contact!": {
+        "message": "遭遇敵軍！"
+    },
+    "Energy": {
+        "message": "能源"
+    },
+    "Energy Efficiency": {
+        "message": "能源效率"
+    },
+    "Energy Expended": {
+        "message": "能源消耗"
+    },
+    "Energy Produced": {
+        "message": "能源生產"
+    },
+    "Energy Storage": {
+        "message": "能源倉庫"
     },
     "Exit Game?": {
-        "message": "離開遊戲?"
+        "message": "退出戰局？"
+    },
+    "FABRICATING": {
+        "message": "正在建造"
+    },
+    "FIRE ORDERS": {
+        "message": "發射指令"
+    },
+    "Fab": {
+        "message": "建"
+    },
+    "Fabber": {
+        "message": "建造兵"
+    },
+    "Fabricator Count": {
+        "message": "建造兵總數"
+    },
+    "Fac": {
+        "message": "廠"
+    },
+    "Factory": {
+        "message": "工廠"
+    },
+    "Factory Count": {
+        "message": "工廠總數"
+    },
+    "Fire Weapon": {
+        "message": "發射武器"
+    },
+    "Follow alerts": {
+        "message": "跟蹤警報"
+    },
+    "GAME PAUSED": {
+        "message": "遊戲暫停"
+    },
+    "Game Menu": {
+        "message": "遊戲菜單"
+    },
+    "Game Ready": {
+        "message": "戰局就緒"
     },
     "Game Settings": {
-        "message": "遊戲設定"
+        "message": "遊戲設置"
+    },
+    "Game Stats": {
+        "message": "戰局統計數據"
+    },
+    "Game has been paused. You will receive a victory if your opponent does not reconnect within 180 seconds.": {
+        "message": "遊戲已暫停。如果你的對手在180秒內沒有重新連接，你將獲得勝利。"
+    },
+    "Game starts in": {
+        "message": "遊戲開始倒計時："
+    },
+    "HEALTH": {
+        "message": "生命值"
+    },
+    "HOLD": {
+        "message": "停火"
+    },
+    "HOLD POSITION": {
+        "message": "原位駐停"
+    },
+    "Halleys active on __planet_name__! Click here to annihilate!": {
+        "message": "__planet_name__上的哈雷引擎已激活！點擊這裏進行殲滅！"
+    },
+    "Hold the mouse wheel down and drag to pan.": {
+        "message": "按住鼠標滾輪並拖動鼠標，即可平移視角。"
+    },
+    "Ignore": {
+        "message": "忽略"
+    },
+    "LOAD": {
+        "message": "載運"
+    },
+    "MANEUVER": {
+        "message": "機動"
+    },
+    "MOVE": {
+        "message": "移動"
+    },
+    "MOVE ORDERS": {
+        "message": "移動指令"
+    },
+    "Metal": {
+        "message": "金屬"
+    },
+    "Metal Efficiency": {
+        "message": "金屬效率"
+    },
+    "Metal Expended": {
+        "message": "金屬消耗"
+    },
+    "Metal Produced": {
+        "message": "金屬生產"
+    },
+    "Metal Storage": {
+        "message": "金屬倉庫"
+    },
+    "Metal Value": {
+        "message": "金屬價值"
+    },
+    "Mobile": {
+        "message": "移動"
+    },
+    "NORMAL": {
+        "message": "正常"
+    },
+    "Names can only include letters [a-Z] and numbers [0-9].": {
+        "message": "名稱只能包含字母[a-Z]和數字[0-9]。"
+    },
+    "Naval": {
+        "message": "海軍"
+    },
+    "Net Energy Income": {
+        "message": "淨能源收入"
+    },
+    "Net Metal Income": {
+        "message": "淨金屬收入"
+    },
+    "Next": {
+        "message": "下一個"
+    },
+    "No metal": {
+        "message": "沒有金屬"
+    },
+    "Not enough energy": {
+        "message": "能源不足"
+    },
+    "Not enough metal": {
+        "message": "金屬不足"
+    },
+    "Not enough metal or energy": {
+        "message": "金屬或能源不足"
+    },
+    "OFF": {
+        "message": "關閉"
+    },
+    "ON": {
+        "message": "打開"
+    },
+    "Opponent disconnected": {
+        "message": "對手斷開連接"
+    },
+    "Orbital": {
+        "message": "軌道"
+    },
+    "PATROL": {
+        "message": "巡邏"
+    },
+    "PLAYER": {
+        "message": "玩家"
+    },
+    "POV Camera": {
+        "message": "主視角鏡頭"
+    },
+    "PROD": {
+        "message": "生產"
+    },
+    "Pause Game": {
+        "message": "暫停遊戲"
     },
     "Pick a location inside one of the green zones to spawn your Commander.": {
-        "message": "在綠色區域中挑選你的指揮官出戰位置。"
+        "message": "在其中一個綠色區域內選擇一個位置來降落你的指揮官。"
+    },
+    "Pin to opposite side": {
+        "message": "固定到對面一側"
+    },
+    "Ping": {
+        "message": "標記"
+    },
+    "Ping!": {
+        "message": "標記！"
+    },
+    "Play From Here": {
+        "message": "從這裏開始玩"
+    },
+    "Player Guide": {
+        "message": "玩家指南"
     },
     "Position targeted. Click to confirm.": {
-        "message": "位置鎖定. 點擊確認."
+        "message": "位置已選定。點擊確認。"
+    },
+    "Prev": {
+        "message": "上一個"
     },
     "Quit": {
-        "message": "結束"
+        "message": "退出"
+    },
+    "Quit Game": {
+        "message": "退出遊戲"
+    },
+    "Quit to Main Menu": {
+        "message": "退至主菜單"
+    },
+    "READY": {
+        "message": "就緒"
+    },
+    "RECLAIM": {
+        "message": "回收"
+    },
+    "RECLAIMING": {
+        "message": "正在回收"
+    },
+    "REPAIR": {
+        "message": "維修"
+    },
+    "RETURN FIRE": {
+        "message": "還擊"
+    },
+    "ROAM": {
+        "message": "漫遊"
+    },
+    "Radius": {
+        "message": "半徑"
+    },
+    "Request pending": {
+        "message": "待定請求"
+    },
+    "Resume": {
+        "message": "恢復"
+    },
+    "Resume Game": {
+        "message": "恢復遊戲"
+    },
+    "Resume from here?": {
+        "message": "從這裏開始恢復？"
+    },
+    "Return to Galactic War": {
+        "message": "返回銀河戰爭"
     },
     "Returning to Main Menu": {
-        "message": "正在返回主目錄"
+        "message": "正在返回主菜單"
+    },
+    "Rewinding Time": {
+        "message": "快退時間"
+    },
+    "SELECTING": {
+        "message": "正在選擇"
+    },
+    "SHARE ECO": {
+        "message": "共享經濟"
+    },
+    "SHARED ENERGY:": {
+        "message": "共享能源："
+    },
+    "SHARED METAL:": {
+        "message": "共享金屬："
+    },
+    "SPECIAL-MOVE": {
+        "message": "特殊動作"
     },
     "START ANNIHILATION": {
-        "message": "開始殲滅行動"
+        "message": "開始殲滅"
+    },
+    "STOP": {
+        "message": "停止"
+    },
+    "STORAGE": {
+        "message": "倉庫"
+    },
+    "Save": {
+        "message": "保存"
+    },
+    "Save Game": {
+        "message": "保存遊戲"
+    },
+    "Save complete": {
+        "message": "保存完成"
+    },
+    "Save game?": {
+        "message": "保存遊戲？"
+    },
+    "Saving game": {
+        "message": "正在保存遊戲"
+    },
+    "Scroll mouse wheel to zoom in and out.": {
+        "message": "滾動鼠標滾輪來放大和縮小。"
+    },
+    "Second Camera PIP": {
+        "message": "第二鏡頭畫中畫"
+    },
+    "Select a new gravity well.": {
+        "message": "選擇一個新的重力井。"
+    },
+    "Select a planet to attack.": {
+        "message": "選擇要攻擊的星球。"
+    },
+    "Select a planet to destroy.": {
+        "message": "選擇要摧毀的星球。"
+    },
+    "Select all advanced units in view": {
+        "message": "選擇視野中所有高級單位"
+    },
+    "Select all air units in view": {
+        "message": "選擇視野中所有空中單位"
+    },
+    "Select all bot units in view": {
+        "message": "選擇視野中所有機器人單位"
+    },
+    "Select all fabber units in view": {
+        "message": "選擇視野中所有構造單位"
+    },
+    "Select all naval units in view": {
+        "message": "選擇視野中所有海軍單位"
+    },
+    "Select all orbital units in view": {
+        "message": "選擇視野中所有軌道單位"
+    },
+    "Select all vehicle units in view": {
+        "message": "選擇視野中所有載具單位"
+    },
+    "Select idle fabbers": {
+        "message": "選中空閒的建造兵"
+    },
+    "Select idle factories": {
+        "message": "選中空閒的工廠"
+    },
+    "Send to Annihilate": {
+        "message": "發送以殲滅"
+    },
+    "Set course for annihilation": {
+        "message": "設置殲滅路線"
+    },
+    "Set target spot": {
+        "message": "設置目標點"
+    },
+    "Sim Performance": {
+        "message": "模擬表現"
+    },
+    "Social Bar": {
+        "message": "社交欄"
+    },
+    "Surrender": {
+        "message": "投降"
+    },
+    "Surrender Game?": {
+        "message": "投降遊戲？"
+    },
+    "Swap cameras": {
+        "message": "切換鏡頭"
+    },
+    "TRANSPORT": {
+        "message": "運輸"
+    },
+    "Then confirm destination to set course.": {
+        "message": "然後確認目的地來設置路線。"
+    },
+    "This process can take a while.": {
+        "message": "此過程可能需要一段時間。"
+    },
+    "Toggle POV Camera": {
+        "message": "開/關主視角鏡頭"
+    },
+    "UNLOAD": {
+        "message": "卸運"
+    },
+    "USE": {
+        "message": "使用"
+    },
+    "Unknown": {
+        "message": "未知"
+    },
+    "Vehicle": {
+        "message": "載具"
+    },
+    "WORLD SIMULATION WENT AWAY": {
+        "message": "世界模擬已消失"
+    },
+    "Waiting for other players to select a spawn location.": {
+        "message": "等待其他玩家選擇降落位置。"
     },
     "Yes": {
-        "message": "是"
+        "message": "是的"
+    },
+    "__metal_spots__ metal": {
+        "message": "__metal_spots__金屬"
+    },
+    "__num_idle_fabbers__ Idle": {
+        "message": "__num_idle_fabbers__空閒"
+    },
+    "__num_idle_factories__ Idle": {
+        "message": "__num_idle_factories__空閒"
+    },
+    "__unit_name__ arrived.": {
+        "message": "__unit_name__已抵達。"
+    },
+    "__unit_name__ destroyed.": {
+        "message": "__unit_name__已摧毀。"
+    },
+    "__unit_name__ idle.": {
+        "message": "__unit_name__空閒。"
+    },
+    "__unit_name__ launched!": {
+        "message": "__unit_name__發射！"
+    },
+    "__unit_name__ located.": {
+        "message": "__unit_name__已定位。"
+    },
+    "__unit_name__ lost.": {
+        "message": "__unit_name__已損失。"
+    },
+    "__unit_name__ ready.": {
+        "message": "__unit_name__就緒。"
+    },
+    "__unit_name__ under attack.": {
+        "message": "__unit_name__遭到攻擊。"
+    },
+    "__victim_name__ has been annihilated.": {
+        "message": "__victim_name__被殲滅了。"
+    },
+    "__victim_name__ was annihilated by __killer_name__.": {
+        "message": "__victim_name__被__killer_name__殲滅了。"
+    },
+    "air": {
+        "message": "空中類"
+    },
+    "ammo": {
+        "message": "軍火類"
+    },
+    "army": {
+        "message": "軍隊"
+    },
+    "bot": {
+        "message": "機器人"
+    },
+    "combat": {
+        "message": "作戰類"
+    },
+    "factory": {
+        "message": "工廠類"
+    },
+    "orbital": {
+        "message": "軌道"
+    },
+    "sea": {
+        "message": "海軍"
+    },
+    "utility": {
+        "message": "設施"
+    },
+    "vehicle": {
+        "message": "載具"
+    },
+    "Alliance?": {
+        "message": "聯盟？"
+    },
+    "Dynamic Alliance": {
+        "message": "動態聯盟"
+    },
+    "Pending": {
+        "message": "待處理"
+    },
+    "Returning to Galactic War": {
+        "message": "正在返回銀河戰爭"
+    },
+    "SHARE": {
+        "message": "共享"
+    },
+    "Share Economy": {
+        "message": "共享經濟"
     }
 }

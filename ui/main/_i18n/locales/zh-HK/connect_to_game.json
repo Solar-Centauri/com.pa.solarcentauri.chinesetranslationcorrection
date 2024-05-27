@@ -1,26 +1,77 @@
 {
+    "ACCESS TO WORLD SIMULATION DENIED": {
+        "message": "訪問世界模擬被拒絕"
+    },
+    "ACCESSING WORLD SIMULATION": {
+        "message": "正在訪問世界模擬"
+    },
+    "ATTEMPTS REMAINING: __num_attempts_remaining__": {
+        "message": "剩餘嘗試次數：__num_attempts_remaining__"
+    },
+    "CONNECTING TO SERVER": {
+        "message": "正在連接服務器"
+    },
+    "CONNECTION TO SERVER CANCELED": {
+        "message": "與服務器的連接已取消"
+    },
     "CONNECTION TO SERVER FAILED": {
-        "message": "無法與伺服器建立連線"
+        "message": "連接服務器失敗"
     },
     "CONNECTION TO SERVER LOST": {
-        "message": "與伺服器的連線已中斷"
+        "message": "與服務器的連接已丟失"
+    },
+    "CREATING WORLD SIMULATION": {
+        "message": "正在創建模擬世界"
+    },
+    "Cancel": {
+        "message": "取消"
+    },
+    "DOWNLOADING SERVER MODS": {
+        "message": "正在下載服務器模組"
+    },
+    "FAILED TO GET PERMISSION": {
+        "message": "許可獲取失敗"
     },
     "FAILED TO JOIN GAME": {
-        "message": "無法加入遊戲"
+        "message": "加入戰局失敗"
+    },
+    "FAILED TO LOAD GAME": {
+        "message": "載入戰局失敗"
     },
     "FAILED TO START GAME": {
-        "message": "無法開始遊戲"
+        "message": "開始戰局失敗"
     },
     "FAILED TO START REPLAY": {
-        "message": "無法撥放戰鬥錄影"
+        "message": "開始回放失敗"
     },
     "LOGIN ACCEPTED": {
-        "message": "接受登入"
+        "message": "登錄已接受"
     },
     "LOGIN TO SERVER REJECTED": {
-        "message": "伺服器拒絕登入"
+        "message": "登錄服務器被拒絕"
+    },
+    "REMOUNTING SERVER MODS": {
+        "message": "正在重新安裝服務器模組"
+    },
+    "REQUESTING PERMISSION": {
+        "message": "正在請求許可"
     },
     "Returning to Main Menu": {
-        "message": "返回主目錄"
+        "message": "正在返回主菜單"
+    },
+    "STARTING GAME": {
+        "message": "正在開始戰局"
+    },
+    "UNABLE TO ACCESS WORLD SIMULATION": {
+        "message": "無法訪問世界模擬"
+    },
+    "UPLOADING SERVER MODS... PLEASE WAIT": {
+        "message": "正在上傳服務器模組……請稍等"
+    },
+    "WORLD SIMULATION WENT AWAY": {
+        "message": "模擬世界消失了"
+    },
+    "You are starting an offline game, but your system does not meet the recommended specifications for offline play. Your gameplay experience may be negatively affected.": {
+        "message": "您即將開始離線遊戲，但您的系統並未達到離線遊戲的推薦配置。您的遊戲體驗可能會因此受到負面影響。"
     }
 }

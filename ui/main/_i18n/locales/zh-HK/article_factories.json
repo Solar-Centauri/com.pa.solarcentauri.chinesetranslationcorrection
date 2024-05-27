@@ -1,1 +1,23 @@
-{}
+{
+    "Factories": {
+        "message": "工廠"
+    },
+    "PA Guide: Factories": {
+        "message": "PA 指南：工廠"
+    },
+    "Select a Factory to get access to Build Bar": {
+        "message": "選擇一個工廠來訪問建造欄"
+    },
+    "[style=text_callout]Control + Left Click[/style] a unit to make a factory produce a single one of that unit before continuing with the rest of the build queue.": {
+        "message": "[style=text_callout]Control + 鼠標左鍵[/style]點擊一個單位，以使工廠生產一個該單位，然後再繼續餘下的建造隊列。"
+    },
+    "[style=text_callout]Left Click[/style] units on Build Bar to build": {
+        "message": "在建造欄上，[style=text_callout]鼠標左鍵點擊[/style]要建造的單位"
+    },
+    "[style=text_callout]Right Click[/style] or [style=text_callout]Shift + Right Click[/style] on units to reduce number of units in queue": {
+        "message": "[style=text_callout]鼠標右鍵點擊[/style]或[style=text_callout]Shift + 鼠標右鍵點擊[/style]單位來減少隊列中單位的數量"
+    },
+    "[style=text_callout]Shift + Left Click[/style] units on Build Bar to build multiple": {
+        "message": "在建造欄上，[style=text_callout]Shift + 鼠標左鍵點擊[/style]單位建造多個"
+    }
+}

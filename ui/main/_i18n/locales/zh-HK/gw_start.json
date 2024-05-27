@@ -1,1 +1,137 @@
-{}
+{
+    "ABSURD": {
+        "message": "變態"
+    },
+    "Annihilate enemies on claimed systems to collect their Tech.": {
+        "message": "在已被佔領的星系中消滅敵人來收集他們的科技。"
+    },
+    "Archived Wars": {
+        "message": "已歸檔戰爭"
+    },
+    "Choose a loadout to give your Commander different starting Tech configurations.": {
+        "message": "選擇一個配裝，給你的指揮官不同的初始科技配置。"
+    },
+    "Commander": {
+        "message": "指揮官"
+    },
+    "Difficulty:": {
+        "message": "難度："
+    },
+    "EASY": {
+        "message": "簡單"
+    },
+    "EPIC": {
+        "message": "史詩"
+    },
+    "Explore unclaimed systems to recover Tech.": {
+        "message": "探索未被佔領的星系來回收科技。"
+    },
+    "Faction": {
+        "message": "派系"
+    },
+    "Galactic War": {
+        "message": "銀河戰爭"
+    },
+    "Game name": {
+        "message": "戰局名稱"
+    },
+    "Go to War": {
+        "message": "開戰"
+    },
+    "HARD": {
+        "message": "困難"
+    },
+    "Hardcore": {
+        "message": "硬核"
+    },
+    "How To Play": {
+        "message": "遊戲說明"
+    },
+    "How to Play": {
+        "message": "遊戲說明"
+    },
+    "LARGE": {
+        "message": "較大"
+    },
+    "LOCKED": {
+        "message": "鎖定"
+    },
+    "Loadout": {
+        "message": "配裝"
+    },
+    "MEDIUM": {
+        "message": "中"
+    },
+    "Move from star system to star system collecting Techs. Use those Techs to defeat the enemy faction leaders and conquer the galaxy!": {
+        "message": "從各個星系收集科技，再用這些科技擊敗敵方派系首領，征服整個銀河系！"
+    },
+    "NORMAL": {
+        "message": "普通"
+    },
+    "Name": {
+        "message": "名稱"
+    },
+    "Navigate the galaxy map by jumping from system to system.": {
+        "message": "通過星系躍遷來在銀河地圖上移動。"
+    },
+    "New Data Banks to store Techs can be found by exploring systems.": {
+        "message": "通過探索星系可以找到存儲科技的新數據庫。"
+    },
+    "Permanent death. No restarts when your commander is annihilated.": {
+        "message": "永久性死亡。當你的指揮官被殲滅時，無法重新開始。"
+    },
+    "RELENTLESS": {
+        "message": "無情"
+    },
+    "Random number for generating new galaxy": {
+        "message": "生成新銀河的隨機數字"
+    },
+    "SMALL": {
+        "message": "較小"
+    },
+    "Saved Games": {
+        "message": "遊戲存檔"
+    },
+    "Seed Value": {
+        "message": "種子值"
+    },
+    "Setup": {
+        "message": "設置"
+    },
+    "Size:": {
+        "message": "大小："
+    },
+    "Some commanders fight because it's all they know, while others seek answers to their origins. Conflicts in motivation and creed drive the commanders into a war that is poised to ravage the galaxy for centuries.": {
+        "message": "一些指揮官戰鬥，是因為他們只懂得戰鬥，而另一些則在試圖解答自身的由來。動機和信條的衝撞激起了一場必將肆虐銀河數個世紀的指揮官之戰。"
+    },
+    "Some systems have hidden Commander loadouts. Recover them for future Galactic Wars.": {
+        "message": "有些星系存在隱藏的指揮官配裝。回收他們，助力之後的銀河戰爭。"
+    },
+    "Tech can be deleted to make room for new ones to download. Deleted and rejected Techs are lost for the remainder of the Galactic War.": {
+        "message": "科技可以被刪除，騰出空間下載新科技。被刪除和被拒絕的將在接下來的銀河戰爭中丟失。"
+    },
+    "The Commanders": {
+        "message": "指揮官"
+    },
+    "The Progenitors": {
+        "message": "先祖"
+    },
+    "The commanders have slumbered for millions of years, and awaken to a galaxy that contains only echoes of civilization. These ancient war machines now battle across the galaxy, following the only directives they still hold from long ago.": {
+        "message": "指揮官們沉睡了數百萬年，甦醒時，整個銀河只剩下文明的迴音。這些古老的戰爭機器現在在銀河系中戰鬥，遵循着他們從很久以前就一直持有的唯一指令。"
+    },
+    "Tip:": {
+        "message": "小竅門："
+    },
+    "Tips": {
+        "message": "小竅門"
+    },
+    "UBER": {
+        "message": "UBER"
+    },
+    "War - __date__": {
+        "message": "戰爭 - __date__"
+    },
+    "What little is clear is that the galaxy was once inhabited by a sprawling empire, seemingly destroyed by conflict. The commanders refer to these beings as The Progenitors. Many commanders believe answers to their origins lie within the ruins of this once great civilization.": {
+        "message": "至少有一點是清晰的，那就是銀河系曾經居住着一個龐大的帝國，似乎因為衝突而覆滅。指揮官們把這些生物稱為先祖。許多指揮官相信，解開他們起源之謎的答案就在這個曾經偉大的文明所遺留的廢墟之中。"
+    }
+}

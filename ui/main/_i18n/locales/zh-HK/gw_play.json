@@ -1,1 +1,83 @@
-{}
+{
+    "Acquire": {
+        "message": "獲取"
+    },
+    "All progress and Tech will be lost.": {
+        "message": "將丟失所有進度和科技。"
+    },
+    "Are you sure you want to abandon this Galactic War?": {
+        "message": "確定要放棄這場銀河戰爭嗎？"
+    },
+    "Continue": {
+        "message": "繼續"
+    },
+    "Data Cache Discovered": {
+        "message": "已發現數據緩存"
+    },
+    "Delete Tech": {
+        "message": "刪除科技"
+    },
+    "Dismiss Tech": {
+        "message": "忽略科技"
+    },
+    "Duplicate Tech": {
+        "message": "複製科技"
+    },
+    "Explore": {
+        "message": "探索"
+    },
+    "Fight": {
+        "message": "作戰"
+    },
+    "Game Menu": {
+        "message": "遊戲菜單"
+    },
+    "Jump": {
+        "message": "躍遷"
+    },
+    "Loading...": {
+        "message": "載入中……"
+    },
+    "Preparing for battle": {
+        "message": "正在準備戰鬥"
+    },
+    "Restart": {
+        "message": "重新開始"
+    },
+    "Returning to Main Menu": {
+        "message": "正在返回主菜單"
+    },
+    "Save & Exit": {
+        "message": "保存並退出"
+    },
+    "Saving...": {
+        "message": "保存中……"
+    },
+    "Scanning System": {
+        "message": "正在掃描星系"
+    },
+    "Select a technology to develop using this data.": {
+        "message": "選擇一項科技，使用此數據進行開發。"
+    },
+    "Settings": {
+        "message": "設置"
+    },
+    "Social Bar": {
+        "message": "社交欄"
+    },
+    "TECHS": {
+        "message": "科技"
+    },
+    "Tech Bank is full. To develop new technology, select an existing tech and delete it to open a slot.": {
+        "message": "科技庫已經滿了。要開發新科技，請移除現有科技來挪出空欄位。"
+    },
+    "Turns:": {
+        "message": "回合數："
+    },
+    "Unlock Commander": {
+        "message": "解鎖指揮官"
+    },
+    "Wins:": {
+        "message": "勝場："
+    }
+}

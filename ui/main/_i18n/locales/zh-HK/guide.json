@@ -1,1 +1,38 @@
-{}
+{
+    "Area Commands": {
+        "message": "區域命令"
+    },
+    "Basic Camera Controls": {
+        "message": "基礎鏡頭控制"
+    },
+    "Clicking": {
+        "message": "點擊"
+    },
+    "Close": {
+        "message": "關閉"
+    },
+    "Commander Basics": {
+        "message": "指揮官基礎"
+    },
+    "Economy and Resources": {
+        "message": "經濟與資源"
+    },
+    "Energy Resources": {
+        "message": "能源資源"
+    },
+    "Fabrication Units": {
+        "message": "構造單位"
+    },
+    "Factories": {
+        "message": "工廠"
+    },
+    "Important Hotkeys": {
+        "message": "重要熱鍵"
+    },
+    "Metal Resources": {
+        "message": "金屬資源"
+    },
+    "Player Guide": {
+        "message": "玩家指南"
+    }
+}

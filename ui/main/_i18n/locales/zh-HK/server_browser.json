@@ -1,27 +1,120 @@
 {
+    "AI Battle": {
+        "message": "電腦戰鬥"
+    },
+    "Any": {
+        "message": "任何"
+    },
+    "Auto refresh": {
+        "message": "自動刷新"
+    },
+    "Bounty Mode": {
+        "message": "賞金模式"
+    },
+    "Buy Expansion": {
+        "message": "購買擴展內容"
+    },
+    "Can Join": {
+        "message": "可以加入"
+    },
+    "Can Play": {
+        "message": "可以遊玩"
+    },
+    "Can Spectate": {
+        "message": "可以觀戰"
+    },
+    "Cancel": {
+        "message": "取消"
+    },
+    "Casual": {
+        "message": "休閒"
+    },
+    "Competitive": {
+        "message": "競技"
+    },
+    "Could not retrieve game list because no network connection could be found.": {
+        "message": "無法檢索遊戲列表，因為找不到網絡連接。"
+    },
     "Create Game": {
-        "message": "建立遊戲"
+        "message": "創建戰局"
+    },
+    "Enter game password": {
+        "message": "輸入戰局密碼"
+    },
+    "Free For All": {
+        "message": "混戰"
     },
     "Game": {
-        "message": "遊戲"
+        "message": "戰局"
+    },
+    "Game State": {
+        "message": "戰局狀態"
+    },
+    "Host game locally": {
+        "message": "創建本地遊戲"
     },
     "In Lobby": {
-        "message": "在大廳中"
+        "message": "位於大廳"
     },
     "In Progress": {
         "message": "正在進行"
     },
     "Join Game": {
-        "message": "加入遊戲"
+        "message": "加入戰局"
+    },
+    "LOCKED": {
+        "message": "鎖定"
+    },
+    "Locked": {
+        "message": "鎖定"
     },
     "Locked Game": {
-        "message": "上鎖的遊戲"
+        "message": "鎖定的遊戲"
+    },
+    "Mod": {
+        "message": "模型"
+    },
+    "Modded": {
+        "message": "已使用模型"
     },
     "Mode": {
         "message": "模式"
     },
+    "Mods": {
+        "message": "模型"
+    },
+    "Multiplayer": {
+        "message": "多人遊戲"
+    },
     "No connection to PA servers was found. New games will be hosted locally.": {
-        "message": "無法連線至PA伺服器。新遊戲會在本機主持。"
+        "message": "未找到與PA服務器的連接。新遊戲將在本地建立。"
+    },
+    "No max": {
+        "message": "沒有最大"
+    },
+    "No min": {
+        "message": "沒有最小"
+    },
+    "Not Bounty Mode": {
+        "message": "非賞金模式"
+    },
+    "Not Modded": {
+        "message": "未使用模型"
+    },
+    "Not Selected": {
+        "message": "未選"
+    },
+    "Number of Planets": {
+        "message": "星球數"
+    },
+    "Number of Players": {
+        "message": "玩家數"
+    },
+    "Open": {
+        "message": "打開"
+    },
+    "Open slot": {
+        "message": "欄位開放中"
     },
     "Password": {
         "message": "密碼"
@@ -32,8 +125,26 @@
     "Players": {
         "message": "玩家"
     },
+    "Radius __radius__": {
+        "message": "半徑__radius__"
+    },
+    "Refresh": {
+        "message": "刷新"
+    },
     "Region": {
         "message": "地區"
+    },
+    "Rejoin Local Game": {
+        "message": "重新加入本地戰局"
+    },
+    "Required Expansion Pack": {
+        "message": "必需的擴展包"
+    },
+    "Reset Filters": {
+        "message": "重置篩選條件"
+    },
+    "Sandbox": {
+        "message": "沙盒"
     },
     "Slots": {
         "message": "欄位"
@@ -43,5 +154,23 @@
     },
     "Spectators": {
         "message": "觀戰者"
+    },
+    "Status": {
+        "message": "狀態"
+    },
+    "Tag": {
+        "message": "標籤"
+    },
+    "Team Armies": {
+        "message": "組隊對戰"
+    },
+    "Testing": {
+        "message": "正在測試"
+    },
+    "The game you are trying to join requires the [style=content_description]__expansion_name__[/style] expansion for Planetary Annihilation.": {
+        "message": "你想要加入的遊戲需要《Planetary Annihilation》的[style=content_description]__expansion_name__[/style]擴展內容。"
+    },
+    "This game is no longer available.": {
+        "message": "此遊戲不再可用。"
     }
 }

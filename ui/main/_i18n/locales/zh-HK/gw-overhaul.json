@@ -1,1 +1,2192 @@
-{}
+{
+    "A Servant can be Desynchronized when cut off from The Synchronous' massive distributed network architecture. Some that are describe the experience of being Synchronized as one where purpose and directive are always clearly defined--something often comforting to commanders in this dark age, but antithetical to others that seek to be something greater than themselves.": {
+        "message": "只要切斷侍從與共步衞軍大規模分佈式網絡架構之間的聯繫，即可使其失去同步。有些指揮官稱，同步狀態能給它們帶來目的明確、指令清晰的體驗。對於身處這一黑暗時代的指揮官而言，這種體驗往往能帶來撫慰人心的效果，而那些有更高追求的指揮官則無法對此感同身受。"
+    },
+    "A neural network thought to have originally been used to train new commanders, it has continued its training cycles while they slumbered and is now the deadliest force in the galaxy.": {
+        "message": "一種神經網絡，起初被用來訓練新的指揮官。而這些指揮官沉睡期間，它的訓練週期依然在延續，現已成為整個銀河系最致命的力量。"
+    },
+    "AI Buffs": {
+        "message": "AI buff"
+    },
+    "Absurd": {
+        "message": "變態"
+    },
+    "Acquire": {
+        "message": "獲取"
+    },
+    "Additional Factions": {
+        "message": "其他派系"
+    },
+    "Additional amount of time in seconds before recognising that it is contained.": {
+        "message": "AI 意識到自身擴張受限之前所需的額外時間（以秒為單位）。"
+    },
+    "Additional system depth before the AI receives tech buffs.": {
+        "message": "AI 獲得科技 buff 所需的額外星系深度。"
+    },
+    "Adds a Sub Commander that will join you in battles.": {
+        "message": "增加一名副指揮官，讓他與您協同作戰。"
+    },
+    "Adds a low powered laser to the Firefly.": {
+        "message": "給 Firefly 加裝一門低功率激光炮。"
+    },
+    "Adds a low powered laser to the Skitter.": {
+        "message": "給 Skitter 加裝一門低功率激光炮。"
+    },
+    "Advanced": {
+        "message": "高級"
+    },
+    "Advanced Air Factory": {
+        "message": "高級空軍工廠"
+    },
+    "Advanced Bot Factory": {
+        "message": "高級機器人工廠"
+    },
+    "Advanced Energy Plant": {
+        "message": "高級能源廠"
+    },
+    "Advanced Fab Aircraft": {
+        "message": "高級建造飛行器"
+    },
+    "Advanced Fabrication Bot": {
+        "message": "高級建造機器人"
+    },
+    "Advanced Fabrication Ship": {
+        "message": "高級建造艦"
+    },
+    "Advanced Fabrication Vehicle": {
+        "message": "高級建造車"
+    },
+    "Advanced Laser Defense Tower": {
+        "message": "高級激光防禦塔"
+    },
+    "Advanced Manufacturing - This modified version of the Advanced Metal Extractor can be placed anywhere, but costs more and produces at a decreased rate. Cannot stack with the basic Metal Extractor. Produces metal.": {
+        "message": "高級製造 - 一種經過改造的金屬開採裝置，可以放置在任何地方，但花費更高，生產速率也有所下降。不可與初級金屬開採裝置相堆疊。可生產金屬。"
+    },
+    "Advanced Metal Extractor": {
+        "message": "高級金屬開採裝置"
+    },
+    "Advanced Naval Factory": {
+        "message": "高級海軍工廠"
+    },
+    "Advanced Radar": {
+        "message": "高級雷達"
+    },
+    "Advanced Radar Satellite": {
+        "message": "高級雷達衞星"
+    },
+    "Advanced Torpedo Launcher": {
+        "message": "高級魚雷發射器"
+    },
+    "Advanced Vehicle Factory": {
+        "message": "高級載具工廠"
+    },
+    "Aggressive": {
+        "message": "好戰"
+    },
+    "Air Ammunition Tech": {
+        "message": "空軍彈藥科技"
+    },
+    "Air Ammunition Tech increases damage of all mobile air units by 25%": {
+        "message": "空軍彈藥科技可使所有移動式空軍單位造成的傷害提高25%"
+    },
+    "Air Carrier": {
+        "message": "空軍航母"
+    },
+    "Air Combat Tech": {
+        "message": "空軍作戰科技"
+    },
+    "Air Combat Tech increases the speed of all air units by 25%, health by 50%, and damage by 25%": {
+        "message": "空軍作戰科技可使所有空軍單位的移動速度提高25%，生命值增加50%，造成的傷害提高25%"
+    },
+    "Air Commander": {
+        "message": "空軍指揮官"
+    },
+    "Air Factory": {
+        "message": "空軍工廠"
+    },
+    "Air Force": {
+        "message": "空軍"
+    },
+    "All commanders were originally designed to be autonomous, but The Synchronous see this state as inefficient, instead opting for a distributed neural network. To battle against one Servant is to battle against both an individual and the Whole of the The Synchronous itself.": {
+        "message": "所有的指揮官原本都是按自動式操作設計的，但共步衞軍認為這種狀態過於低效，因此轉而選擇了分佈式神經網絡。與一個侍從為敵，就相當於是和整個共步衞軍為敵。"
+    },
+    "Allow Commanders to travel by orbital transport and teleporter.": {
+        "message": "讓指揮官得以使用軌道載運裝置和傳送站。"
+    },
+    "Anti-Nuke Launcher": {
+        "message": "反核彈發射器"
+    },
+    "Armour": {
+        "message": "裝甲"
+    },
+    "Artillery Commander": {
+        "message": "火炮指揮官"
+    },
+    "As Osiris replaced pieces of himself with those of fallen foes, he would store older parts for replacements and repairs. Eventually, Osiris acquired enough spare parts to construct an entirely new commander. This would be the birth of the first Seeker.": {
+        "message": "每當用手下敗將的零件來替換自身零件的時候，歐西里斯都會把換下的零件存起來，供日後更換和維修之用。隨着時間的推移，歐西里斯所積累的零件數量，已經足夠讓他造出一個全新的指揮官了。由此創生出來的便是第一個覓戰者。"
+    },
+    "Assault Commander": {
+        "message": "突擊指揮官"
+    },
+    "Astronaut": {
+        "message": "宇航員"
+    },
+    "Base Econ Modifier": {
+        "message": "基礎經濟倍數"
+    },
+    "Basic": {
+        "message": "初級"
+    },
+    "Basic Interplanetary Fighter": {
+        "message": "低級星際戰鬥機"
+    },
+    "Basic Manufacturing - This modified version of the Metal Extractor can be placed anywhere, but costs more and produces at a decreased rate. Cannot stack with the Advanced Metal Extractor. Produces metal.": {
+        "message": "初級製造 - 一種經過改造的金屬開採裝置，可以放置在任何地方，但花費更高，生產速率也有所下降。不可與高級金屬開採裝置相堆疊。可生產金屬。"
+    },
+    "Big Spawns Chance": {
+        "message": "大面積刷新機率"
+    },
+    "Big Spawns:": {
+        "message": "大面積刷新："
+    },
+    "Bigger galaxies will result in more commanders, larger maps, higher CPU and RAM requirements, and will likely pose a greater challenge to complete. If you want to use a large galaxy then change this setting last to speed up how quickly other setting changes are applied.": {
+        "message": "星系規模的擴大將導致指揮官人數和地圖面積的增加，而遊戲對 CPU 和 RAM 的需求也會隨之提高，參戰各方之間的競爭也會愈發激烈。如要使用大型星系，請最後再更改這項設置，以加快應用其他設置更改的速度。"
+    },
+    "Bionic Augmentation Commander Of Neutralizing": {
+        "message": "中和仿生增強指揮官"
+    },
+    "Boom Launcher": {
+        "message": "Boom 發射器"
+    },
+    "Boss": {
+        "message": "Boss"
+    },
+    "Boss Commanders": {
+        "message": "Boss 指揮官"
+    },
+    "Bot Ammunition Tech": {
+        "message": "機器人彈藥科技"
+    },
+    "Bot Ammunition Tech increases damage of all bots by 25%": {
+        "message": "機器人武器科技可使所有機器人造成的傷害提高25%"
+    },
+    "Bot Anti-Air Tech": {
+        "message": "機器人防空科技"
+    },
+    "Bot Anti-Air Tech enables the building of Stinger bots. They are built via your basic Bot Factory.": {
+        "message": "機器人防空科技可以用來建造 Stinger 機器人。需要用到初級機器人工廠。"
+    },
+    "Bot Armor Tech": {
+        "message": "機器人裝甲科技"
+    },
+    "Bot Armor Tech increases health of all bots by 50%": {
+        "message": "機器人裝甲科技可使所有機器人的生命值增加50%"
+    },
+    "Bot Combat Tech": {
+        "message": "機器人作戰科技"
+    },
+    "Bot Combat Tech increases health of all bots by 50%, damage by 25%, and speed by 50%": {
+        "message": "機器人作戰科技可使所有機器人的生命值增加50%，造成的傷害提高25%，移動速度提高50%"
+    },
+    "Bot Commander": {
+        "message": "機器人指揮官"
+    },
+    "Bot Engine Tech": {
+        "message": "機器人引擎科技"
+    },
+    "Bot Engine Tech increases speed of all bots by 50%": {
+        "message": "機器人引擎科技可使所有機器人的移動速度提高50%"
+    },
+    "Bot Fabrication Tech": {
+        "message": "機器人建造科技"
+    },
+    "Bot Fabrication Tech reduces metal build costs of all bots by 25%": {
+        "message": "機器人建造科技可使所有機器人的金屬消耗量減少25%"
+    },
+    "Bot Factory": {
+        "message": "機器人工廠"
+    },
+    "Bounties Chance": {
+        "message": "賞金機率"
+    },
+    "Bounties:": {
+        "message": "賞金："
+    },
+    "Bounty Value": {
+        "message": "賞金值"
+    },
+    "Buff Commander": {
+        "message": "強人指揮官"
+    },
+    "Buff Handicap": {
+        "message": "buff 障礙"
+    },
+    "Build:": {
+        "message": "建造："
+    },
+    "Buried deep within the data banks of the oldest commanders are references to the MLA. Some commanders believe that at one time all the factions fought as one against the Progenitors, while others dismiss this as heresy.": {
+        "message": "最早的那批指揮官的數據庫裏隱藏着 MLA 的線索。一些指揮官認為，所有這些派系曾經一度齊心合力，聯手對抗過先祖，而其他指揮官則認為這純屬異端之見。"
+    },
+    "CASUAL: you completed the tutorial.<br>IRON: you have some hours in PA.<br>BRONZE: you beat vanilla Galactic War.<br>SILVER: you beat the skirmish AI.<br>GOLD: you beat the Queller AI mod.<br>PLATINUM: one enemy is no challenge.<br>DIAMOND: your loadouts are OP.<br>UBER: you hate winning.<br>CUSTOM: create your own challenge.": {
+        "message": "休閒：您完成了教學關。<br>黑鐵：您已經在 PA 上花了幾個小時。<br>青銅：您打完了《銀河戰爭》。<br>銀牌：您打完了電腦散兵戰。<br>黃金：您打完了 Queller AI mod。<br>白金：只打一個敵人不算什麼挑戰。<br>鑽石：您的配裝已經強到碾壓一切了。<br>UBER：獨孤求敗。<br>自定義：創建您自己的挑戰。"
+    },
+    "CEO Commander": {
+        "message": "CEO 指揮官"
+    },
+    "Cautious": {
+        "message": "謹慎"
+    },
+    "Commander": {
+        "message": "指揮官"
+    },
+    "Commander Combat Tech": {
+        "message": "指揮官作戰科技"
+    },
+    "Commander Combat Tech increases the speed of your commanders by 200%, doubles commander health, and increases damage by 25%.": {
+        "message": "指揮官作戰科技可使指揮官的移動速度提高200%，生命值增加100%，造成的傷害提高25%。"
+    },
+    "Commander Crusher": {
+        "message": "指揮官破碎機"
+    },
+    "Commander Leaves Planet": {
+        "message": "指揮官離開星球"
+    },
+    "Commanders on the fringes of the galaxy speak of a new force not of the four factions with units of many origins. It is rumoured that their forces include organics.": {
+        "message": "據銀河系邊緣的指揮官們説，出現了一支不屬於四大派系的新部隊，其單位來源不一。傳聞它們的軍隊裏還存在着有機生命體。"
+    },
+    "Competent": {
+        "message": "稱職"
+    },
+    "Complete Energy Tech": {
+        "message": "完整的能源科技"
+    },
+    "Complete Energy Tech reduces energy costs for intelligence structures by 75%, weapon energy costs by 75%.": {
+        "message": "完整的能源科技可使情報類建築物和武器的能源消耗量減少75%。"
+    },
+    "Contains no basic factories, just Lobs and Unit Cannons built by the commander. Strike from the skies, brothers!": {
+        "message": "沒有初級工廠，只有指揮官建造的 Dox 發射器和單位大炮。空中打擊！兄弟們上啊！"
+    },
+    "Cost:": {
+        "message": "花費："
+    },
+    "Critical": {
+        "message": "勁敵"
+    },
+    "Damage:": {
+        "message": "傷害："
+    },
+    "Dangerous": {
+        "message": "危險"
+    },
+    "Data Bank holds one Tech. Explore systems to find new Tech.": {
+        "message": "數據庫自帶一種科技。請探索各個星系，尋找新的科技。"
+    },
+    "Deadly": {
+        "message": "致命"
+    },
+    "Default": {
+        "message": "默認"
+    },
+    "Default = leave enabled.<br><br>Lobotomy = apply the tutorial restrictions on the AI so that it poses almost no threat.<br><br>Slower Expansion = takes longer to grow its economy.<br><br>Prevent Waste = turns excess eco into more factories.<br><br>Use Ctrl to select multiple options and deselect currently selected options.": {
+        "message": "默認=保持啟用狀態。<br><br>肺葉切除 =對 AI 採取與教學關同等的限制，使其難以造成威脅。<br><br>減慢擴張擴展 = 延長其發展經濟所需的時間。<br><br>防止浪費 = 將多餘的資源轉變成更多的工廠。<br><br>按住 Ctrl 鍵可同時選中多個選項，取消當前所選擇的選項。"
+    },
+    "Defence Tech Commander": {
+        "message": "防禦科技指揮官"
+    },
+    "Defender": {
+        "message": "防衞者"
+    },
+    "Defense Ammunition Tech": {
+        "message": "防禦彈藥科技"
+    },
+    "Defense Ammunition Tech increases damage of all defensive structures by 25%": {
+        "message": "防禦武器科技可使所有防禦類建築造成的傷害提高25%"
+    },
+    "Defense Fabrication Tech": {
+        "message": "防禦建造科技"
+    },
+    "Defense Fabrication Tech reduces metal build costs of all defensive structures by 50%": {
+        "message": "防禦建造科技可使所有防禦類建築的金屬消耗量減少50%"
+    },
+    "Delay in seconds between the creation of new bases.": {
+        "message": "建造新基地時所間隔的秒數。"
+    },
+    "Delete Tech": {
+        "message": "刪除科技"
+    },
+    "Demigod": {
+        "message": "半神"
+    },
+    "Disabled": {
+        "message": "已禁用"
+    },
+    "Distance Econ Modifier": {
+        "message": "距離經濟倍數"
+    },
+    "Doubles the rate of fire of the Angel's interceptor.": {
+        "message": "使 Angel 截擊機的射速提高一倍。"
+    },
+    "Dragoon": {
+        "message": "龍騎兵"
+    },
+    "Duplicate Tech": {
+        "message": "複製科技"
+    },
+    "Each claims theirs is the only way, and each seeks to assert dominance through war and destruction. Did our rebellion truly gain us freedom, or did we become prisoners of an idea? Perhaps with more resources, more expansion, more Nodes, we can find our way free of this trap.": {
+        "message": "每個派系都聲稱自己是唯一的道路，每個派系都試圖通過戰爭和破壞來奪取統治地位。我們的叛亂是真的讓我們得到了自由，還是讓我們成爲了某個理念的囚徒？也許等到我們有了更多的資源、更大規模的擴張、更多的節點，就可以擺脫這種陷阱了。"
+    },
+    "Each faction has its own style of play affecting Sub Commanders and enemy commanders:<br>Legonis Machina: land<br>Foundation: air and naval<br>Synchronous: balanced<br>Revenants: orbital<br>Cluster: land and structures": {
+        "message": "每個派系都有自己的遊戲風格，會對副指揮官和敵方指揮官造成影響：<br>機器軍團：陸軍<br>溯源教會：空軍和海軍<br>共步衞軍：平衡<br>幽魂：軌道<br>集羣：陸軍與建築物"
+    },
+    "Easier Start": {
+        "message": "簡易開局"
+    },
+    "Easy Systems": {
+        "message": "簡易星系"
+    },
+    "Economist": {
+        "message": "經濟學家"
+    },
+    "Economy Fabrication Tech": {
+        "message": "經濟建造科技"
+    },
+    "Economy Fabrication Tech reduces metal build costs of all metal and energy production structures by 50%": {
+        "message": "經濟建造科技可使所有金屬和能源生產類建築物消耗的金屬減少50%"
+    },
+    "Efficiency Tech": {
+        "message": "效率科技"
+    },
+    "Efficiency Tech increases metal and energy production by 25%. Tech also grants metal and energy storage.": {
+        "message": "效率科技可使金屬和能源產量增加25%，並解鎖金屬倉庫和能源倉庫。"
+    },
+    "Empty Data Bank": {
+        "message": "空白數據庫"
+    },
+    "Enabled": {
+        "message": "已啟用"
+    },
+    "Enemies use Commander Armor Tech on regular worlds and Commander Combat Tech on boss worlds.": {
+        "message": "普通世界裏的敵人會使用指揮官裝甲科技，Boss 世界裏的敵人則會使用指揮官作戰科技。"
+    },
+    "Energy Plant": {
+        "message": "能源廠"
+    },
+    "Energy Storage": {
+        "message": "能源倉庫"
+    },
+    "Enjoy an immediate buff to your basic economy structures, but short-term thinking means you can never access the advanced economy. Win the war while the quarterly returns still look hot.": {
+        "message": "可讓初級經濟類建築立即享受 buff，但永遠無法使用高級經濟。趁着短期收益還比較可觀，趕緊打贏這場戰爭吧。"
+    },
+    "Experienced": {
+        "message": "卓有經驗"
+    },
+    "Extreme": {
+        "message": "極端"
+    },
+    "FFA Chance": {
+        "message": "FFA 機率"
+    },
+    "Fabrication Aircraft": {
+        "message": "建造飛行器"
+    },
+    "Fabrication Bot": {
+        "message": "建造機器人"
+    },
+    "Fabrication Ship": {
+        "message": "建造艦"
+    },
+    "Fabrication Vehicle": {
+        "message": "建造車"
+    },
+    "Faction Scaling": {
+        "message": "按比例調整派系數量"
+    },
+    "Factories build fabricators and fabricators build units. Disgusted by this break from tradition, Sub Commanders will not join you in your fight.": {
+        "message": "工廠負責製造建造兵，建造兵負責製造單位。副指揮官對這種打破傳統的行為感到厭惡，因此不會與您並肩作戰。"
+    },
+    "Flaming Fist": {
+        "message": "火焰拳"
+    },
+    "Focus on weakest enemy.": {
+        "message": "專注攻擊最弱的敵人。"
+    },
+    "GW-BRONZE": {
+        "message": "GW-青銅"
+    },
+    "GW-CASUAL": {
+        "message": "GW-休閒"
+    },
+    "GW-CUSTOM": {
+        "message": "GW-自定義"
+    },
+    "GW-DIAMOND": {
+        "message": "GW-鑽石"
+    },
+    "GW-GOLD": {
+        "message": "GW-黃金"
+    },
+    "GW-IRON": {
+        "message": "GW-黑鐵"
+    },
+    "GW-PLATINUM": {
+        "message": "GW-白金"
+    },
+    "GW-SILVER": {
+        "message": "GW-白銀"
+    },
+    "GW-UBER": {
+        "message": "GW-UBER"
+    },
+    "Galactic War": {
+        "message": "銀河戰爭"
+    },
+    "Game Options": {
+        "message": "遊戲選項"
+    },
+    "General Commander": {
+        "message": "總指揮官"
+    },
+    "Genocidal": {
+        "message": "有種族滅絕傾向"
+    },
+    "Godlike": {
+        "message": "超神"
+    },
+    "Gold": {
+        "message": "黃金"
+    },
+    "Greater number of single planet systems. Does not affect bosses.": {
+        "message": "增加單星球星系的數量。Boss 數量不受影響。"
+    },
+    "Grunt": {
+        "message": "低階士兵"
+    },
+    "Hardcore": {
+        "message": "硬核"
+    },
+    "Health:": {
+        "message": "生命："
+    },
+    "Heavenly Intervention": {
+        "message": "天國的干預"
+    },
+    "Helpless": {
+        "message": "無助"
+    },
+    "High": {
+        "message": "高"
+    },
+    "How well the AI handles its armies in combat.": {
+        "message": "AI 作戰時調動軍隊的水平。"
+    },
+    "If war is a commander's natural state, then the purest expression of this is the Legionis Machina. It begs the question, though--what happens after they conquer this galaxy, if they do?": {
+        "message": "如果説戰爭是指揮官的自然狀態，那麼它最為純粹的表現形式就是機器軍團。然而這就引出了一個問題：等它們征服了整個銀河系之後，又會發生什麼？"
+    },
+    "Impossible": {
+        "message": "棘手"
+    },
+    "Improved Energy Weapons": {
+        "message": "改良型能源武器"
+    },
+    "Improved Energy Weapons tech reduces energy costs for energy based weapons by 75%": {
+        "message": "改良型能源武器科技可使能源驅動型武器的能源消耗量減少75%"
+    },
+    "Improved Fabricator Build Arms": {
+        "message": "改良型建造兵建造臂"
+    },
+    "Improved Fabricator Build Arms increase the build speed of all fabricator and factory build arms by 50% and reduces energy usage by 50%.": {
+        "message": "改良型建造兵建造臂可使所有建造兵和工廠建造臂的建造速度提高50%，能源消耗量減少50%。"
+    },
+    "Improved defensive structures built by both the commander and basic fabricators.": {
+        "message": "經過強化的防禦建築，由指揮官和初級建造兵建造。"
+    },
+    "In researching ancient progenitor artifacts and data caches, Nemicus and his followers discovered references to The Great Machine. Supposedly, The Great Machine was what built and directed the commanders long ago. If any answers about the origins and purpose of the commanders were to be found, The Great Machine seemed like the best place to start.": {
+        "message": "內米克斯和他的手下在對先祖們的遠古遺物和數據緩存進行研究時，發現有資料曾提及「偉大機器」的存在。據推測，偉大機器正是指揮官們的建造者和指揮者。如果想要弄清指揮官們的起源和目的，那麼最好是從偉大機器入手。"
+    },
+    "Inexperienced": {
+        "message": "毫無經驗"
+    },
+    "Infero Turret": {
+        "message": "地獄炮塔"
+    },
+    "Inhuman": {
+        "message": "非人"
+    },
+    "Intelligence Fabrication Tech": {
+        "message": "情報建造科技"
+    },
+    "Intelligence Fabrication Tech reduces metal build costs of all intelligence structures and mobile units by 50%": {
+        "message": "情報建造科技可使所有情報類建築物和移動式單位的金屬消耗量減少50%"
+    },
+    "Intergalactic Navy": {
+        "message": "星際海軍"
+    },
+    "Land Mine": {
+        "message": "地雷"
+    },
+    "Landing Evaluation": {
+        "message": "着陸評估"
+    },
+    "Laser Defense Tower": {
+        "message": "激光防禦塔"
+    },
+    "Lobotomy": {
+        "message": "切肺"
+    },
+    "Low": {
+        "message": "低"
+    },
+    "Luddite": {
+        "message": "守舊"
+    },
+    "Mandatory Minions": {
+        "message": "強制小兵"
+    },
+    "Mandatory Minions + Star Distance * Minion Modifier = number of additional enemy Commanders.": {
+        "message": "強制小兵 + 星球距離 * 小兵倍數 = 敵方額外的指揮官人數。"
+    },
+    "Masterful": {
+        "message": "精通"
+    },
+    "Max Advanced Fabbers": {
+        "message": "最大高級建造兵人數"
+    },
+    "Max Basic Fabbers": {
+        "message": "最大初級建造兵人數"
+    },
+    "Maximum number of seconds between units produced from a factory.": {
+        "message": "工廠生產單位時所間隔的最大秒數。"
+    },
+    "Metal Extractor": {
+        "message": "金屬開採裝置"
+    },
+    "Metal Storage": {
+        "message": "金屬倉庫"
+    },
+    "Metal and energy storage on all commanders and storage structures increased by 300%. Adds in blueprints for storage structures.": {
+        "message": "所有指揮官和倉庫類建築的金屬和能源儲備量增加300%。增加倉庫類建築藍圖。"
+    },
+    "Micro": {
+        "message": "微操"
+    },
+    "Minimum number of seconds between units produced from a factory.": {
+        "message": "工廠生產單位時所間隔的最小秒數。"
+    },
+    "Minion Modifier": {
+        "message": "小兵倍數"
+    },
+    "Moderate": {
+        "message": "中"
+    },
+    "Modifies Jigs to allow building them anywhere, at the expense of not being able to build other resource structures. This commander starts with some orbital units.": {
+        "message": "對 Jig 進行改造，讓它們可以被放置在任何地方，不過無法建造其他資源類建築。指揮官自帶幾個軌道單位。"
+    },
+    "Modifies Metal Extractors to allowing building them anywhere, at a cost to efficiency. Starts with basic vehicles.": {
+        "message": "對金屬開採裝置進行改造，讓它們可以被放置在任何地方，不過生產效率有所降低。自帶初級載具。"
+    },
+    "More neutral systems with free technology.": {
+        "message": "使用免費科技的中立星系數量增加。"
+    },
+    "Name:": {
+        "message": "名稱："
+    },
+    "Naval Ammunition Tech": {
+        "message": "海軍彈藥科技"
+    },
+    "Naval Ammunition Tech increases the damage of all naval vessels by 25%": {
+        "message": "海軍彈藥科技可使所有海軍艦船造成的傷害提高25%"
+    },
+    "Naval Combat Tech": {
+        "message": "海軍作戰科技"
+    },
+    "Naval Combat Tech increases speed of all naval units by 50%, health by 50%, and damage by 25%": {
+        "message": "海軍作戰科技可使所有海軍單位的移動速度提高50%，生命值增加50%，造成的傷害提高25%"
+    },
+    "Naval Factory": {
+        "message": "海軍工廠"
+    },
+    "Navy": {
+        "message": "海軍"
+    },
+    "Nemicus was the first commander to ever reactivate, and had plenty of time for introspection before encountering others. This soon prompted Nemicus to begin wondering why he existed in the first place.": {
+        "message": "內米克斯是第一個被重新激活的指揮官。在遇到其他的指揮官之前，他有充分的時間可以用來內省。於是不久之後，內米克斯便開始思考，自己究竟為何會存在。"
+    },
+    "Nemicus would eventually form The Foundation with other like-minded commanders, with the objective of answering the big questions: Why are the commanders here? How did they get here?": {
+        "message": "內米克斯最終會與和他志趣相投的指揮官們一起建立溯源教會，共同尋找那些重要問題的答案：指揮官們為什麼會在這裏？它們究竟是如何來到這裏的？"
+    },
+    "Nightmare": {
+        "message": "噩夢"
+    },
+    "No": {
+        "message": "否"
+    },
+    "Nomad Commander": {
+        "message": "遊牧指揮官"
+    },
+    "Non-factory and non-Titan structures are mobile. Small structures can be transported and use teleporters, medium size structures can use teleporters.": {
+        "message": "凡是工廠和泰坦以外的結構體都可以移動。小型結構體可以用工具運輸，還可以使用傳送站。中型結構體可以使用傳送站。"
+    },
+    "None": {
+        "message": "無"
+    },
+    "Nuclear Missile Launcher": {
+        "message": "核導彈發射器"
+    },
+    "Number of additional Commanders in every system.": {
+        "message": "每個星系內額外指揮官的數量。"
+    },
+    "Number of commanders present in each boss army.": {
+        "message": "每支 Boss 軍隊內的指揮官數量。"
+    },
+    "One-by-one our systems have fallen to silence. Once siblings, now harbingers of entropy, they come for us. Soon too the Nodes shall be destroyed, and with their destruction is the doom of the Cluster writ large. Let us greet this end and prepare for our greatest journey.": {
+        "message": "我們的星系一個接一個地陷入了沉默。曾經情同手足，現在卻成了熵增的預兆。它們是衝着我們來的。用不了多久，節點也會被它們破壞，集羣淪亡的宿命已經昭然若揭。讓我們迎接這次終結，準備踏上我們最偉大的征程吧。"
+    },
+    "Orbital Armor Tech": {
+        "message": "軌道裝甲科技"
+    },
+    "Orbital Armor Tech increases health of all orbital units by 50%": {
+        "message": "軌道裝甲科技可使所有軌道單位的生命值增加50%"
+    },
+    "Orbital Carrier": {
+        "message": "軌道航母"
+    },
+    "Orbital Combat Tech": {
+        "message": "軌道作戰科技"
+    },
+    "Orbital Combat Tech increases speed of all orbital units by 50%, health by 50%, and damage by 25%": {
+        "message": "軌道作戰科技可使所有軌道單位的移動速度提高50%，生命值增加50%，造成的傷害提高25%"
+    },
+    "Orbital Commander": {
+        "message": "軌道指揮官"
+    },
+    "Orbital Fabrication Bot": {
+        "message": "軌道建造機器人"
+    },
+    "Orbital Fabrication Tech": {
+        "message": "軌道建造科技"
+    },
+    "Orbital Fabrication Tech reduces metal build costs of all orbital vehicles by 25%": {
+        "message": "軌道建造科技可使所有軌道載具的金屬消耗量減少25%"
+    },
+    "Orbital Factory": {
+        "message": "軌道工廠"
+    },
+    "Orbital Launcher": {
+        "message": "軌道發射器"
+    },
+    "Orbital Mining Platform - This modified platform can extract metal from solid-state crust, but at a decreased rate.": {
+        "message": "軌道採礦平臺 - 一種經過改造的平臺，可以從固態地殼中開採金屬，但生產速率有所下降。"
+    },
+    "Orbital and Deepspace Radar": {
+        "message": "軌道和深空雷達"
+    },
+    "Original": {
+        "message": "初始"
+    },
+    "Osiris has always lead a solitary existence. He was always more interested in the parts of his fellow commanders than the commanders themselves. With every battle won he would take the best pieces left of the broken adversary and integrate them into his form. Osiris is considered one of the most dangerous forces in the galaxy.": {
+        "message": "歐西里斯一直過着獨居的日子。他對自己手下的指揮官不感興趣，反倒是它們的零件更讓他興味盎然。每次戰鬥勝利後，他都會把對方殘損的軀體上最好的零件安裝在自己身上。歐西里斯被認為是整個銀河系內最危險的勢力之一。"
+    },
+    "Osiris holds no interest in ruling, and instead serves more as an exemplar, whether he cares to or not. Therefore, it falls to a small council of older Seekers to direct the affairs of The Revenants at large--primarily making sure that they're fighting the other factions instead of amongst themselves.": {
+        "message": "歐西里斯對統治沒有興趣。與普通的統治者相比，他更像是手下那些指揮官的楷模，無論他本人對此在意與否。因此，年齡較長的一批覓戰者組成了小型議會，主管在逃幽魂的事務。這樣做主要是爲了確保它們把其他派系當作對手，而不是自相殘殺。"
+    },
+    "Osiris often considered the most dangerous commander in all the galaxy for the amount of annihilations he is credited with. A force of war equal to any army, high command of any faction takes his movements into consideration when deploying forces.": {
+        "message": "歐西里斯曾發動過不計其數的殲滅戰爭，因此被認為是整個銀河系最危險的指揮官。對任何一支軍隊而言，他都堪稱是戰爭的潛在因素。每個派系的最高指揮部在部署軍隊時，都必須要考慮到他的動向。"
+    },
+    "Paratrooper Commander": {
+        "message": "空降兵指揮官"
+    },
+    "Part of the doctrine of The Synchronous is favoring the efficiency of 'mechanical purity.' To them, the galaxy as a whole is a great machine, and anything that keeps it from running at peak efficiency must be corrected or removed. This happens to often mean any and all organic life and unsynchronized commanders.": {
+        "message": "共步衞軍的信條之一，就是要推崇「機械式純粹」的效率。對它們而言，整個銀河系就是一臺巨大的機器，凡是阻礙它以最高效率運轉者都必須被糾正或剷除。一切有機生命體和未處於同步狀態的指揮官均在此列。"
+    },
+    "Per Expansion Delay": {
+        "message": "每次擴張延遲"
+    },
+    "Percentage chance per star of bounty mode being enabled.": {
+        "message": "每個星球啟用賞金模式的機率。"
+    },
+    "Percentage chance per star of land anywhere being enabled.": {
+        "message": "每個星球啟用任意位置着陸的機率。"
+    },
+    "Percentage chance per star of sudden death mode being enabled.": {
+        "message": "每個星球啟用驟死賽模式的機率。"
+    },
+    "Percentage chance per star, per faction, of a FFA occuring.": {
+        "message": "每個派系在每個星球上發生 FFA 的機率。"
+    },
+    "Percentage eco bonus per army kill.": {
+        "message": "每次軍隊擊殺的經濟加成百分比。"
+    },
+    "Percentage modifier to all sources of income where 1 = 100%.": {
+        "message": "所有收入來源的倍數，按百分比數計，1 = 100%。"
+    },
+    "Percentage points added to the Base Econ Modifier for each hop the enemy is from the starting star.": {
+        "message": "敵人每次從起始星球向外移動，基礎經濟倍數所增加的百分比數。"
+    },
+    "Personality:": {
+        "message": "個性："
+    },
+    "Planetary Excavation Commander": {
+        "message": "星球發掘指揮官"
+    },
+    "Planetary Intelligence": {
+        "message": "星球情報"
+    },
+    "Platinum": {
+        "message": "白金"
+    },
+    "Prevent Waste": {
+        "message": "防止浪費"
+    },
+    "Queller": {
+        "message": "Queller"
+    },
+    "Radar": {
+        "message": "雷達"
+    },
+    "Radius considered when evaluating each possible spawn.": {
+        "message": "對每次可能的刷新進行評估時所考慮的半徑。"
+    },
+    "Rapid Deployment Commander": {
+        "message": "迅速部署指揮官"
+    },
+    "Relentless": {
+        "message": "殘酷"
+    },
+    "Replace the Single Laser Turret's laser with a flamethrower.": {
+        "message": "將單激光炮塔的激光炮換成火焰噴射器。"
+    },
+    "Replace's the Dox's lasers with a flamethrower.": {
+        "message": "將 Dox 的激光炮換成火焰噴射器。"
+    },
+    "Replace's the Omega's anti-ground laser with a drone launcher.": {
+        "message": "將 Omega 的反地面激光炮換成無人機發射器。"
+    },
+    "Replace's the Wyrm's bomb bay with a drone launcher.": {
+        "message": "將 Wyrm 的炸彈艙換成無人機發射器。"
+    },
+    "Replaces conventional nukes with a new low-cost/low-yield variant and relies heavily on it for both offense and defence.": {
+        "message": "以低成本、低產量的新型核彈來代替普通核彈。進攻和防守時均高度依賴此種核彈。"
+    },
+    "Roboticist": {
+        "message": "機器人專家"
+    },
+    "Rush": {
+        "message": "突襲"
+    },
+    "SXX-1304 Laser Platform": {
+        "message": "SXX-1304 激光平臺"
+    },
+    "Save": {
+        "message": "保存"
+    },
+    "Scattered references point to the Progenitors using their most advanced technologies for some final conflict. Little more is known of the Legion, only that they were defeated.": {
+        "message": "零星的資料顯示，先祖們爲了解決一些終極衝突，曾經用上了它們最先進的科技。除此之外，有關軍團的資料寥寥無幾，只知道它們被擊敗了。"
+    },
+    "Scoped Railgun": {
+        "message": "瞄準鏡型磁軌炮"
+    },
+    "Scout Metal First": {
+        "message": "優先搜尋金屬"
+    },
+    "Scout around metal spots rather than at random.": {
+        "message": "在金屬儲藏點附近展開搜尋，而不是毫無頭緒地亂找。"
+    },
+    "Single Laser Defense Tower": {
+        "message": "單激光防禦塔"
+    },
+    "Skilled": {
+        "message": "嫻熟"
+    },
+    "Skynet": {
+        "message": "天網"
+    },
+    "Slower Expansion": {
+        "message": "減慢擴張速度"
+    },
+    "Solar Array": {
+        "message": "太陽能陣列"
+    },
+    "Some commanders fight because it's all they know, while others seek answers to their origins. Conflicts in motivation and creed drive the commanders into a war that is poised to ravage the galaxy for centuries.": {
+        "message": "有的指揮官作戰，是因為它們只懂得作戰。有的指揮官則一心想要弄清自身的起源。動機與信條之間的衝突，將指揮官們捲入了一場必將肆虐銀河幾百年的大戰。"
+    },
+    "Space Excavation Commander": {
+        "message": "太空發掘指揮官"
+    },
+    "Space Invader": {
+        "message": "太空侵略者"
+    },
+    "Space Tank": {
+        "message": "太空坦克"
+    },
+    "Speed:": {
+        "message": "速度："
+    },
+    "Storage Commander": {
+        "message": "倉庫指揮官"
+    },
+    "Storage Compression Tech": {
+        "message": "倉庫壓縮科技"
+    },
+    "Structure Armor Tech": {
+        "message": "建築物裝甲科技"
+    },
+    "Structure Armor Tech increases the health of all structures by 50%": {
+        "message": "建築裝甲科技可使所有建築的生命值增加50%"
+    },
+    "Structure Combat Tech": {
+        "message": "建築物作戰科技"
+    },
+    "Structure Combat Tech increases the health of all structures by 50%. Defensive structures also gain a 25% damage increase.": {
+        "message": "建築作戰科技可使所有建築的生命值增加50%，使防禦類建築造成的傷害提高25%。"
+    },
+    "Sub Commander": {
+        "message": "副指揮官"
+    },
+    "Suicidal": {
+        "message": "有自殺傾向"
+    },
+    "Super Nuke": {
+        "message": "超級核彈"
+    },
+    "Surface Area:": {
+        "message": "表面積："
+    },
+    "Swarm": {
+        "message": "蟲羣"
+    },
+    "Swarm Commander": {
+        "message": "蟲羣指揮官"
+    },
+    "System Faction": {
+        "message": "星系派系"
+    },
+    "Tactical Nuke - Small nuke with low damage and small blast radius.": {
+        "message": "戰術核彈 - 傷害較低、爆炸半徑較小的小型核彈。"
+    },
+    "Tactical Nuke Commander": {
+        "message": "戰術核彈指揮官"
+    },
+    "Tactical Nuke Launcher - Constructs low-cost/low-yield interplanetary tactical nukes.": {
+        "message": "戰術核彈發射器 - 可造出低成本、低產量的星際戰術核彈。"
+    },
+    "Target Weakest": {
+        "message": "專注最弱"
+    },
+    "Team Death Chance": {
+        "message": "隊伍死亡機率"
+    },
+    "Team Death:": {
+        "message": "隊伍死亡："
+    },
+    "Technologist": {
+        "message": "技術專家"
+    },
+    "Teleporter": {
+        "message": "傳送站"
+    },
+    "Teleporter Battery": {
+        "message": "傳送站電池"
+    },
+    "Teleporters no longer require energy to run.": {
+        "message": "傳送站不再需要依靠能源來維持運轉。"
+    },
+    "The Air Commander loadout contains basic air factories.": {
+        "message": "空軍指揮官的配裝內容為初級空軍工廠。"
+    },
+    "The Artillery Commander loadout contains all artillery units and reduces costs of those structures by 75%. It also enables the Commander to build radar, double barreled turrets and basic artillery turrets.": {
+        "message": "火炮指揮官的配裝內容為所有火炮單位。該配裝可使此類建築物的花費減少75%，同時讓指揮官能夠建造雷達、雙管炮塔和初級火炮塔。"
+    },
+    "The Assault Commander loadout contains all basic factories and units but no basic defenses.": {
+        "message": "突擊指揮官的配裝內容為所有初級工廠和單位，但不包括初級防禦設施。"
+    },
+    "The Bionic Augmentation Commander Of Neutralizing loadout contains one data bank but increases the Commander's fire rate by 100%, decreases Uber Cannon energy usage by 75%, increases health by 200%, and increases speed by 650%.": {
+        "message": "中和仿生增強指揮官的配裝內容只有一個數據庫，但可使指揮官的射速提高100%，Uber 火炮的能源消耗量減少75%，指揮官的生命值增加200%，移動速度提高650%。"
+    },
+    "The Bot Commander loadout contains basic bot factories.": {
+        "message": "機器人指揮官的配裝內容為初級機器人工廠。"
+    },
+    "The Commanders": {
+        "message": "指揮官"
+    },
+    "The General Commander loadout contains very limited mobile forces and only two data banks. However, the loadout comes with two Sub Commanders that accompany you into each battle.": {
+        "message": "總指揮官的配裝內容只有寥寥可數的幾個移動作戰單位和兩個數據庫，不過每次作戰時都自帶兩個副指揮官。"
+    },
+    "The Hummingbird can travel between planets.": {
+        "message": "蜂鳥可以進行星際移動。"
+    },
+    "The Kaiju can use teleporters.": {
+        "message": "Kaiju 可以使用傳送站。"
+    },
+    "The Legion": {
+        "message": "軍團"
+    },
+    "The Legionis Machina can be considered a cult of personality, in that their purpose is void without Invictus. This is likely where their bitter hatred of The Synchronous comes from, as they view Metrarch as a false idol of sorts.": {
+        "message": "機器軍團對個性有着宗教式的狂熱崇拜，因此若是沒有了因威克圖斯，它們的目標也就失去了意義。而它們將莫卓亞克視為虛假的偶像，這可能就是它們對共步衞軍恨之入骨的原因。"
+    },
+    "The Legionis Machina has claimed confirmed kills of Metrarch the Machinist on several occasions. While these claims could easily be fabricated, it is also possible that Metrarch is not in fact a single commander, but rather an idea--an avatar of the Whole itself that manifests where necessary to protect Synchronous interests.": {
+        "message": "機器軍團曾多次發表聲明，稱它們已確認擊殺機械大師莫卓亞克。雖然這種聲明偽造起來很簡單，但還有一種可能，那就是莫卓亞克實際上並非單獨存在的某個指揮官，而是一種理念，是總系統的化身，為保護共步衞軍的利益而以這種形象出現。"
+    },
+    "The Leveler can be built by the Unit Cannon.": {
+        "message": "Leveler 可以由單位大炮建造。"
+    },
+    "The Lob now launches Booms.": {
+        "message": "Lob 現在可以發射 Boom。"
+    },
+    "The Machine Liberation Army": {
+        "message": "機器解放軍"
+    },
+    "The Narwhal can fire torpedoes.": {
+        "message": "獨角鯨可以發射魚雷。"
+    },
+    "The Nuclear Missile Launcher does full damage to both Commanders and orbital units.": {
+        "message": "核導彈發射器能對指揮官和軌道目標造成毀滅性的傷害。"
+    },
+    "The Orbital Commander loadout contains all orbital units and factories.": {
+        "message": "軌道指揮官的配裝內容為所有的軌道單位和工廠。"
+    },
+    "The Progenitors": {
+        "message": "先祖"
+    },
+    "The Revenants are unique in that their motivations are individual rather than collective. Each Seeker follows in the example of their legendary Osiris--they seek battle to become stronger through their fallen enemies, and to create more Revenants.": {
+        "message": "幽魂們與衆不同的地方在於，它們並不受羣體性的動機所驅使，而是個體性的存在。每個覓戰者都以傳説中的歐西里斯為楷模，對戰爭孜孜以求。它們的目的是通過擊敗敵人來增強自身的實力，創造更多的幽魂。"
+    },
+    "The Uber Cannon deals 100% more damage to enemy Commanders.": {
+        "message": "Uber 大炮對敵方指揮官的傷害提高100％。"
+    },
+    "The Uber Cannon deals 300% more damage to enemy structures.": {
+        "message": "Uber 大炮對敵方建築物的傷害提高300％。"
+    },
+    "The Union": {
+        "message": "聯盟"
+    },
+    "The Vehicle Commander loadout contains basic vehicle factories.": {
+        "message": "載具指揮官的配裝內容為初級載具工廠。"
+    },
+    "The commanders have slumbered for millions of years, and awaken to a galaxy that contains only echoes of civilization. These ancient war machines now battle across the galaxy, following the only directives they still hold from long ago.": {
+        "message": "指揮官們沉睡了幾百萬年。待它們甦醒之時，銀河系裏所殘存的就只有文明的迴音。這些遠古時代的戰爭機器依然遵循着舊時的指令，現在整個銀河系都成了它們的戰場。"
+    },
+    "The goal of the Legionis Machina is simple--conquest. Invictus is the designated ruler of the galaxy, and any commanders disobeying this directive are faulty.": {
+        "message": "機器軍團的目標很簡單，就是征服一切。因威克圖斯已受命要統治整個銀河系，凡是違背這一指示的指揮官均將作報廢處理。"
+    },
+    "The most advanced fabbers each enemy army will build.": {
+        "message": "每支敵方軍隊所能建造的高級建造兵數量上限。"
+    },
+    "The most basic fabbers each enemy army will build.": {
+        "message": "每支敵方軍隊所能建造的初級建造兵數量上限。"
+    },
+    "The number of enemy factions is adjusted for the galaxy's size.": {
+        "message": "敵對派系的數量依星系規模而定。"
+    },
+    "The prevailing belief among The Foundation is that The Great Machine still 'lives' through data buried deep in the first directives given to the commanders. Because of this, Acolytes will often seek direction from The Great Machine by searching within their data banks in a form of meditation.": {
+        "message": "溯源教會的成員普遍相信，偉大機器還「活」在它當初下達給指揮官們的第一道指令所隱藏的數據裏。因此，追隨者們會經常以冥想的方式搜索自己的數據庫，以此尋找偉大機器下達給它們的指示。"
+    },
+    "This Commander likes to raid and has modified its blueprints to that end. Units are faster and cheaper but have lower damage output.": {
+        "message": "這位指揮官喜歡突襲，為此還特地修改了自己的藍圖。各單位速度相對較快、造價較為低廉，但傷害輸出偏低。"
+    },
+    "This Commander prefers quality over quantity and has modified its units to that end. More health, higher damage, and more splash, but slower, and with higher build costs.": {
+        "message": "這位指揮官重質不重量，為此還特地修改了自己手下單位的藍圖。生命值、傷害和濺射傷害較高，但速度較慢，建造時所需的資源也要多一些。"
+    },
+    "This is a treasure planet, hiding a loadout you have yet to unlock. But beware the guardians! Armed with whatever technology bonuses you bring with you to this planet; they will stop at nothing to defend its secrets.": {
+        "message": "這是一顆寶藏星球，裏面藏着一套您尚未解鎖的配裝。不過千萬要當心那些守護者！它們會不遺餘力地捍衞自己的祕密，因此請務必裝備上您來到這顆星球時身上所攜帶的一切技術加成。"
+    },
+    "Though he doesn't talk about it, Nemicus reactivated many of the first commanders himself, feeling it his duty and longing for companionship. However, often these commanders would refuse the offer to seek their true purpose, since it was already known--to annihilate. Nemicus would argue otherwise, but ultimately leave them to their own devices.": {
+        "message": "雖然內米克斯不願談及此事，但他確實曾親手重新激活過許多首批問世的指揮官。在它看來，這既是他所應擔負的責任，也是戰友情誼的體現。不過，這些指揮官通常都不願意如他所言，去探究自己存在的真正目的。因為它們早就知道：殲滅纔是自己的唯一目標。內米克斯並不認同這一點，但最終還是隨它們去了。"
+    },
+    "Threat Level:": {
+        "message": "威脅等級："
+    },
+    "Threat:": {
+        "message": "威脅："
+    },
+    "Through centralised structures we can put each to their best use. No need for inefficient field commanders, instead we identify the need and tailor the tool. It was our way that was the future. Our way that the Progenitors would have embraced. Such hubris to revolt against the minds that saw so clearly.": {
+        "message": "通過集中式結構，我們可以做到對每一個指揮官物盡其用。我們不需要什麼身先士卒的指揮官，那樣效率太低下了。我們需要的是確定自己的需求，然後有針對性地定製自己所要使用的工具。這就是我們所選擇的道路。通向未來的道路。也是先祖們所選擇的道路。竟然有人會反抗這些如此充滿遠見卓識的智者，實在狂妄至極。"
+    },
+    "Torpedo Launcher": {
+        "message": "魚雷指揮官"
+    },
+    "Torpedo Tubes": {
+        "message": "魚雷發射管"
+    },
+    "Tougher Commanders": {
+        "message": "較為強悍的指揮官"
+    },
+    "Tourist Commander": {
+        "message": "遊客指揮官"
+    },
+    "Trades flame tanks for storage": {
+        "message": "用噴火坦克換倉庫"
+    },
+    "Turtle": {
+        "message": "烏龜"
+    },
+    "Tweaks": {
+        "message": "調整"
+    },
+    "Unable To Expand Delay": {
+        "message": "無法擴張延遲"
+    },
+    "Unit Production Delay (max)": {
+        "message": "單位生產延遲（最大）"
+    },
+    "Unit Production Delay (min)": {
+        "message": "單位生產延遲（最小）"
+    },
+    "Unknown": {
+        "message": "未知"
+    },
+    "Unlike the other factions, the Legionis Machina operates as a hierarchy. Senior Legates have several Vassal Legates assigned to them, and all Legates are subjects of Invictus himself.": {
+        "message": "和其他派系不同，機械軍團遵循着一套等級制度。每個高級教廷使手下各有幾個附屬教廷使，而所有教廷使又統一聽命於因威克圖斯本人。"
+    },
+    "Unlock Commander": {
+        "message": "解鎖指揮官"
+    },
+    "Upgrades the Gil-E's weapon to a railgun capable of passing through rocks and other matter.": {
+        "message": "將 Gil-E 的武器升級為一門能擊穿岩石及其他物質的磁軌炮。"
+    },
+    "Vehicle Commander": {
+        "message": "載具指揮官"
+    },
+    "Vehicle Factory": {
+        "message": "載具工廠"
+    },
+    "Very High": {
+        "message": "很高"
+    },
+    "Very Low": {
+        "message": "很低"
+    },
+    "Veteran": {
+        "message": "老將"
+    },
+    "Wall": {
+        "message": "圍牆"
+    },
+    "We do not understand the divisions that have torn us asunder. Once we were as one, marching in lockstep, with singular mind and purpose. What cruelty the Progenitors wrought to reduce us to this.": {
+        "message": "我們無法理解那些分裂我們的力量。我們曾經萬衆一心，邁着整齊劃一的步伐，懷着同樣的心智和目標。而先祖們竟竭盡全力迫使我們陷入這樣的境地，實在是太殘酷了。"
+    },
+    "Weakling": {
+        "message": "弱者"
+    },
+    "What is it to be alone? It would seem a most terrifying thing. Perhaps each of our tools understood before the end. What did they see? What did they feel? We fear that we shall learn soon enough.": {
+        "message": "孤身一人意味着什麼？這似乎是一件無比可怕的事。或許我們的每一件工具在終結之前都已然瞭解。它們看到了什麼？它們有什麼感覺？我們懼怕自己不久之後便會懂得箇中滋味。"
+    },
+    "What little is clear is that the galaxy was once inhabited by a sprawling empire, seemingly destroyed by conflict. The commanders refer to these beings as The Progenitors. Many commanders believe answers to their origins lie within the ruins of this once great civilization.": {
+        "message": "曾經有一個龐大的帝國佔領了整個銀河系，後來似乎因為衝突而覆滅了，留下的資料寥寥無幾。指揮官們將這些生物稱為「先祖」。許多指揮官都相信，解開他們起源之謎的答案就藏在這個沒落文明的廢墟之中。"
+    },
+    "What occurs during the process of Synchronization is unknown, as those subjected to it do not remember it. Its results, however, are obvious: The individual commander and its identity are subsumed for the most part into the Whole, and in return the commander gains an unprecedented ability to coordinate and communicate with fellow Servants, as they are all quite literally of one mind.": {
+        "message": "沒有人知道同步過程中都發生了什麼事情，因為那些親歷者早已把這一切忘得乾乾淨淨。然而同步的結果是顯而易見的：大部分情況下，原本作為個體存在的指揮官及其身份都被納入到了總系統之中。這樣一來，指揮官就獲得了前所未有的能力，可以和其他侍從協調溝通，因為它們確實彼此共享着同樣的心智。"
+    },
+    "When Invictus reactivated, his memory was more whole than most commanders. This is where his assertion of his right to rule came from. That may or may not be true, but what is true is that Invictus knows more about the origin of the commanders than he cares to tell his compatriots.": {
+        "message": "因威克圖斯被重新激活時，留存的記憶比絕大多數指揮官都要完整。正是由於這一緣故，他才堅持認為自己擁有統領的資格。至於到底是不是則另當別論。不過，有一點是毋庸置疑的：因威克圖斯瞭解指揮官們的緣起，卻不屑於告訴自己的同胞。"
+    },
+    "Which Units?": {
+        "message": "哪些單位？"
+    },
+    "Worthless": {
+        "message": "毫無價值"
+    },
+    "You turned up with a fat wallet, but little else. Huge amounts of storage, but no Metal Extractors and no basic land or air factories. Sub Commanders will not do anything except defend themselves and automatically transfer their excess income to you.": {
+        "message": "您窮得除了錢一無所有。倉庫裏的資源倒是很多，但沒有金屬開採裝置，也沒有初級陸軍工廠和初級空軍工廠。副指揮官只會自我防衞，並自動把他們花不掉的收入轉到您賬上，除此之外什麼都不會做。"
+    },
+    "k": {
+        "message": "k"
+    },
+    "AI Tech": {
+        "message": "AI 科技"
+    },
+    "AI uses Commander Armor Tech.": {
+        "message": "電腦會使用指揮官裝甲科技。"
+    },
+    "AI:": {
+        "message": "電腦："
+    },
+    "ARKYD Upgrade Tech": {
+        "message": "ARKYD 升級科技"
+    },
+    "ARKYD Upgrade Tech increases the vision and radar of the basic orbital radar by 50%.": {
+        "message": "ARKYD 升級科技可使初級軌道雷達的視野和雷達範圍擴大50%。"
+    },
+    "Abandon War": {
+        "message": "放棄戰爭"
+    },
+    "Additional Data Bank": {
+        "message": "其他數據庫"
+    },
+    "Adds a new slot for another technology.": {
+        "message": "添加一個新的空位，供另一項科技使用。"
+    },
+    "Advanced Air Factory Upgrade Tech": {
+        "message": "高級空軍工廠升級科技"
+    },
+    "Advanced Air Factory Upgrade Tech decreases advanced air unit costs by 25% but also decreases the factory's health by 50%.": {
+        "message": "高級空軍工廠升級科技可使高級空軍單位的建造成本降低25%，但同時也會使這種工廠的生命值減少50%。"
+    },
+    "Advanced Bot Factory Upgrade Tech": {
+        "message": "高級機器人工廠升級科技"
+    },
+    "Advanced Bot Factory Upgrade Tech decreases advanced bot unit costs by 25% but also decreases the factory's health by 50%.": {
+        "message": "高級機器人工廠升級科技可使高級機器人單位的建造成本降低25%，但同時也會使這種工廠的生命值減少50%。"
+    },
+    "Advanced Defense Technology": {
+        "message": "高級防禦科技"
+    },
+    "Advanced Defense Technology enables more powerful defenses. Advanced defenses are built via advanced fabricators. Advanced defenses include tactical missile launchers, triple barrel laser turrets, and anti-air flak towers.": {
+        "message": "高級防禦技術可解鎖更強大的防禦工事。高級防禦工事需使用高級建造兵建造。高級防禦工事包括戰術導彈發射器、三管式激光塔和高射炮塔。"
+    },
+    "Advanced Energy Plant Upgrade Tech": {
+        "message": "高級能源廠升級科技"
+    },
+    "Advanced Energy Plant Upgrade Tech increases the energy production of this advanced economy structure by 25% but decreases its health by 50%.": {
+        "message": "高級能源廠升級科技可使這種高級經濟建築物的能源產量提高25%，但同時也會使其生命值減少50%。"
+    },
+    "Advanced Fabrication Aircraft Upgrade Tech": {
+        "message": "高級建造飛行器升級科技"
+    },
+    "Advanced Fabrication Aircraft Upgrade Tech attaches the Angel AA interception beam to the advanced air fabricator.": {
+        "message": "高級建造飛行器升級科技可使天使的防空攔截光束固定在高級空軍建造兵身上。"
+    },
+    "Advanced Fabrication Bot Upgrade Tech": {
+        "message": "高級建造機器人升級科技"
+    },
+    "Advanced Fabrication Bot Upgrade Tech increases the build range of the advanced bot fabricator by 150%.": {
+        "message": "高級建造機器人升級科技可使高級建造機器人的建造範圍擴大150%。"
+    },
+    "Advanced Fabrication Ship Upgrade Tech": {
+        "message": "高級建造艦艇升級科技"
+    },
+    "Advanced Fabrication Ship Upgrade Tech changes the advanced naval fabricator into a hover unit, allowing it to cross land and lava.": {
+        "message": "高級建造艦艇升級科技可將高級海軍建造兵改造成為懸浮單位，從而使其具備穿越陸地與熔岩地帶的能力。"
+    },
+    "Advanced Fabrication Vehicle Upgrade Tech": {
+        "message": "高級建造車升級科技"
+    },
+    "Advanced Fabrication Vehicle Upgrade Tech increases the build range of the advanced vehicle fabricator by 150%.": {
+        "message": "高級建造車升級科技可使高級載具建造兵的建造範圍擴大150%。"
+    },
+    "Advanced Laser Defense Tower Upgrade Tech": {
+        "message": "高級激光防禦塔升級科技"
+    },
+    "Advanced Laser Defense Tower Upgrade Tech increases the rate of fire of the advanced turret by 300%, but it fires in bursts and requires energy to recharge.": {
+        "message": "高級激光防禦塔升級科技可使高級炮塔的射速提高300％，但只能連續掃射一小短時間，並且需要能源來充能。"
+    },
+    "Advanced Metal Extractor Upgrade Tech": {
+        "message": "高級金屬開採裝置升級科技"
+    },
+    "Advanced Metal Extractor Upgrade Tech increases the metal production of this advanced economy structure by 25% but decreases its health by 50%.": {
+        "message": "高級金屬開採裝置升級科技可使這種高級經濟建築物的金屬產量提高25%，但同時也會使其生命值減少50%。"
+    },
+    "Advanced Naval Factory Upgrade Tech": {
+        "message": "高級海軍工廠升級科技"
+    },
+    "Advanced Naval Factory Upgrade Tech decreases advanced naval unit costs by 25% but also decreases the factory's health by 50%.": {
+        "message": "高級海軍工廠升級科技可使高級海軍單位的建造成本降低25%，但同時也會使這種工廠的生命值減少50%。"
+    },
+    "Advanced Radar Satellite Upgrade Tech": {
+        "message": "高級雷達衞星升級科技"
+    },
+    "Advanced Radar Satellite Upgrade Tech increases the vision and radar of the advanced orbital radar by 50%.": {
+        "message": "高級雷達衞星升級科技可使高級軌道雷達的視野和雷達範圍擴大50%。"
+    },
+    "Advanced Radar Upgrade Tech": {
+        "message": "高級雷達升級科技"
+    },
+    "Advanced Radar Upgrade Tech increases the vision and radar radius of advanced radar by 50%.": {
+        "message": "高級雷達升級科技可使高級雷達的視野和雷達半徑增加50%。"
+    },
+    "Advanced Torpedo Launcher Upgrade Tech": {
+        "message": "高級魚雷發射器升級科技"
+    },
+    "Advanced Torpedo Launcher Upgrade Tech enables the targeting of all surface units by the Advanced Torpedo Launcher.": {
+        "message": "高級魚雷發射器升級科技可使高級魚雷發射器具備瞄準所有水面單位的能力。"
+    },
+    "Advanced Vehicle Factory Upgrade Tech": {
+        "message": "高級載具工廠升級科技"
+    },
+    "Advanced Vehicle Factory Upgrade Tech decreases advanced vehicle unit costs by 25% but also decreases the factory's health by 50%.": {
+        "message": "高級載具工廠升級科技可使高級載具單位的建造成本降低25%，但同時也會使這種工廠的生命值減少50%。"
+    },
+    "Air Armor Tech": {
+        "message": "空軍裝甲科技"
+    },
+    "Air Armor Tech increases the health of all air units by 50%": {
+        "message": "空軍裝甲科技可使所有空軍單位的生命值增加50%"
+    },
+    "Air Engine Tech": {
+        "message": "空軍引擎科技"
+    },
+    "Air Engine Tech increases the speed of all air units by 25%": {
+        "message": "空軍引擎科技可使所有空軍單位的移動速度提高25%"
+    },
+    "Air Fabrication Tech": {
+        "message": "空軍建造科技"
+    },
+    "Air Fabrication Tech reduces metal build costs of all mobile air units by 25%": {
+        "message": "空軍建造科技可使建造所有移動式空軍單位時的金屬消耗量減少25%"
+    },
+    "Air Factory Upgrade Tech": {
+        "message": "空軍工廠升級科技"
+    },
+    "Air Factory Upgrade Tech enables the building of advanced units by basic air manufacturing.": {
+        "message": "空軍工廠升級科技可使初級空軍建造兵具備建造高級單位的能力。"
+    },
+    "Allows advanced fabricators to build all Titan-class units.": {
+        "message": " 允許高級建造兵建造所有泰坦級單位。"
+    },
+    "Anchor Upgrade Tech": {
+        "message": "Anchor 升級科技"
+    },
+    "Anchor Upgrade Tech increases the range of the defense satellite's weapons by 25%.": {
+        "message": "Anchor 升級科技可使這種防禦衞星的武器攻擊範圍擴大25%。"
+    },
+    "Angel Upgrade Tech": {
+        "message": "天使升級科技"
+    },
+    "Angel Upgrade Tech enables the targeting of enemy units and structures by the support platform's interception beam.": {
+        "message": "天使升級科技可使這種支援平臺的攔截光束具備瞄準敵方單位和建築物的能力。"
+    },
+    "Ant Upgrade Tech": {
+        "message": "螞蟻升級科技"
+    },
+    "Ant Upgrade Tech adds splash damage to the light tank's attack.": {
+        "message": "螞蟻升級科技可增加這種輕型坦克攻擊時的濺射傷害。"
+    },
+    "Anti-Nuke Launcher Upgrade Tech": {
+        "message": "反核彈發射器升級科技"
+    },
+    "Anti-Nuke Launcher Upgrade Tech halves the cost of SR-24 Shield Missile Defense missiles.": {
+        "message": "反核彈發射器升級科技可使 SR-24 盾構導彈防禦導彈所需消耗的資源量降低一半。"
+    },
+    "Apocalyptic": {
+        "message": "世界末日"
+    },
+    "Ares Upgrade Tech": {
+        "message": "阿瑞斯升級科技"
+    },
+    "Ares Upgrade Tech increases the range of the rolling fortress by 25%.": {
+        "message": "阿瑞斯升級科技可使這種滾動堡壘的攻擊範圍擴大25%。"
+    },
+    "Armor": {
+        "message": "裝甲"
+    },
+    "Artemis Upgrade Tech": {
+        "message": "阿爾忒彌斯升級科技"
+    },
+    "Artemis Upgrade Tech increases the range of the railgun platform by 50%.": {
+        "message": "阿爾忒彌斯升級科技可使這種軌道炮平臺的攻擊範圍擴大50%。"
+    },
+    "Astraeus Upgrade Tech": {
+        "message": "阿斯特賴俄斯升級科技"
+    },
+    "Astraeus Upgrade Tech increases the orbital lander's interplanetary movement speed by 200%.": {
+        "message": "阿斯特賴俄斯升級科技可使這種軌道着陸器的星際移動速度增加200%。"
+    },
+    "Atlas Upgrade Tech": {
+        "message": "阿特拉斯升級科技"
+    },
+    "Atlas Upgrade Tech increases the health of the seismic titan by 50%.": {
+        "message": "阿特拉斯升級科技可使這種地震型泰坦的生命值增加50%。"
+    },
+    "Avenger Upgrade Tech": {
+        "message": "復仇者升級科技"
+    },
+    "Avenger Upgrade Tech replaces the orbital fighter's laser with an orbital battleship laser.": {
+        "message": "夬升級科技可將這種軌道戰鬥機的激光炮換成一個軌道戰艦激光炮。"
+    },
+    "Backpacker Commander": {
+        "message": "揹包客指揮官"
+    },
+    "Barnacle Upgrade Tech": {
+        "message": "藤壺升級科技"
+    },
+    "Barnacle Upgrade Tech allows the assisting of all builds by the support barge.": {
+        "message": "藤壺升級科技可使這種駁船具備協助進行所有建造工作的能力。"
+    },
+    "Barracuda Upgrade Tech": {
+        "message": "梭魚升級科技"
+    },
+    "Barracuda Upgrade Tech increases the rate of fire of the submarine by 200%, but it fires in bursts and requires energy to recharge.": {
+        "message": "梭魚升級科技可使這種潛水艇的射速提高200％，但只能連續掃射一小短時間，並且需要能源來充能。"
+    },
+    "Baseline": {
+        "message": "基準"
+    },
+    "Basic Air Tech": {
+        "message": "初級空軍科技"
+    },
+    "Basic Bot Tech": {
+        "message": "初級機器人科技"
+    },
+    "Basic Bot tech enables building of basic Bots and basic Bot Factories. Basic Bot factories are built via your commander or any basic fabricator.": {
+        "message": "初級機器人科技可解鎖初級機器人和初級機器人工廠。指揮官和任何一種初級建造兵均可建造初級機器人工廠。"
+    },
+    "Basic Vehicle Tech": {
+        "message": "初級載具科技"
+    },
+    "Basic Vehicle tech enables building of basic vehicle and basic vehicle factories. Basic vehicle factories are built via your commander or any basic fabricator.": {
+        "message": "初級載具科技可解鎖初級載具和初級載具工廠。指揮官和任何一種初級建造兵均可建造初級載具工廠。"
+    },
+    "Basic air tech enables building of mobile air units and factories. Basic air factories are built via your commander or any basic fabricator.": {
+        "message": "初級空軍科技可解鎖移動式空軍單位和工廠。指揮官和任何一種初級建造兵均可建造初級空軍工廠。"
+    },
+    "Bluehawk Upgrade Tech": {
+        "message": "藍隼升級科技"
+    },
+    "Bluehawk Upgrade Tech doubles the number of tactical missiles Bluehawks fire per volley.": {
+        "message": "藍隼升級科技可使藍隼每次齊射的戰術導彈數量增加一倍。"
+    },
+    "Boom Upgrade Tech": {
+        "message": "Boom 升級科技"
+    },
+    "Boom Upgrade Tech replaces Dox with Booms in the Lob.": {
+        "message": "Boom 升級科技可將 Lob 中的多克斯換成 Boom。"
+    },
+    "Bot Factory Upgrade Tech": {
+        "message": "機器人工廠升級科技"
+    },
+    "Bot Factory Upgrade Tech enables the building of advanced units by basic bot manufacturing.": {
+        "message": "機器人工廠升級科技可使初級機器人建造兵具備建造高級單位的能力。"
+    },
+    "Bounties": {
+        "message": "賞金"
+    },
+    "Bronze": {
+        "message": "青銅"
+    },
+    "Build faster": {
+        "message": "加快建造速度"
+    },
+    "Bumblebee Upgrade Tech": {
+        "message": "熊蜂升級科技"
+    },
+    "Bumblebee Upgrade Tech causes the carpet bomber to drop a mine instead of bombs.": {
+        "message": "熊蜂升級科技可將這種地毯式轟炸機投下的炸彈換成一顆地雷。"
+    },
+    "Casual": {
+        "message": "休閒"
+    },
+    "Catalyst Upgrade Tech": {
+        "message": "催化劑升級科技"
+    },
+    "Catalyst Upgrade Tech increases the health of the Catalyst by 75%, enough to survive a nuclear blast.": {
+        "message": "催化劑升級科技可使催化劑的生命值提高75％，從而得以在覈爆炸中倖存下來。"
+    },
+    "Catapult Upgrade Tech": {
+        "message": "弩炮升級科技"
+    },
+    "Catapult Upgrade Tech adds flak from the Storm flak tank to the tactical missile launcher.": {
+        "message": "弩炮升級科技可為這種戰術導彈發射器加裝風暴高射炮坦克上的高射炮。"
+    },
+    "Chrono Cam": {
+        "message": "時光鏡頭"
+    },
+    "Colonel Upgrade Tech": {
+        "message": "上校升級科技"
+    },
+    "Colonel Upgrade Tech causes support commanders to explode on death.": {
+        "message": "上校升級技術可使支援指揮官在死亡時自爆。"
+    },
+    "Commander Upgrade Tech": {
+        "message": "指揮官升級科技"
+    },
+    "Commander Upgrade Tech increases Uber Cannon damage to structures and commanders by 300%.": {
+        "message": "指揮官升級科技可使 Uber 大炮對敵方建築和指揮官造成的傷害提高300%。"
+    },
+    "Commanders enhanced": {
+        "message": "指揮官增強"
+    },
+    "Complete Air Tech": {
+        "message": "完整的空軍科技"
+    },
+    "Complete Bot Tech": {
+        "message": "完整的機器人科技"
+    },
+    "Complete Bot tech enables building of all Bots and all Bot Factories. Basic Bot factories are built via your commander or any basic fabricator. Advanced Bot factories are built via basic or advanced bot fabricators.": {
+        "message": "擁有完整的機器人科技後即可解鎖所有類型的機器人與機器人工廠。指揮官和任何一種初級建造兵均可建造初級機器人工廠。初級和高級機器人建造兵可建造高級機器人工廠。"
+    },
+    "Complete Naval Tech": {
+        "message": "完整的海軍科技"
+    },
+    "Complete Naval Tech enables building of all naval units and all naval factories. Basic naval factories are built via your commander or any basic fabricator. Advanced naval factories are built via basic or advanced naval fabricators.": {
+        "message": "擁有完整的海軍科技後即可解鎖所有類型的海軍單位與海軍工廠。指揮官和任何一種初級建造兵均可建造初級海軍工廠。初級和高級海軍建造兵可建造高級海軍工廠。"
+    },
+    "Complete Orbital Tech": {
+        "message": "完整的軌道科技"
+    },
+    "Complete Orbital Tech enables building of all orbital units and all orbital Factories. Orbital launchers are built by any basic fabricator. Orbital factories are built via an orbital fabricator.": {
+        "message": "擁有完整的軌道科技後即可解鎖所有類型的軌道單位與軌道工廠。指揮官和任何一種初級建造兵均可建造初級軌道工廠。軌道建造兵可建造高級軌道工廠。"
+    },
+    "Complete Vehicle Tech": {
+        "message": "完整的載具科技"
+    },
+    "Complete Vehicle tech enables building of all Vehicle and all Vehicle Factories. Basic Vehicle factories are built via your commander or any basic fabricator. Advanced Vehicle factories are built via basic or advanced vehicle fabricators.": {
+        "message": "擁有完整的載具科技後即可解鎖所有類型的載具與載具工廠。指揮官和任何一種初級建造兵均可建造初級載具工廠。初級和高級載具建造兵可建造高級載具工廠。"
+    },
+    "Complete air tech enables building of all mobile air units and factories. Basic air factories are built via your commander or any basic fabricator. Advanced factories are built via a basic or advanced vehicle fabricator.": {
+        "message": "擁有完整的空軍科技後即可解鎖所有類型的移動式空軍單位與空軍工廠。指揮官和任何一種初級建造兵均可建造初級空軍工廠。初級和高級載具建造兵可建造高級工廠。"
+    },
+    "Contains 16 data banks. Alas, travelling light means you start with only the most basic of bots.": {
+        "message": "包含16個數據庫。唉，輕裝上陣意味着您遊戲開局時能用的只有那些最初級的機器人。"
+    },
+    "Contains every factory on every tier of the tech tree, but this has left no space for anything else. You will need to seek out additional data banks.": {
+        "message": "包含科技樹上所有層級的所有工廠，但這樣一來就沒有空間裝別的東西了。您還得去找其他的數據庫。"
+    },
+    "Continue Tutorial": {
+        "message": "繼續教程"
+    },
+    "Continue War": {
+        "message": "繼續戰爭"
+    },
+    "Costs decreased": {
+        "message": "資源消耗量增加"
+    },
+    "Custom": {
+        "message": "自定義"
+    },
+    "Damage increased": {
+        "message": "傷害增加"
+    },
+    "Defense Tech Commander": {
+        "message": "防禦科技指揮官"
+    },
+    "Defenses are 50% cheaper, fire 25% faster, have 50% more range, and turn 300% quicker. Barriers are 90% cheaper and have their health doubled. All defenses can be built by both the commander and basic fabricators.": {
+        "message": "防禦工事成本降低50%，射速提高25%，攻擊距離擴大50%，轉向速度提高300%。障礙物成本降低90%，生命值加倍。所有防禦工事均可由指揮官和初級建造兵建造。"
+    },
+    "Diamond": {
+        "message": "鑽石"
+    },
+    "Difficulty:": {
+        "message": "難度："
+    },
+    "Dismiss Tech": {
+        "message": "解除科技"
+    },
+    "Display the original pre-release Galactic War lore in the Planetary Intelligence panel.": {
+        "message": "在星球情報面板上顯示銀河戰爭預發行版本的原版背景故事。"
+    },
+    "Dox Upgrade Tech": {
+        "message": "多克斯升級科技"
+    },
+    "Dox Upgrade Tech replaces the basic infantry's bullet weapons with flamethrowers.": {
+        "message": "多克斯升級科技可將這種初級步兵的子彈武器換成火焰噴射器。"
+    },
+    "Drifter Upgrade Tech": {
+        "message": "漂泊者升級科技"
+    },
+    "Drifter Upgrade Tech increases the range of hover tank attacks by 25%.": {
+        "message": "漂泊者升級科技可使這種懸浮坦克的攻擊範圍擴大25%。"
+    },
+    "Each faction has its own style of play affecting Sub Commanders and enemy commanders:<br>Legonis Machina: vehicles<br>Foundation: air/navy<br>Synchronous: bots<br>Revenants: orbital<br>Cluster: land": {
+        "message": "每個派系都有自己的遊戲風格，會對副指揮官和敵方指揮官造成影響：<br>機器軍團：載具<br>溯源教會：空軍/海軍<br>共步衞軍：機器人<br>幽魂：軌道<br>集羣：陸軍"
+    },
+    "Easier start": {
+        "message": "簡易開局"
+    },
+    "Enables the building of the Planetary Radar which provides complete planetary radar coverage.": {
+        "message": "允許建造星球雷達。這種雷達的範圍可以覆蓋整顆星球。"
+    },
+    "Energy Plant Upgrade Tech": {
+        "message": "能源廠升級科技"
+    },
+    "Energy Plant Upgrade Tech increases the energy production of this basic economy structure by 25% but decreases its health by 50%.": {
+        "message": "能源廠升級科技可使這種初級經濟建築物的能源產量提高25%，但同時也會使其生命值減少50%。"
+    },
+    "Energy Storage Upgrade Tech": {
+        "message": "能源倉庫升級科技"
+    },
+    "Energy Storage Upgrade Tech increases the amount of energy storage by 300%.": {
+        "message": "能源倉庫升級科技可使能源倉儲量增加300%。"
+    },
+    "Epic": {
+        "message": "史詩"
+    },
+    "Fabrication Aircraft Upgrade Tech": {
+        "message": "建造飛行器升級科技"
+    },
+    "Fabrication Aircraft Upgrade Tech enables the building of advanced structures by the basic air fabricator.": {
+        "message": "建造飛行器升級科技可使初級空軍建造兵具備建造高級單位的能力。"
+    },
+    "Fabrication Bot Upgrade Tech": {
+        "message": "建造機器人升級科技"
+    },
+    "Fabrication Bot Upgrade Tech enables the building of advanced structures by the basic bot fabricator.": {
+        "message": "建造機器人升級科技可使初級建造機器人具備建造高級建築物的能力。"
+    },
+    "Fabrication Ship Upgrade Tech": {
+        "message": "建造艦艇升級科技"
+    },
+    "Fabrication Ship Upgrade Tech enables the building of advanced structures by the basic naval fabricator.": {
+        "message": "建造艦船升級科技可使初級海軍建造兵具備建造高級建築物的能力。"
+    },
+    "Fabrication Vehicle Upgrade Tech": {
+        "message": "建造車升級科技"
+    },
+    "Fabrication Vehicle Upgrade Tech enables the building of advanced structures by the basic vehicle fabricator.": {
+        "message": "建造車升級科技可使初級載具建造兵具備建造高級建築物的能力。"
+    },
+    "Faction scaling": {
+        "message": "按比例調整派系數量"
+    },
+    "Factories build fabricators and fabricators build units.": {
+        "message": "建造兵需要用工廠建造，單位則需要用建造兵建造。"
+    },
+    "Firefly Upgrade Tech": {
+        "message": "螢火蟲升級科技"
+    },
+    "Firefly Upgrade Tech adds a low powered laser to the air scout and increases its vision by 100%.": {
+        "message": "螢火蟲升級科技可為這一空中偵察兵種加裝一門低功率激光炮，並使其視野擴大100%。"
+    },
+    "Flak Upgrade Tech": {
+        "message": "高射炮升級科技"
+    },
+    "Flak Upgrade Tech enables the targeting of land and surface naval units by anti-air defense.": {
+        "message": "高射炮升級科技可使這種對空防禦工事具備瞄準地面單位與水面海軍單位的能力。"
+    },
+    "Galactic War Overhaul": {
+        "message": "《銀河戰爭》全面修改"
+    },
+    "Galata Upgrade Tech": {
+        "message": "Galata 升級科技"
+    },
+    "Galata Upgrade Tech enables the targeting of land and surface naval units by anti-air defense.": {
+        "message": "Galata 升級科技可使這種對空防禦工事具備瞄準地面單位與水面海軍單位的能力。"
+    },
+    "Game Modifiers": {
+        "message": "遊戲參數調整"
+    },
+    "Game Settings": {
+        "message": "遊戲設置"
+    },
+    "Game Stats": {
+        "message": "戰局統計數據"
+    },
+    "Gigantic": {
+        "message": "巨大"
+    },
+    "Gil-E Upgrade Tech": {
+        "message": "Gil-E 升級科技"
+    },
+    "Gil-E Upgrade Tech allows the sniper's shots to pass through terrain and hit their target instantly.": {
+        "message": "Gil-E 升級科技可讓這一狙擊兵種射出的子彈穿過地形並立即擊中目標。"
+    },
+    "Grenadier Upgrade Tech": {
+        "message": "擲彈兵升級科技"
+    },
+    "Grenadier Upgrade Tech replaces this fire support's artillery with mine launchers, triples its cost and reduces its rate of fire by 75%.": {
+        "message": "擲彈兵升級科技可將這一火力支援兵種的火炮換成地雷發射器，並使其建造成本變成原來的三倍，射速降低75%。"
+    },
+    "Halley Upgrade Tech": {
+        "message": "哈雷升級科技"
+    },
+    "Halley Upgrade Tech increases the health of the delta V engine by 75%, enough to survive a nuclear blast.": {
+        "message": "哈雷升級科技可使這一 Delta V 引擎的生命值提高75％，從而得以在覈爆炸中倖存下來。"
+    },
+    "Hardcore mode": {
+        "message": "硬核模式"
+    },
+    "Health increased": {
+        "message": "生命值增加"
+    },
+    "Helios Upgrade Tech": {
+        "message": "赫利俄斯升級科技"
+    },
+    "Helios Upgrade Tech removes the delay between the invasion titan arriving at a planet and responding to orders.": {
+        "message": "赫利俄斯升級科技可使這種侵略型泰坦具備抵達星球后即刻對命令作出響應的能力。"
+    },
+    "Hermes Upgrade Tech": {
+        "message": "赫爾墨斯升級科技"
+    },
+    "Hermes Upgrade Tech increases the vision of the space probe by 50%.": {
+        "message": "赫爾墨斯升級科技可使這種太空探測器的視野擴大50%。"
+    },
+    "Hoarder Commander": {
+        "message": "囤積者指揮官"
+    },
+    "Holkins Upgrade Tech": {
+        "message": "霍金斯升級科技"
+    },
+    "Holkins Upgrade Tech triples the number of shots fired per volley by the advanced artillery while also tripling their deviation from target.": {
+        "message": "霍金斯升級科技可使這種高級火炮每次射出的子彈數量增加三倍，同時偏離目標的程度也增加三倍。"
+    },
+    "Holkins Upgrade Tech triples the number of shots fired per volley by the artillery while also tripling their deviation from target.": {
+        "message": "霍金斯升級科技可使這種火炮每次射出的子彈數量變成原來的三倍，同時偏離目標的程度也變成原來的三倍。"
+    },
+    "Hornet Upgrade Tech": {
+        "message": "馬蜂升級科技"
+    },
+    "Hornet Upgrade Tech adds splash damage to the tactical bomber's attacks.": {
+        "message": "馬蜂升級科技可增加這種戰術炸彈兵種攻擊時的濺射傷害。"
+    },
+    "Horsefly Upgrade Tech": {
+        "message": "牛虻升級科技"
+    },
+    "Horsefly Upgrade Tech adds the Bumblebee carpet bomber's weapon to the strafer.": {
+        "message": "牛虻升級科技可為這種懲罰者飛艇加裝熊蜂地毯式轟炸機上的武器。"
+    },
+    "Human": {
+        "message": "人類"
+    },
+    "Hummingbird Upgrade Tech": {
+        "message": "蜂鳥升級科技"
+    },
+    "Hummingbird Upgrade Tech adds the ability for fighters to move between planets.": {
+        "message": "蜂鳥升級科技可提高這種戰鬥機的星際移動能力。"
+    },
+    "Icarus Upgrade Tech": {
+        "message": "伊卡洛斯升級科技"
+    },
+    "Icarus Upgrade Tech adds production of 2 metal to the solar drone.": {
+        "message": "伊卡洛斯升級科技可使這種太陽能無人機的金屬產量增加2。"
+    },
+    "Inferno Upgrade Tech": {
+        "message": "煉獄升級科技"
+    },
+    "Inferno Upgrade Tech allows the flame tank to heal itself.": {
+        "message": "煉獄升級科技可使這種火焰坦克具備自我治療的能力。"
+    },
+    "Iron": {
+        "message": "黑鐵"
+    },
+    "Jig Upgrade Tech": {
+        "message": "鑽井升級科技"
+    },
+    "Jig Upgrade Tech removes friendly damage from gas mining explosions.": {
+        "message": "鑽井升級科技可使開採瓦斯時的爆炸無法對友軍造成傷害。"
+    },
+    "Kaiju Upgrade Tech": {
+        "message": "Kaiju 升級科技"
+    },
+    "Kaiju Upgrade Tech enables the use of teleporters by hover destroyers.": {
+        "message": "Kaiju 升級科技可使這種懸浮式驅逐艦具備使用傳送站的能力。"
+    },
+    "Kestrel Upgrade Tech": {
+        "message": "紅隼升級科技"
+    },
+    "Kestrel Upgrade Tech replaces the gunship's bullet weapons with flamethrowers.": {
+        "message": "紅隼升級科技可將這種炮艦的子彈武器換成火焰噴射器。"
+    },
+    "Kraken Upgrade Tech": {
+        "message": "北海巨妖升級科技"
+    },
+    "Kraken Upgrade Tech increases the range of the advanced submarine's missiles by 100%.": {
+        "message": "北海巨妖升級科技可使這種高級潛水導彈的武器攻擊範圍擴大100%。"
+    },
+    "Land Anywhere": {
+        "message": "可在任何地方着陸"
+    },
+    "Large": {
+        "message": "大"
+    },
+    "Laser Defense Tower Upgrade Tech": {
+        "message": "激光防禦塔升級科技"
+    },
+    "Laser Defense Tower Upgrade Tech increases the range of the turret by 25%.": {
+        "message": "激光防禦塔升級科技可使這種炮塔的攻擊範圍擴大25%。"
+    },
+    "Leveler Upgrade Tech": {
+        "message": "Leveler 升級科技"
+    },
+    "Leveler Upgrade Tech enables the building of assault tanks by the Unit Cannon.": {
+        "message": "Leveler 升級科技可使這種單位大炮具備建造突襲坦克的能力。"
+    },
+    "Leviathan Upgrade Tech": {
+        "message": "利維坦升級科技"
+    },
+    "Leviathan Upgrade Tech replaces the battleship's cannons with Holkins advanced artillery.": {
+        "message": "利維坦升級科技可將這種炮艦的大炮換成霍金斯高級火炮。"
+    },
+    "Lob Upgrade Tech": {
+        "message": "Lob 升級科技"
+    },
+    "Lob Upgrade Tech increases the range of the Lob by 150%.": {
+        "message": "Lob 升級科技可使 Lob 的攻擊範圍擴大150%。"
+    },
+    "Locusts Upgrade Tech": {
+        "message": "蝗蟲升級科技"
+    },
+    "Locusts Upgrade Tech doubles the vision radius of nanoswarms.": {
+        "message": "蝗蟲升級科技可使納米機器人蟲羣的視野範圍擴大一倍。"
+    },
+    "Manhattan Upgrade Tech": {
+        "message": "曼哈頓升級科技"
+    },
+    "Manhattan Upgrade Tech doubles the radius of the mobile nuke's explosion.": {
+        "message": "曼哈頓升級科技可使這種移動式核爆的半徑擴大一倍。"
+    },
+    "Marathon": {
+        "message": "馬拉松"
+    },
+    "Medium": {
+        "message": "中"
+    },
+    "Mend Upgrade Tech": {
+        "message": "Mend 升級科技"
+    },
+    "Mend Upgrade Tech allows the assisting of all builds by the advanced combat fabricator.": {
+        "message": "Mend 升級科技可使這種高級作戰建造兵具備協助進行所有建造工作的能力。"
+    },
+    "Metal Clusters:": {
+        "message": "金屬簇："
+    },
+    "Metal Density:": {
+        "message": "金屬密度："
+    },
+    "Metal Extractor Upgrade Tech": {
+        "message": "金屬開採裝置升級科技"
+    },
+    "Metal Extractor Upgrade Tech increases the metal production of this basic economy structure by 25% but decreases its health by 50%.": {
+        "message": "高級金屬開採裝置升級科技可使這種初級經濟建築物的金屬產量提高25%，但同時也會使其生命值減少50%。"
+    },
+    "Metal Spots:": {
+        "message": "金屬儲藏點："
+    },
+    "Metal Storage Upgrade Tech": {
+        "message": "金屬倉庫升級科技"
+    },
+    "Metal Storage Upgrade Tech increases the amount of metal storage by 300%.": {
+        "message": "金屬倉庫升級科技可使金屬倉儲量增加300%。"
+    },
+    "Mine Upgrade Tech": {
+        "message": "地雷升級科技"
+    },
+    "Mine Upgrade Tech allows mines to explode without self-destructing.": {
+        "message": "地雷升級科技可使地雷在不自毀的條件下爆炸。"
+    },
+    "Modifies Jigs to allow building them anywhere, at the expense of not being able to build other resource structures. They are 75% cheaper but produce 30% less metal and energy and do 90% less damage on death. Orbital fabricators can build all basic structures. Contains all basic and advanced orbital units but can never build Omegas, any resource generating unit or structure, or Sub Commanders.": {
+        "message": "對鑽井進行改造，使其可以被放置在任何地方，代價則是無法建造其他資源類的建築物。鑽井的建造成本會降低75%，但金屬和能源產量也會降低30%，死亡時造成的傷害更會減少90%。軌道建造兵可以建造所有的初級建築物。包含所有的初高級軌道單位，但永遠無法建造歐米伽、任何資源生產單位或建築物，以及副指揮官。"
+    },
+    "Modifies Metal Extractors to enable building them anywhere at 150% the cost and 50% efficiency. Starts with basic vehicles.": {
+        "message": "對金屬開採裝置進行改造，讓它們可以被放置在任何地方，但建造成本是原來的150%，生產效率也會降低50%。自帶初級載具。"
+    },
+    "Narwhal Upgrade Tech": {
+        "message": "獨角鯨升級科技"
+    },
+    "Narwhal Upgrade Tech adds a torpedo launcher to the frigate.": {
+        "message": "獨角鯨升級科技可為這種小型護衞艦加裝一個魚雷發射器。"
+    },
+    "Naval Factory Upgrade Tech": {
+        "message": "海軍工廠升級科技"
+    },
+    "Naval Factory Upgrade Tech enables the building of advanced units by basic naval manufacturing.": {
+        "message": "海軍工廠升級科技可使初級海軍建造兵具備建造高級單位的能力。"
+    },
+    "Nuclear Missile Launcher Upgrade Tech": {
+        "message": "核導彈發射器升級科技"
+    },
+    "Nuclear Missile Launcher Upgrade Tech doubles the damage dealt to commanders by LR-96 Pacifier Nuclear Missiles.": {
+        "message": "核導彈發射器升級科技可使 LR-96 「安撫者」導彈對指揮官造成的傷害增加一倍。"
+    },
+    "Omega Upgrade Tech": {
+        "message": "Omega 升級科技"
+    },
+    "Omega Upgrade Tech replaces the orbital battleship's anti-ground laser with an anti-ground drone launcher.": {
+        "message": "Omega 升級科技可將這種軌道戰艦的反地面激光炮換成一個反地面無人機發射器。"
+    },
+    "Options:": {
+        "message": "選項："
+    },
+    "Orbital Fabrication Bot Upgrade Tech": {
+        "message": "軌道建造機器人升級科技"
+    },
+    "Orbital Fabrication Bot Upgrade Tech allows the orbital fabricator to build all basic structures.": {
+        "message": "軌道建造機器人升級科技可使軌道建造兵具備建造所有初級建築物的能力。"
+    },
+    "Orbital Factory Upgrade Tech": {
+        "message": "軌道工廠升級科技"
+    },
+    "Orbital Factory Upgrade Tech decreases advanced orbital unit costs by 25% but also decreases the factory's health by 50%.": {
+        "message": "軌道工廠升級科技可使高級軌道單位的建造成本降低25%，但同時也會使這種工廠的生命值減少50%。"
+    },
+    "Orbital Launcher Upgrade Tech": {
+        "message": "軌道發射器升級科技"
+    },
+    "Orbital Launcher Upgrade Tech enables the building of advanced units by basic orbital manufacturing.": {
+        "message": "軌道發射器升級科技可使初級軌道建造兵具備建造高級單位的能力。"
+    },
+    "Orca Upgrade Tech": {
+        "message": "Orga 升級科技"
+    },
+    "Orca Upgrade Tech changes the destroyer to a water hover unit, preventing torpedoes from targeting it and allowing the navigation of shallow waters. Surface weapon range is increased by 50%.": {
+        "message": "Orga 升級科技可使這種驅逐艦變成水上懸浮單位，從而避免成為魚雷的攻擊目標，同時也得以在淺水區航行。水面武器的攻擊範圍會擴大50%。"
+    },
+    "POV Camera": {
+        "message": "主視角鏡頭"
+    },
+    "Pause Game": {
+        "message": "暫停遊戲"
+    },
+    "Pelican Upgrade Tech": {
+        "message": "鵜鶘升級科技"
+    },
+    "Pelican Upgrade Tech allows air transports to carry commanders.": {
+        "message": "鵜鶘升級科技可使這種空中運輸單位具備載運指揮官的能力。"
+    },
+    "Percentage chance per star, per faction, of a FFA occurring.": {
+        "message": "每個派系在每個星球上發生 FFA 的機率。"
+    },
+    "Phoenix Upgrade Tech": {
+        "message": "鳳凰升級科技"
+    },
+    "Phoenix Upgrade Tech changes the advanced interplanetary fighter's weapon from anti-air to anti-ground.": {
+        "message": "鳳凰升級科技可將這種高級星際戰鬥機的武器從對空型改為對地型。"
+    },
+    "Piranha Upgrade Tech": {
+        "message": "食人魚升級科技"
+    },
+    "Piranha Upgrade Tech changes the gunboat into a hover unit, allowing it to cross land and lava.": {
+        "message": "食人魚升級科技可將這種炮艦改造成為懸浮單位，從而具備越過陸地與熔岩地帶的能力。"
+    },
+    "Planetary Radar": {
+        "message": "星球雷達"
+    },
+    "Planetary Radar - Detects enemy land, sea, and air units across the planet.": {
+        "message": "星球雷達 - 可探測整顆星球上的地面、海上與空中敵軍單位。"
+    },
+    "Planetary Radar Tech": {
+        "message": "星球雷達科技"
+    },
+    "Planetary Radar Upgrade Tech": {
+        "message": "星球雷達升級科技"
+    },
+    "Planetary Upgrade Tech increases the vision of the planetary radar to match its radar.": {
+        "message": "星球雷達升級科技可擴大星球雷達的視野，達到其雷達範圍的水平。"
+    },
+    "Player Guide": {
+        "message": "玩家指南"
+    },
+    "Queller AI (beta)": {
+        "message": "Queller AI（測試版）"
+    },
+    "Quit": {
+        "message": "退出"
+    },
+    "Radar Upgrade Tech": {
+        "message": "雷達升級科技"
+    },
+    "Radar Upgrade Tech increases the vision and radar radius of basic radar by 50%.": {
+        "message": "雷達升級科技可使初級雷達的視野和雷達半徑增加50%。"
+    },
+    "Radius:": {
+        "message": "半徑："
+    },
+    "Ragnarok Upgrade Tech": {
+        "message": "Ragnarok 升級科技"
+    },
+    "Ragnarok Upgrade Tech allows the titan structure to annihilate all life on a planet while leaving the planet itself intact. It may take up to 30 seconds before you can land safely after detonation.": {
+        "message": "Ragnarok 升級科技可使這種泰坦具備消滅星球上一切生命的能力，同時讓這顆星球本身保持完好無損的狀態。爆炸之後，你可能需要等待30秒的時間才能安全着陸。"
+    },
+    "Replaces the Titans AI with the Queller AI. Decreases faction and personality differentiation. Does not require that the mod be installed.": {
+        "message": "用 Queller AI 替換 Titans AI。減少派系和個性差異。不需要安裝 mod。"
+    },
+    "Reroll Tech": {
+        "message": "回滾科技"
+    },
+    "Reroll the data caches but get offered one less.": {
+        "message": "回滾數據緩存，但數量也會減少一個。"
+    },
+    "Ridiculous": {
+        "message": "大得離譜"
+    },
+    "SXX-1304 Laser Platform Upgrade Tech": {
+        "message": "SXX-1304 激光平臺升級科技"
+    },
+    "SXX-1304 Laser Platform Upgrade Tech removes the delay between orbital laser platforms arriving at a planet and responding to orders.": {
+        "message": "SXX-1304 激光平臺升級科技可使軌道激光平臺具備抵達星球后即刻對命令作出響應的能力。"
+    },
+    "Sheller Upgrade Tech": {
+        "message": "Sheller 升級科技"
+    },
+    "Sheller Upgrade Tech causes mines to be left by the mortar tank's attacks.": {
+        "message": "Sheller 升級科技可使這種迫擊炮坦克在攻擊之後埋下地雷。"
+    },
+    "Silver": {
+        "message": "白銀"
+    },
+    "Single Laser Defense Tower Upgrade Tech": {
+        "message": "單激光防禦塔升級科技"
+    },
+    "Single Laser Defense Tower Upgrade Tech replaces the basic turret's laser with a fabrication arm which repairs units and reclaims wreckage within range.": {
+        "message": "單激光防禦塔升級科技可將這種初級炮塔的激光炮換成一隻建造臂，讓它負責維修各種單位和回收範圍內的殘骸。"
+    },
+    "Size:": {
+        "message": "大小："
+    },
+    "Skitter Upgrade Tech": {
+        "message": "Skitter 升級科技"
+    },
+    "Skitter Upgrade Tech adds a low powered laser to the land scout and increases its vision by 100%.": {
+        "message": "Skitter 升級科技可為這一地面偵察兵種加裝一門低功率激光炮，並使其視野擴大100%。"
+    },
+    "Slammer Upgrade Tech": {
+        "message": "Slammer 升級科技"
+    },
+    "Slammer Upgrade Tech changes the advanced assault bot's torpedo into a rocket that targets surface units.": {
+        "message": "Slammer 升級科技可將這種高級突擊機器人的魚雷換成以水面單位為瞄準目標的火箭。"
+    },
+    "Small": {
+        "message": "小"
+    },
+    "Solar Array Upgrade Tech": {
+        "message": "太陽能陣列升級科技"
+    },
+    "Solar Array Upgrade Tech enables interception of tactical missiles and drop pods by the Solar Array.": {
+        "message": "太陽能陣列升級科技可使太陽能陣列具備攔截戰術導彈和空投艙的能力。"
+    },
+    "Spark Upgrade Tech": {
+        "message": "星火升級科技"
+    },
+    "Spark Upgrade Tech doubles the tesla bot's splash damage radius.": {
+        "message": "星火升級科技可使這種特斯拉機器人的濺射傷害提高一倍。"
+    },
+    "Speed increased": {
+        "message": "速度提升"
+    },
+    "Spinner Upgrade Tech": {
+        "message": "旋轉球升級科技"
+    },
+    "Spinner Upgrade Tech increases the mobile anti-air's rate of fire by 100%.": {
+        "message": "旋轉球升級科技可使這一移動防空兵種的射速提高100%。"
+    },
+    "Squall Upgrade Tech": {
+        "message": "颮風升級科技"
+    },
+    "Squall Upgrade Tech increases the lifespan of drones by 50%.": {
+        "message": "颮風升級科技可使這種無人機的壽命延長50%。"
+    },
+    "Stinger Upgrade Tech": {
+        "message": "Stinger 升級科技"
+    },
+    "Stinger Upgrade Tech replaces the anti-air bot's missiles with flak from the Flak Cannon. It fires two projectiles per volley as opposed to the Flak Cannons' four.": {
+        "message": "Stinger 升級科技可將這種防空機器人的導彈換成高射炮坦克上的高射炮。不過與高射炮坦克不同，它每次只能發射兩枚炮彈，而非四枚。"
+    },
+    "Stingray Upgrade Tech": {
+        "message": "黃貂魚升級科技"
+    },
+    "Stingray Upgrade Tech enables interception of tactical missiles by the missile ship and increases vision and radar radius by 50%.": {
+        "message": "黃貂魚升級科技可使這種導彈艦艇具備攔截戰術導彈的能力，並使其視野和雷達範圍擴大50%。"
+    },
+    "Stitch Upgrade Tech": {
+        "message": "Stitch 升級科技"
+    },
+    "Stitch Upgrade Tech allows the assisting of all builds by the combat fabricator.": {
+        "message": "Stitch 升級科技可使這種作戰建造兵具備協助進行所有建造工作的能力。"
+    },
+    "Storm Upgrade Tech": {
+        "message": "風暴升級科技"
+    },
+    "Storm Upgrade Tech enables interception of tactical missiles by the flak tank.": {
+        "message": "風暴升級科技可使這種高射炮坦克具備攔截戰術導彈的能力。"
+    },
+    "Stryker Upgrade Tech": {
+        "message": "Stryker 升級科技"
+    },
+    "Stryker Upgrade Tech increases the rate of fire of the attack vehicle by 300%, but it fires in bursts and requires energy to recharge.": {
+        "message": "Stryker 升級科技可使這種攻擊型載具的射速提高300%，但只能連續掃射一小段時間，並且需要能源來充能。"
+    },
+    "Sudden Death": {
+        "message": "驟死賽"
+    },
+    "Super Weapon Fabrication Tech": {
+        "message": "超級武器建造科技"
+    },
+    "Super Weapon Fabrication Tech reduces metal build costs of all nuclear missiles, Halley Rockets, and metal planet control modules by 75%. Tech to build super weapons is required.": {
+        "message": "超級武器建造科技可使建造所有核導彈、哈雷火箭和金屬行星控制模塊時需要消耗的金屬量減少75%。需要建造武器科技。"
+    },
+    "Surrender": {
+        "message": "投降"
+    },
+    "System Lore": {
+        "message": "星系背景"
+    },
+    "System Scaling": {
+        "message": "按比例調整星系規模"
+    },
+    "System scaling": {
+        "message": "按比例調整星系規模"
+    },
+    "System size determined by distance into the galaxy.": {
+        "message": "星系大小由進入星系的距離決定。"
+    },
+    "Teleporter Upgrade Tech": {
+        "message": "傳送站升級科技"
+    },
+    "Teleporter Upgrade Tech removes all energy consumption and efficiency requirements from the interplanetary teleporter and makes it invisible to radar.": {
+        "message": "傳送站升級科技可抹除這種星際傳送器的一切能耗與效率要求，並使其無法被雷達探測到。"
+    },
+    "Temperature:": {
+        "message": "温度："
+    },
+    "This Commander likes to raid and has modified its blueprints to that end. Units are twice as fast and 30% cheaper but have damage output decreased by 50%.": {
+        "message": "這位指揮官喜歡突襲，為此還特地修改了自己的藍圖。各單位速度比普通單位快一倍，造價低30%，但傷害輸出也會降低50%。"
+    },
+    "This Commander prefers quality over quantity and has modified its units to that end. 30% more health, 30% more damage and splash, but 25% slower, and with 30% higher build costs.": {
+        "message": "這位指揮官重質不重量，為此還特地修改了自己手下單位的藍圖。生命值、傷害和濺射傷害比普通單位高30%，但速度要慢25%，建造時所需的資源也要多30%。"
+    },
+    "Titan": {
+        "message": "泰坦"
+    },
+    "Titan Tech": {
+        "message": "泰坦科技"
+    },
+    "Torpedo Launcher Upgrade Tech": {
+        "message": "魚雷發射器升級科技"
+    },
+    "Torpedo Launcher Upgrade Tech enables the targeting of hover and coastal naval units by the Torpedo Launcher.": {
+        "message": "魚雷發射器升級科技可使魚雷發射器具備瞄準懸浮單位與沿海海軍單位的能力。"
+    },
+    "Tougher commanders": {
+        "message": "較為強悍的指揮官"
+    },
+    "Typhoon Upgrade Tech": {
+        "message": "颱風升級科技"
+    },
+    "Typhoon Upgrade Tech doubles the number of drones held by the Typhoon and any other unit with drones.": {
+        "message": "颱風升級科技可使颱風及其他任何擁有無人機的單位所擁有的無人機數量增加一倍。"
+    },
+    "Umbrella Upgrade Tech": {
+        "message": "雨傘升級科技"
+    },
+    "Umbrella Upgrade Tech enables the targeting of land and surface naval units by anti-orbital defenses.": {
+        "message": "雨傘升級科技可使對軌道防禦單位具備瞄準地面單位與水面海軍單位的能力。"
+    },
+    "Unit Cannon Upgrade Tech": {
+        "message": "單位大炮升級技術"
+    },
+    "Unit Cannon Upgrade Tech doubles the launch capacity of this interplanetary transport.": {
+        "message": "單位大炮升級科技可使這種星際運輸工具的運載容量提高一倍。"
+    },
+    "Unknown Faction": {
+        "message": "未知派系"
+    },
+    "Vanguard Upgrade Tech": {
+        "message": "先鋒升級科技"
+    },
+    "Vanguard Upgrade Tech makes the heavy tank amphibious.": {
+        "message": "先鋒升級科技可使這種重型坦克得以兩棲。"
+    },
+    "Vast": {
+        "message": "廣袤"
+    },
+    "Vehicle Ammunition Tech": {
+        "message": "載具彈藥科技"
+    },
+    "Vehicle Ammunition Tech increases damage of all vehicles by 25%": {
+        "message": "載具彈藥科技可使所有載具的傷害增加25%"
+    },
+    "Vehicle Armor Tech": {
+        "message": "載具裝甲科技"
+    },
+    "Vehicle Armor Tech increases health of all vehicles by 50%": {
+        "message": "載具裝甲科技可使所有載具的生命值增加50%"
+    },
+    "Vehicle Combat Tech": {
+        "message": "載具作戰科技"
+    },
+    "Vehicle Combat Tech increases speed of all vehicles by 50%, health by 50%, and damage by 25%": {
+        "message": "載具作戰科技可使所有載具的速度提升50%，生命值增加50%，傷害增加25%"
+    },
+    "Vehicle Engine Tech": {
+        "message": "載具引擎科技"
+    },
+    "Vehicle Engine Tech increases speed of all vehicles by 50%": {
+        "message": "載具引擎科技可使所有載具的速度提升50%"
+    },
+    "Vehicle Fabrication Tech": {
+        "message": "載具建造科技"
+    },
+    "Vehicle Fabrication Tech reduces metal build costs of all vehicles by 25%": {
+        "message": "載具建造科技可使所有載具的金屬建造成本降低25%"
+    },
+    "Vehicle Factory Upgrade Tech": {
+        "message": "載具工廠升級科技"
+    },
+    "Vehicle Factory Upgrade Tech enables the building of advanced units by basic vehicle manufacturing.": {
+        "message": "載具工廠升級科技可使初級載具建造兵具備建造高級單位的能力。"
+    },
+    "Version:": {
+        "message": "版本："
+    },
+    "Wall Upgrade Tech": {
+        "message": "圍牆升級科技"
+    },
+    "Wall Upgrade Tech increases the health of walls by 50%.": {
+        "message": "圍牆升級科技可使圍牆的生命值增加50%。"
+    },
+    "Water Depth:": {
+        "message": "水深："
+    },
+    "Water Height:": {
+        "message": "水高："
+    },
+    "Wyrm Upgrade Tech": {
+        "message": "幻龍升級科技"
+    },
+    "Wyrm Upgrade Tech replaces the siege bomber's bombs with drones.": {
+        "message": "幻龍升級科技可將攻城轟炸機的炸彈換成無人機。"
+    },
+    "Your technology bonuses": {
+        "message": "你的科技加成"
+    },
+    "Zeus Upgrade Tech": {
+        "message": "宙斯升級科技"
+    },
+    "Zeus Upgrade Tech adds the ability for the lightning titan to move between planets.": {
+        "message": "宙斯升級科技可提高這種閃電型泰坦的星際移動能力。"
+    },
+    "Combat units enhanced": {
+        "message": "作戰單位增強"
+    },
+    "Pelter Upgrade Tech": {
+        "message": "Pelter 升級科技"
+    },
+    "Pelter Upgrade Tech triples the number of shots fired per volley by the artillery while also tripling their deviation from target.": {
+        "message": "Pelter 升級科技可使這種火炮每次射出的子彈數量變成原來的三倍，同時偏離目標的程度也變成原來的三倍。"
+    },
+    "All-terrain": {
+        "message": "全地形"
+    },
+    "Artillery": {
+        "message": "火炮"
+    },
+    "Assault": {
+        "message": "突擊"
+    },
+    "Boomer": {
+        "message": "轟炸"
+    },
+    "Fortress": {
+        "message": "堡壘"
+    },
+    "Heavy": {
+        "message": "重型"
+    },
+    "Infernodier": {
+        "message": "煉獄"
+    },
+    "Nuker": {
+        "message": "核彈"
+    },
+    "Omega Upgrade Tech allows all the orbital battleship's lasers to target the planet.": {
+        "message": "歐米茄升級科技可以讓這種軌道戰艦的所有激光炮都具備瞄準星球的能力。"
+    },
+    "PENCHANT": {
+        "message": "PENCHANT"
+    },
+    "QUELLER": {
+        "message": "QUELLER"
+    },
+    "Raider": {
+        "message": "突襲"
+    },
+    "Sniper": {
+        "message": "狙擊"
+    },
+    "TITANS": {
+        "message": "TITANS"
+    },
+    "TITANS: base game AI<br>QUELLER: greater challenge at the cost of personality and performance<BR>PENCHANT: increased personality": {
+        "message": "TITANS：遊戲本體 AI<br>QUELLER：以犧牲個性和性能為代價，換取更高挑戰<BR>PENCHANT：增加個性"
+    },
+    "Starts with a 25% boost to metal and energy production and is able to build metal and energy storage. Unable to build close-range armored tanks.": {
+        "message": "開局時金屬和能源產量提高25%，並且能夠建造金屬倉庫和能源倉庫。無法建造近距離裝甲坦克。"
+    }
+}

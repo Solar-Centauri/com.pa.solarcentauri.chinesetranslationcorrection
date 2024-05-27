@@ -1,1 +1,17 @@
-{}
+{
+    "Commander Basics": {
+        "message": "關於指揮官的基礎知識"
+    },
+    "Commander starts with energy and metal resources": {
+        "message": "指揮官開局時自帶能源與金屬資源"
+    },
+    "Keep your Commander alive or the match is over": {
+        "message": "請確保我方指揮官存活，否則本場比賽即宣告結束"
+    },
+    "PA Guide: Commander Basics": {
+        "message": "PA 指南：關於指揮官的基礎知識"
+    },
+    "Select a landing zone near metal spots": {
+        "message": "在金屬儲藏點附近選擇一片着陸區"
+    }
+}

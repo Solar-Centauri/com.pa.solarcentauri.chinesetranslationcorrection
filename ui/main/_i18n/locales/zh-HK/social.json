@@ -1,24 +1,24 @@
 {
     "APPROVE": {
-        "message": "核准"
+        "message": "批准"
     },
     "APPROVED USERS": {
-        "message": "核准的使用者"
+        "message": "已批准的用户"
     },
     "Add": {
-        "message": "新增"
+        "message": "添加"
     },
     "Add Contacts": {
-        "message": "新增聯絡人"
+        "message": "添加聯繫人"
     },
     "Add a Friend": {
-        "message": "新增朋友"
+        "message": "添加好友"
     },
     "BLOCK": {
-        "message": "封鎖"
+        "message": "拉黑"
     },
     "BLOCKED USERS": {
-        "message": "封鎖的使用者"
+        "message": "已拉黑的用户"
     },
     "Cancel": {
         "message": "取消"
@@ -27,22 +27,22 @@
         "message": "關閉"
     },
     "Contact List Updated": {
-        "message": "聯絡人清單已更新"
+        "message": "聯繫人列表已更新"
     },
     "Contact Not Found": {
-        "message": "找不到聯絡人"
+        "message": "找不到聯繫人"
     },
     "Current Nickname:": {
-        "message": "目前暱稱："
+        "message": "當前暱稱："
     },
     "Dismiss": {
-        "message": "解散"
+        "message": "忽略"
     },
     "Filter contacts by tag:": {
-        "message": "按標記篩選聯絡人："
+        "message": "按標籤篩選聯繫人："
     },
     "Games you make will be hidden to these players.": {
-        "message": "你的遊戲將對這些玩家隱藏。"
+        "message": "這些玩家將無法看到您所創建的戰局。"
     },
     "Name:": {
         "message": "名稱："
@@ -51,13 +51,13 @@
         "message": "新暱稱："
     },
     "New Tag:": {
-        "message": "新標記："
+        "message": "新標籤："
     },
     "Players you have encountered recently.": {
-        "message": "最近遇到的玩家。"
+        "message": "您最近遇到的玩家。"
     },
     "Private games you make will only be visible to these players.": {
-        "message": "你的私人遊戲只有這些玩家能看到。"
+        "message": "只有這些玩家能看到您所創建的私人戰局。"
     },
     "RECENT": {
         "message": "最近"
@@ -66,37 +66,37 @@
         "message": "移除"
     },
     "RENAME": {
-        "message": "重新命名"
+        "message": "改名"
     },
     "Refresh Contacts": {
-        "message": "重新整理聯絡人"
+        "message": "刷新聯繫人"
     },
     "Refreshing friends list.....": {
-        "message": "重新整理朋友清單……"
+        "message": "正在刷新好友列表……"
     },
     "Rename": {
-        "message": "重新命名"
+        "message": "改名"
     },
     "Rename Friend": {
-        "message": "重新命名朋友"
+        "message": "給好友改名"
     },
     "SOCIAL": {
         "message": "社交"
     },
     "Tag": {
-        "message": "標記"
+        "message": "標籤"
     },
     "Tag Friend:": {
-        "message": "標記朋友："
+        "message": "為好友加上標籤："
     },
     "Tags:": {
-        "message": "標記："
+        "message": "標籤："
     },
     "UBERDEX": {
         "message": "UBERDEX"
     },
     "Uber Name": {
-        "message": "Uber 名稱"
+        "message": "用户名"
     },
     "or": {
         "message": "或"

@@ -1,1 +1,332 @@
-{}
+{
+    "ATTEMPTS REMAINING: __num_attempts_remaining__": {
+        "message": "剩餘嘗試次數：__num_attempts_remaining__"
+    },
+    "Active": {
+        "message": "已啟用"
+    },
+    "Active Client": {
+        "message": "已啟用客户端模組"
+    },
+    "Active Server": {
+        "message": "已啟用服務器模組"
+    },
+    "Active mods will be automatically updated during startup and after each game.": {
+        "message": "每次打開或結束遊戲後，都會自動更新已啟用的模組。"
+    },
+    "Active/Inactive": {
+        "message": "已啟用/未啟用"
+    },
+    "Available": {
+        "message": "可用"
+    },
+    "Available mod conflicts with file system mod installed at:": {
+        "message": "可用模組與安裝在以下路徑的文件系統模組發生衝突："
+    },
+    "BIG GAME REPLAYS": {
+        "message": "大型戰局回放"
+    },
+    "Build:": {
+        "message": "版本："
+    },
+    "By": {
+        "message": "製作者："
+    },
+    "CHECKING FILE SYSTEM MODS": {
+        "message": "正在檢查文件系統模組"
+    },
+    "COMMUNITY MODS": {
+        "message": "社區模組"
+    },
+    "COMMUNITY SUPPORT": {
+        "message": "社區支持"
+    },
+    "CONNECTION TO SERVER FAILED": {
+        "message": "連接服務器失敗"
+    },
+    "Client Mods": {
+        "message": "客户端模組"
+    },
+    "Client mods are mounted (loaded) only on your client and do not affect other players.": {
+        "message": "客户端模組僅會安裝（載入）到您自己的客户端上，並不會影響其他玩家。"
+    },
+    "Client mods cannot change units or unit specs in AI skirmish or multiplayer games.": {
+        "message": "客户端模組無法更改電腦散兵戰或多人遊戲中的單位或單位規格。"
+    },
+    "Community Mods": {
+        "message": "社區模組"
+    },
+    "Companion Client Mods": {
+        "message": "附屬客户端模組"
+    },
+    "Companion mods are special client mods that are temporarily mounted automatically when needed by server mods.": {
+        "message": "附屬模組是一種特殊的服務器模組，會在服務器模組有需要的時候自動進行臨時安裝。"
+    },
+    "Conflicting Unit Server Mods:": {
+        "message": "發生衝突的單位服務器模組："
+    },
+    "DOWNLOADING SERVER MODS": {
+        "message": "正在下載服務器模組"
+    },
+    "Date:": {
+        "message": "日期："
+    },
+    "Dependencies": {
+        "message": "依賴"
+    },
+    "Details": {
+        "message": "詳情"
+    },
+    "Disable": {
+        "message": "禁用"
+    },
+    "Disable Nukes": {
+        "message": "禁用核武器"
+    },
+    "Disable Ragnaroks": {
+        "message": "禁用 Ragnarok"
+    },
+    "Disable Titans": {
+        "message": "禁用 Titan"
+    },
+    "Disabled": {
+        "message": "已禁用"
+    },
+    "Downloads": {
+        "message": "下載內容"
+    },
+    "Enable": {
+        "message": "啟用"
+    },
+    "Enable All": {
+        "message": "全部啟用"
+    },
+    "Enabled Client": {
+        "message": "已啟用的客户端"
+    },
+    "Enabled Server": {
+        "message": "已啟用的服務器"
+    },
+    "Enabled client mods for only your client in any games you play or spectate": {
+        "message": "您所遊玩或旁觀的任何戰局中僅在您自己的客户端上啟用的客户端模組"
+    },
+    "Enabled/Disabled": {
+        "message": "已啟用/已禁用"
+    },
+    "Filter": {
+        "message": "篩選"
+    },
+    "Identifier:": {
+        "message": "標識符："
+    },
+    "If not active, companion mods are automatically downloaded / updated then mounted when you join or spectate an AI skirmish or multiplayer game then unmounted when the game finishes.": {
+        "message": "在您加入或旁觀電腦散兵戰或多人遊戲時，未啟用的附屬模組會自動下載/更新並安裝，待戰局結束後則會自動卸載。"
+    },
+    "Install": {
+        "message": "安裝"
+    },
+    "Installed": {
+        "message": "已安裝"
+    },
+    "Installed Path:": {
+        "message": "安裝路徑："
+    },
+    "Installed server & client mods in the download cache": {
+        "message": "下載緩存中已安裝的服務器和客户端模組"
+    },
+    "Installing Mods": {
+        "message": "正在安裝模組"
+    },
+    "Installing a mod will download a compressed zip of the mod to your local PA download cache.": {
+        "message": "在安裝模組的過程中，會有一個模組壓縮包被下載到您的本地 PA 下載緩存中。"
+    },
+    "Large unit server mods like Legion Expansion uses companion mods to reduce the size of server mods and their upload / download times.": {
+        "message": "像《Legion Expansion》這種體積較大的單位服務器模組，都會利用附屬模組來壓縮服務器模組的體積，減少上傳和下載的時間。"
+    },
+    "Large unit server mods may take some time to upload / download if you have slow internet upload / download speeds.": {
+        "message": "如果您的網速較慢，上傳或下載體積較大的單位服務器模組可能需要等待一段時間。"
+    },
+    "Local file system mod installed at:": {
+        "message": "本地文件系統模組安裝在："
+    },
+    "MODS DISABLED BY --NOMODS": {
+        "message": "禁用模組 --NOMODS"
+    },
+    "MOUNTING CLIENT MODS": {
+        "message": "正在安裝客户端模組"
+    },
+    "MOUNTING CLIENT MODS IN OFFLINE MODE": {
+        "message": "正在安裝離線模式下使用的客户端模組"
+    },
+    "MOUNTING COMPANION MODS... PLEASE WAIT": {
+        "message": "正在安裝配套模組……請稍等"
+    },
+    "MOUNTING SERVER MODS": {
+        "message": "正在安裝服務器模組"
+    },
+    "Merge (experimental)": {
+        "message": "合併（實驗性功能）"
+    },
+    "Mods available to install": {
+        "message": "可供安裝的模組"
+    },
+    "Most installed mods can be used in offline mode without an internet connection (some mods may require an internet connection).": {
+        "message": "絕大多數已安裝的模組均可在離線模式下運行（部分模組可能需要網絡連接）。"
+    },
+    "Multiple conflicting unit server mods may cause issues like no build bar and server crashes.": {
+        "message": "同時存在多個相互衝突的單位服務器模組，可能會導致建造條消失、服務器崩潰等問題的發生。"
+    },
+    "Name": {
+        "message": "名稱"
+    },
+    "No": {
+        "message": "否 "
+    },
+    "No __description__ mods match your criteria": {
+        "message": "沒有符合您篩選標準的__description__模組"
+    },
+    "No units match your criteria": {
+        "message": "沒有符合您篩選條件的單位"
+    },
+    "OFFICIAL DISCORD": {
+        "message": "官方 Discord 頻道"
+    },
+    "OFFICIAL GUIDES": {
+        "message": "官方指南"
+    },
+    "OFFICIAL SUPPORT": {
+        "message": "官方支持"
+    },
+    "OK": {
+        "message": "好的"
+    },
+    "Offline Mode": {
+        "message": "離線模式"
+    },
+    "Only server mods can change the unit roster or unit specs in an AI skirmish or multiplayer game and are downloaded from the server by each client to prevent cheating.": {
+        "message": "只有服務器模組才能更改電腦散兵戰或多人遊戲中的單位名單和單位規格。為避免作弊情況的發生，每個客户端都要通過服務器來下載服務器模組。"
+    },
+    "Priority": {
+        "message": "優先度"
+    },
+    "Priority:": {
+        "message": "優先度："
+    },
+    "Privacy Policy": {
+        "message": "隱私政策"
+    },
+    "REMOUNTING ACTIVE CLIENT MODS": {
+        "message": "正在重新安裝已啟用的客户端模組"
+    },
+    "RESETTING SERVER MODS": {
+        "message": "正在重置服務器模組"
+    },
+    "Recommended": {
+        "message": "推薦"
+    },
+    "Recommended mods": {
+        "message": "推薦模組"
+    },
+    "Reload File System Mods": {
+        "message": "重新載入文件系統模組"
+    },
+    "Returning to Main Menu": {
+        "message": "正在返回主菜單"
+    },
+    "Season ends __date__": {
+        "message": "賽季結束日期為__date__"
+    },
+    "Server Mods": {
+        "message": "服務器模組"
+    },
+    "Servers mods are uploaded to the server when you create an AI skirmish or multiplayer game then downloaded and mounted (loaded) on each client for all players and spectators when they join your game.": {
+        "message": "創建電腦散兵戰或多人遊戲後，服務器模組會被上傳到服務器，此後若有玩家和觀眾加入此遊戲，則其客户端會下載並安裝（載入）該模組。"
+    },
+    "Size:": {
+        "message": "大小："
+    },
+    "Sort": {
+        "message": "排序"
+    },
+    "TO PLAY 1V1 RANKED USE COMMUNITY MODS AND AVOID ISSUES <br />Please follow the wiki instructions to remove PAMM and your filesystem mods": {
+        "message": "為避免在1對1排位賽中因使用社區模組而中發生問題<br />請按維基上的説明刪除 PAMM 和文件系統模組"
+    },
+    "Type": {
+        "message": "類型"
+    },
+    "UI Scenes": {
+        "message": "UI 場景"
+    },
+    "UNIT DATABASE": {
+        "message": "單位資料庫"
+    },
+    "UPDATING ACTIVE MODS": {
+        "message": "正在更新已啟用的模組"
+    },
+    "UPDATING AND REMOUNTING ACTIVE CLIENT MODS": {
+        "message": "正在更新和重新安裝已啟用的客户端模組"
+    },
+    "UPDATING AVAILABLE MODS": {
+        "message": "正在更新可用模組"
+    },
+    "UPDATING COMMUNITY MODS FILES": {
+        "message": "正在更新社區模組文件"
+    },
+    "Uninstall": {
+        "message": "卸載"
+    },
+    "Unit Restrictions": {
+        "message": "單位限制"
+    },
+    "Unit restrictions do not apply to Galactic War.": {
+        "message": "單位限制不適用於《Galactic War》。"
+    },
+    "Unit restrictions to disable specific units for all players in AI skirmish & multiplayer games you create": {
+        "message": "單位限制，即在您自己創建的電腦散兵戰或多人遊戲中禁止所有玩家使用某些特定單位"
+    },
+    "Units": {
+        "message": "單位"
+    },
+    "Units can be disabled for all players including the AI in AI skirmish or multiplayer games you create.": {
+        "message": "在您自己創建的電腦散兵戰或多人遊戲中，您可以禁止所有玩家（包括電腦）使用某些單位。"
+    },
+    "Units matching your criteria": {
+        "message": "符合您篩選標準的單位"
+    },
+    "Units:": {
+        "message": "單位數："
+    },
+    "Updated": {
+        "message": "更新時間"
+    },
+    "Used By": {
+        "message": "使用者"
+    },
+    "Version:": {
+        "message": "版本："
+    },
+    "__description__ mods matching your criteria": {
+        "message": "符合您篩選標準的__description__模組"
+    },
+    "about-community-mods": {
+        "message": "「社區模組」是由 <a class=\"community-mods-link\" data-bind=\"click: openPaLobby\">palobby.com <span class=\"community-mods-link-icon\">&#xe164;</span></a>為 <a class=\"community-mods-link\" data-bind=\"click: openWebsite\">Planetary Annihilation Inc <span class=\"community-mods-link-icon\">&#xe164;</span></a>提供的一項服務，可優化原版遊戲，修復各種故障，支持<a class=\"community-mods-link\" data-bind=\"click: openLegionExpansion\">《Legion Expansion》<span class=\"community-mods-link-icon\">&#xe164;</span></a>等數百個由社區玩家制作的模組。"
+    },
+    "community-mods-intro": {
+        "message": "「社區模組」和「社區聊天室」是由 <a class=\"link\" data-bind=\"click: openPaLobby, click_sound: 'default', rollover_sound: 'default'\">palobby.com <span style=\"padding-right: 5px; font-size: 12px; font-family:'Glyphicons Halflings'\">&#xe164;</span></a>為 <a class=\"link\" data-bind=\"click: openWebsite, click_sound: 'default', rollover_sound: 'default'\">Planetary Annihilation Inc <span style=\"padding-right: 5px; font-size: 12px; font-family:'Glyphicons Halflings'\">&#xe164;</span></a> 提供的服務，可優化原版遊戲，修復各種故障，支持<a class=\"link\" data-bind=\"click: openLegionExpansion, click_sound: 'default', rollover_sound: 'default'\">《Legion Expansion》<span style=\"padding-right: 5px; font-size: 12px; font-family:'Glyphicons Halflings'\">&#xe164;</span></a>等數百個由社區玩家制作的模組。"
+    },
+    "privacy policy": {
+        "message": "隱私政策"
+    },
+    "Companions": {
+        "message": "伴生"
+    },
+    "Enable Legion Community Expansion AI": {
+        "message": "啟用軍團社區擴展包 AI"
+    },
+    "__rank_title__ Rank": {
+        "message": "__rank_title__排位"
+    },
+    "Systems": {
+        "message": "星系"
+    }
+}
