@@ -849,7 +849,7 @@
         "message": "开/关音频记录"
     },
     "toggle build orders": {
-        "message": "开/关建造指令"
+        "message": "开/关循环建造"
     },
     "toggle console": {
         "message": "开/关控制台"

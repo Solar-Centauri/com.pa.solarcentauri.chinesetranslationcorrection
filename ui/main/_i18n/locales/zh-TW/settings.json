@@ -843,7 +843,7 @@
         "message": "切換音訊記錄"
     },
     "toggle build orders": {
-        "message": "切換建造指令"
+        "message": "切換迴圈建造"
     },
     "toggle console": {
         "message": "切換控制台"
