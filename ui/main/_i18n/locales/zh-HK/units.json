@@ -200,7 +200,7 @@
     "Bluehawk Tactical Missile": {
         "message": "藍鷹戰術導彈"
     },
-    "Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.": {
+    "Bomb bot- Self-Destructs to deal very heavy damage over an area. Extremely fast.": {
         "message": "自爆機器人 - 可自行引爆，造成非常高的區域傷害。速度極快。"
     },
     "Bot Factory": {
@@ -224,8 +224,8 @@
     "Deep Space Radar - System wide planetary radar.": {
         "message": "深空雷達 - 能覆蓋整個星系的星球雷達。"
     },
-    "Deep Water Destroyer - Medium range with high damage. Very durable. Attacks land, sea and undersea targets.": {
-        "message": "深海驅逐艦 - 中等射程。傷害高。非常結實。可攻擊地面、海上和海底目標。"
+    "Deep Water Destroyer - Medium range with high damage. Very durable. Attacks land and sea targets.": {
+        "message": "深海驅逐艦 - 中等射程。傷害高。非常結實。可攻擊地面、海上目標。"
     },
     "Defense Satellite - Heavy orbital offensive and defensive platform with basic laser.": {
         "message": "防禦衞星 - 重型軌道進攻與防禦平臺，配有初級激光炮。"
@@ -293,8 +293,8 @@
     "Gunship - Fast. Cheap. Durable. Attacks land and sea targets.": {
         "message": "炮艦 - 速度快。價格低廉。結實。可攻擊地面和海上目標。"
     },
-    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar and radar jamming.": {
-        "message": "重型坦克 - 射程短，高級重型裝甲載具，配有移動雷達和雷達干擾功能。"
+    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar.": {
+        "message": "重型坦克 - 射程短，高級重型裝甲載具，配有移動雷達功能。"
     },
     "Heavy Tank - Advanced short range, heavily armored vehicle.": {
         "message": "重型坦克 - 射程短，高級重型裝甲載具。"
@@ -314,8 +314,8 @@
     "Interplanetary Teleporter: Teleports units between linked Teleporters.": {
         "message": "星際傳送站 - 相聯傳送站之間的傳送單位。"
     },
-    "Interplanetary Transport - Builds and launches up to 12 units at once anywhere in the system.": {
-        "message": "星際運輸 - 最多可建造12個單位，並一次性發射到此星系中的任意位置。"
+    "Interplanetary Transport - Builds and launches up to 16 units at once anywhere in the system.": {
+        "message": "星際運輸 - 最多可建造16個單位，並一次性發射到此星系中的任意位置。"
     },
     "Invasion Titan - Can link with a teleporter to send units directly to planet surface. Attacks everything.": {
         "message": "侵略型泰坦 - 可與一個傳送站相聯，從而直接將單位運送到星球表面。可攻擊所有目標。"
@@ -506,8 +506,8 @@
     "Super Weapon - Build five on a metal planet to activate the Annihilazer.": {
         "message": "超級武器 - 在同一顆金屬星球上建造五個超級武器，即可激活殲滅者。"
     },
-    "Support Barge - Repairs damaged ships. Builds and detects mines. Cannot help build units. Water hover.": {
-        "message": "支援駁船 - 可維修受損艦船。可建造和探測地雷。無法建造其他單位。可在水面上懸停。"
+    "Support Barge - Repairs damaged ships and auto reclaims wreckage. Builds and detects mines. Cannot help build units. Water hover.": {
+        "message": "支援駁船 - 可維修受損艦船，並自動回收殘骸。可建造和探測地雷。無法建造其他單位。可在水面上懸停。"
     },
     "Support Platform - Repairs nearby units and auto reclaims wreckage. Intercepts homing missiles. Does not attack.": {
         "message": "支援平臺 - 可維修附近單位，並自動回收殘骸。可攔截跟蹤導彈。無法攻擊。"
@@ -544,5 +544,11 @@
     },
     "Stinger Anti-Air Missile": {
         "message": "Stinger 防空導彈"
+    },
+    "Radar Jamming Station": {
+        "message": "雷達干擾器"
+    },
+    "Radar Jammer - Hides allied units from enemy radar in a radius around itself. Consumes power.": {
+        "message": "雷達干擾器 - 使範圍內的友軍單位不被敵人雷達發現。消耗電力。"
     }
 }

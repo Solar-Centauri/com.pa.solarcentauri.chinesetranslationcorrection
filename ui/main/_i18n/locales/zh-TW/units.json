@@ -159,7 +159,7 @@
         "message": "基礎建造單位 - 建造基礎海戰建物。"
     },
     "Basic Fabricator - Builds basic naval structures. Water hover.": {
-        "message": "基礎建造單位 - 建造基礎海戰建物。建於水上。"
+        "message": "基礎建造單位 - 建造基礎海戰建物。懸浮於水上。"
     },
     "Basic Fabricator - Builds basic structures. Durable. More powerful than other fabricators.": {
         "message": "基礎建造單位 - 建造基礎建物。很耐用，比其他製造單位更強大。"
@@ -200,7 +200,7 @@
     "Bluehawk Tactical Missile": {
         "message": "藍鷹戰術飛彈"
     },
-    "Bomb Bot - Self destructs to deal very heavy damage over a nearby area. Extremely fast.": {
+    "Bomb bot- Self-Destructs to deal very heavy damage over an area. Extremely fast.": {
         "message": "炸彈機器人 - 自毀以對附近區域造成重度傷害。非常快。"
     },
     "Bot Factory": {
@@ -224,8 +224,8 @@
     "Deep Space Radar - System wide planetary radar.": {
         "message": "深太空雷達 - 全星系範圍的行星雷達。"
     },
-    "Deep Water Destroyer - Medium range with high damage. Very durable. Attacks land, sea and undersea targets.": {
-        "message": "深水驅逐艦 - 中程高傷害。非常耐用。攻擊陸地、海上和海底目標。"
+    "Deep Water Destroyer - Medium range with high damage. Very durable. Attacks land and sea targets.": {
+        "message": "深水驅逐艦 - 中程高傷害。非常耐用。攻擊陸地、海上目標。"
     },
     "Defense Satellite - Heavy orbital offensive and defensive platform with basic laser.": {
         "message": "防禦衛星 - 重型軌道攻防平台，配備基礎雷射。"
@@ -288,13 +288,13 @@
         "message": "砲艇 - 便宜。快速。消耗品。攻擊陸地和海上目標。"
     },
     "Gunboat - Cheap. Fast. Expendable. Water hover. Attacks land and sea targets.": {
-        "message": "砲艇 - 便宜。快速。消耗品。水上單位。攻擊陸地和海上目標。"
+        "message": "砲艇 - 便宜。快速。消耗品。懸浮單位。攻擊陸地和海上目標。"
     },
     "Gunship - Fast. Cheap. Durable. Attacks land and sea targets.": {
         "message": "武裝直升機 - 快速，便宜。耐用。攻擊陸地和海上目標。"
     },
-    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar and radar jamming.": {
-        "message": "重型坦克 - 先進的短程重型裝甲車，配備移動雷達與雷達干擾功能。"
+    "Heavy Tank - Advanced short range, heavily armored vehicle with mobile radar.": {
+        "message": "重型坦克 - 先進的短程重型裝甲車，配備移動雷達功能。"
     },
     "Heavy Tank - Advanced short range, heavily armored vehicle.": {
         "message": "重型坦克 - 進階短程重裝甲載具。"
@@ -303,10 +303,10 @@
         "message": "馬蜂戰術飛彈"
     },
     "Hover Destroyer - Long Range. Durable. Hover. Attacks land and sea targets.": {
-        "message": "盤旋驅逐艦 - 長程。耐用。盤旋。攻擊陸上和海上目標。"
+        "message": "懸浮驅逐艦 - 長程。耐用。懸浮。攻擊陸上和海上目標。"
     },
     "Hover Tank - Fast. Can cross water and lava. Attacks land and sea targets.": {
-        "message": "盤旋坦克 - 快速。可以穿越水和熔岩。攻擊陸上和海上目標。"
+        "message": "懸浮坦克 - 快速。可以穿越水和熔岩。攻擊陸上和海上目標。"
     },
     "Hummingbird Air-To-Air Missile": {
         "message": "蜂鳥空對空飛彈"
@@ -314,8 +314,8 @@
     "Interplanetary Teleporter: Teleports units between linked Teleporters.": {
         "message": "星際傳送站 - 在連線的傳送站之間傳送單位。"
     },
-    "Interplanetary Transport - Builds and launches up to 12 units at once anywhere in the system.": {
-        "message": "星際運輸 - 在星系的任何地方一次建造和發射達 12 個單位。"
+    "Interplanetary Transport - Builds and launches up to 16 units at once anywhere in the system.": {
+        "message": "星際運輸 - 在星系的任何地方一次建造和發射達 16 個單位。"
     },
     "Invasion Titan - Can link with a teleporter to send units directly to planet surface. Attacks everything.": {
         "message": "入侵 Titan - 可以與傳送站連線並將單位直接傳送至行星表面。攻擊任何目標。"
@@ -435,7 +435,7 @@
         "message": "軌道砲平台 - 長程。高傷害。非常低射速。耗用能源。攻擊軌道。"
     },
     "Rolling Fortress - Near invincible. Long range. Heavy damage. Hover. Attacks land and sea targets.": {
-        "message": "滾動堡壘 - 近乎無敵。長程。重傷害。盤旋。攻擊陸上和海上目標。"
+        "message": "滾動堡壘 - 近乎無敵。長程。重傷害。懸浮。攻擊陸上和海上目標。"
     },
     "SR-24 Shield Missile Defense": {
         "message": "SR-24 神盾飛彈防禦系統"
@@ -506,11 +506,11 @@
     "Super Weapon - Build five on a metal planet to activate the Annihilazer.": {
         "message": "超級武器 - 在金屬行星上建造五個，可啟用滅絕雷射。"
     },
-    "Support Barge - Repairs damaged ships. Builds and detects mines. Cannot help build units. Water hover.": {
-        "message": "支援駁船 - 修理受損船艦。建造並偵測地雷。不能協助建造單位。水上單位。"
+    "Support Barge - Repairs damaged ships and auto reclaims wreckage. Builds and detects mines. Cannot help build units. Water hover.": {
+        "message": "支援駁船 - 修理受損船艦，並自動回收殘骸。建造並偵測地雷。不能協助建造單位。懸浮單位。"
     },
     "Support Platform - Repairs nearby units and auto reclaims wreckage. Intercepts homing missiles. Does not attack.": {
-        "message": "支援平台 - 修理附近的單位。攔截導向飛彈。無法攻擊。"
+        "message": "支援平台 - 修理附近的單位，並自動回收殘骸。攔截導向飛彈。無法攻擊。"
     },
     "Tactical Bomber - Long range. High damage tactical missiles. Attacks land and sea targets.": {
         "message": "戰術轟炸機 - 長程。高傷害戰術飛彈。攻擊陸上和海上目標。"
@@ -544,5 +544,11 @@
     },
     "Stinger Anti-Air Missile": {
         "message": "刺針對空飛彈"
+    },
+    "Radar Jamming Station": {
+        "message": "雷達干擾器"
+    },
+    "Radar Jammer - Hides allied units from enemy radar in a radius around itself. Consumes power.": {
+        "message": "雷達干擾器 - 使範圍內的友軍單位不被敵人雷達發現。消耗電力。"
     }
 }

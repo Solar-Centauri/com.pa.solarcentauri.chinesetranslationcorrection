@@ -15,3 +15,7 @@ A temportary planetary annihilation chinese translations correction mod, for tes
 |  ----  | ----  | 
 fabber / fabbers | 建造兵 | 
 Build Bar | 建造栏/建造欄 |  
+
+## known issue 已知问题
+Incompatible with translations provided by other mod
+与其他mod提供的翻译不兼容
